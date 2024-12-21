@@ -1,0 +1,67 @@
+# STOCKHOLM 1.0
+
+1euq_A            ........------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR 1euq_A    PP ........................................................................................................................................................................................................
+SYQ_SCHPO         ........MDQDYEELRAKFTKIGLNETTVKDTLKNKKLSSSLNKVIEETNVGSSGCDRTIGNLLFTLANASLKQKDPKSNAHEAFIASKIVSGDLKTNLQVNAAITYCKDKDTIDESEFDKETGVGVVLTPEQIEQLVGDYVAENKSKILEQRYQLLNPSASALRQHALLKWAPQLEVKQTLDRKFLELLGPKTEQDAA
+#=GR SYQ_SCHPO PP ........589*********************************************************************************************************************************************************************************************
+SYQ_DROME         ..magddl--IAKFQALGMSEQKAKETLKNANVTKNLQLSLAAAGSATLSDGTGMLIYHMATKLKPQTADHLPLLVRYIVEHKLDNTQRVDAALEYLLKCGQSLNANIDLQALEKECGVGVVVTPEQIERTVQAKIKASYKEALLEQRYHFNSFKILQDVRGELKWADAKSVKAAIDVEIFDLLGPKTEADLKPQTKAND
+#=GR SYQ_DROME PP ..****75..6899******************************************************************************************************************************************************************************************
+SYQ_LUPLU         mpakddts-SDKEKSLELFLKIGLDERTAKNTVANNKVTTNLTSVINDAGVTDGCSRTVGNLLYTVATKYPANALPHRPTLLQYIVNSKVKTTAQLDAALSFLSATGSENLDLNKFEEACGVGVEVSTEDIKHAVDEVVEENKATILELRYRVNVGELLGHVRKRLPWADAKVVKQLVDAKLYEILGDRTAADNEKPKKK
+#=GR SYQ_LUPLU PP *******6.6899*******************************************************************************************************************************************************************************************
+P46655            ........----------------------------------------------MTKLFSKVKESIEGIKMPSTLTINGKAPIVAYAELIAARIVNALAPNSIAIKLVDDKKAPAAKLDDATEDVFNKITSKFAAIFDNGDKEQVAKWVNLAQKELVIKNFAKLSQSLETLDSQLNLRTFILGGLKYSAADVACWGALRS
+#=GR P46655    PP ......................................................7899**********************************************************************************************************************************************
+#=GC PP_cons      ........57899*****************************************9*************************************************************************************************************************************************
+#=GC RF           ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1euq_A            ----------------.------------------------------------TNFIRQIIDEDLaSGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDYKGQCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSgNVRYSSDYFDQLHAYAIELINKGLAYVDELTPEQIREYRGTL-TQPGKNSPYRDRSVEEN
+#=GR 1euq_A    PP .....................................................6899***************************************************************************************************************************98.77777777777777777
+SYQ_SCHPO         AGKKKGAKAKNSKQKT.VDSGKAKEQKIVSEQSKKYNMFEEGFLAKLHKPGGNTQLIPERMKEHL.QATGGGVVTRFPPEPNGYLHIGHSKAIAVNFGFARYHNGVCYLRFDDTNPEAEEERYFESIKDLVAWLGFQPY.KITYSSDYFDKLYELAEELIKRDKAYVCHCTDAEIKKARGGEERGPRYACVHRDRPIEES
+#=GR SYQ_SCHPO PP ****************.************************************************.*************************************************************************.************************************************************
+SYQ_DROME         KPKAAKPKAEVTPAAQ.TAEAASDGATTISELMKTKVHFHAPGENFKADGYVVTEHTERLLKEHL.ARTGGKVHTRFPPEPNGILHIGHAKAININFGYAAAHDGVCYLRYDDTNPEKEEEKFFLAIKEMVEWLGYKPF.KITYSSDNFQQLYEWAVVLINKGLAYVCHQKAEELKGFNPKP--SPWRERPIEESLRLFE
+#=GR SYQ_DROME PP ****************.************************************************.*************************************************************************.******************************************..****************
+SYQ_LUPLU         KEKPAKVEDKAAPVATsEKPLEEDLNPYLIFPNPEDNFKVHTEVPFSDGNILRCCNTKALLEKHL.KATGGKVLTRFPPEPNGYLHIGHAKAMFVDFGLAKDRNGGCYLRFDDTNPEAEKKEYIDHIEEIVQWMGWEPF.KITYTSNYFQELYEFAVELIRRGHAYVDHQTADEIKEYREKKLNSPWRDRPISESLKLFE
+#=GR SYQ_LUPLU PP ****************8999*********************************************.*************************************************************************.************************************************************
+P46655            NGMCGSIIKNKVDVNV.SRWYTLLEMDPIFGEAHDFLSKSLLELKKSANVGKKKETHKANFEIDLpDAKMGEVVTRFPPEPSGYLHIGHAKAALLNQYFAQAYKGKLIIRFDDTNPSKEKEEFQDSILEDLDLLGIKGD.RITYSSDYFQEMYDYCVQMIKDGKAYCDDTPTEKMREERMDGVASARRDRSVEENLRIFT
+#=GR P46655    PP ****************.**************************************************************************************************************************.************************************************************
+#=GC PP_cons      ****************.************************************9***********.*************************************************************************.*******************************************99999999999999999
+#=GC RF           xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1euq_A            LALFEKMRAGGFeegkACLRAKIDMASPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDFTHCISDALEGITHSLCTLEFQDNRRLYDWVLDNITIPvHPRQYEFSRLNLEYTVMSKRKLNLLVTDKHVEGWDDPRMPTISGLRRRGYTAASIREFCKRIGVTKQ.DNTIEMASLESCIREDLNENAPRAMAVIDPVKLV
+#=GR 1euq_A    PP 7777777777776777*********************************************************************************9*******************************************************************.**********************************
+SYQ_SCHPO         LLEFRNMRDGKYqpkeAILRMKQDLSDGNPQMWDLIAYRVLNSPHPRTGDKWKIYPTYDFTHCLVDSFENISHSLCTTEFILSRVSYEWLCNALEVY.CPAQREYGRLNVVGTLMSKRKIMKLVKEGYVHGWNDPRLYTLVALRRRGVPPGAILEFVSEVGVTTA.VSNIEVARFENCVRKFLENSVPRLMFLPDPIKVT
+#=GR SYQ_SCHPO PP *************************************************************************************************.*******************************************************************.**********************************
+SYQ_DROME         DMKRGKIDEGA-....ATLRMK---VTLEEGKMDPVAYRIKFISHHRTGSDWCIYPTYDYTHCLCDSLEDITHSLCTKEFQSRRSSYYWLCNALGIY.CPVQWEYGRLNMNYALVSKRKIAKLITEQIVHDWDDPRLFTLTALRRRGFPAEAINNFCAQMGVTGA.QIAVDPAMLEAAVRDVLNVTAPRRLVVLEPLKVT
+#=GR SYQ_DROME PP ***********.....******...99**********************************************************************.*******************************************************************.**********************************
+SYQ_LUPLU         DMRRGFIEEGK-....ATLRMKQDMQSDNYNMYDLIAYRIKFTPHPHAGDKWCIYPSYDYAHCIVDSIENVTHSLCTLEFETRRASYYWLLHALGIY.QPYVWEYSRLNVSNTVMSKRKLNRLVTEKWVDGWDDPRLMTLAGLRRRGMTPTAINAFVRGMGITRSdGTLISVERLEYHVREELNKTAPRAMVVLHPLKVV
+#=GR SYQ_LUPLU PP ***********.....*********************************************************************************.*******************************************************************8899*******************************
+P46655            EEMKNGTEEGLK....NCVRAKIDYKALNKTLRDPVIYRCNLTPHHRTGSTWKIYPTYDFCVPIVDAIEGVTHALRTIEYRDRNAQYDWMLQALRLR.KVHIWDFARINFVRTLLSKRKLQWMVDKDLVGNWDDPRFPTVRGVRRRGMTVEGLRNFVLSQGPSRN.VINLEWNLIWAFNKKVIDPIAPRHTAIVNPVKIH
+#=GR P46655    PP ************....*********************************************************************************.*******************************************************************.**********************************
+#=GC PP_cons      999999999999....*********************************************************************************.*******************************************************************.**********************************
+#=GC RF           xxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1euq_A            IENYQGEGE-MVTM.PNHPNKPEMG...SRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNA.-YVIKAERVEKD.AEGNITTIFCTYDAD.----TLGVIHWVSAA..---HALPVEIRLYDRLFSVPNPGAA..DDFLSVINPESLVIKQ-GFAEPSLKDAVAGK....................AFQFEREG
+#=GR 1euq_A    PP ********9.****.**********...***************************************..9**********.**************8.....***********.....**********************..**********966555.566***********....................********
+SYQ_SCHPO         LENLDDSYREQIEI.PFNPKDPSMG...SRSAFLTKHIYIDRSDFREEASSDFFRLTLGQPVGLFRAsHPVVAKRVVKND.-EGEPIEIIAEYDAS.SSKKPKTFIQWVSRDkeSNSPVLIAETRLFNNLFKCDNPAALkeQELAAQLNPESEVVLKNSIIEPGIYDLIKSApwpktdssagvdkaenpesvRFQAMRVG
+#=GR SYQ_SCHPO PP **************.**********...***************************************9************..**************.**************9999***********************98899*********************************************************
+SYQ_DROME         IKNFPHAAPVQLEV.PDFPQNPQQG...THKITLDKVIYIEQGDFKLEPEKGYRRLAPKQSVGLRHA.GLVISVDEIVKDpATGQVVELICTSQPAeQAEKPKAFVQWVSQP..IQLEVRLYEQLFKHKNPEDPNEVP-..GGFLSDISEQS-MSVVVAFADRALNQAKVYD....................KFQFERIG
+#=GR SYQ_DROME PP **************.**********...***************************************.***************************999**************..************************...**********8.*******************....................********
+SYQ_LUPLU         ITNLEAKSAIEVDA.KKWPDAQADDasaFYKIPFSNVVYIERSDFRMQDSKDYYGLAPGKSVILRYA.FPIKCTEVILAD.DNETILEIRAEYDPS.KKTKPKGVLHWVSQP.sPGVDPLKVEVRLFERLFLSENPAEL..DNWLGDLNPHSKVEISNAYGVSLLKDAKLGD....................RFQFERLG
+#=GR SYQ_LUPLU PP **************.*********99999**************************************.************.***************.***************.99************************..*******************************....................********
+P46655            LEGSEAPQEPKIEMkPKHKKNPAVG...EKKVIYYKDIVVDKDDADVINVD--EEVTLMDWG-----.---NVIITKKND.DGSMVAKLNLEGDF-.--KKTKHKLTWLADT..--KDVVPVDLVDFDHLITKDRLEED..ESFEDFLTPQT-EFHTDAIADLNVKDMKIGD....................IIQFERKG
+#=GR P46655    PP *************************...***********************..*********.........89999****.**************....8************....***********************..**********8.9******************....................********
+#=GC PP_cons      **************.**********...***************************************.************.**************9.***************..*************************..**********999999*999***********....................********
+#=GC RF           xxxxxxxxxxxxxx.xxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....................xxxxxxxx
+
+1euq_A            YFCLDSRHSTAEKPVFNRTVGLRDT------.
+#=GR 1euq_A    PP ***********************96.......
+SYQ_SCHPO         YFCLDEDTKKPNHLVLNRIVSLREDSAKNKN.
+#=GR SYQ_SCHPO PP ****************************986.
+SYQ_DROME         FFSVDPD-TSANHLVFNRTVGLKEDAGKK--.
+#=GR SYQ_DROME PP *******.9****************9996...
+SYQ_LUPLU         YFAVDQD-STPEKLVFNRTVTLKDSYGKGGK.
+#=GR SYQ_LUPLU PP *******.********************976.
+P46655            YYRLDALPKDGKPYVFFTIPDGKSVNKYGAKk
+#=GR P46655    PP ****************************986*
+#=GC PP_cons      ************************9**9886.
+#=GC RF           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,59 @@
+# STOCKHOLM 1.0
+
+3grs_          .YDYLVIGGGSGGLASARRAAELG--ARAAVVESHK-LGGTCVNVGCVPKKVMWnTAVHSEFMHDHADYGFpsce...gkfnWRVIkeKRDAYVsrlnaiyqnnltksHIEIIRGHAAFTSDP-KPTIEVS-.......GKKYTAPHILIATGGMPSTPHES--........-------QI.PGASLGITSDGFFQleeL
+#=GR 3grs_  PP .89*********************..**********.**************************************...*********99**********************************.5******........***********************.................78.9**************999
+1bhy_          .YDVVVLGGGPGGYSAAFAAADEG--LKVAIVERYKTLGGVCLNVGCIPSKALLhNAAVIDEVRHLAANGIkype...peldIDMLraYKDGVVsrltgglagmaksrKVDVIQGD-GQFLDP--HHLEVSLtagdayeQAAPTGEKKIVAFKNCIIAAGSRVT........--KLP--FI.PEDPRIIDSSGALAlkeV
+#=GR 1bhy_  PP .89*********************..7************************************************...****999999***************************6.******..*************************************88..........***..**.*************9999*
+1mo9_A         .YDAIFIGGGAAGRFGSAYLRAMG--GRQLIVDRWPFLGGSCPHNACVPHHLFSdCAAELMLARTFSGQYWfpdmtekvvgiKEVVdlFRAGRNgphgimnfqskeqlNLEYILNCPAKVIDN--HTVEAA-.......GKVFKAKNLILAVGAGPGTLDVP--........GVNAKGVFD.-HATLVEELDYE--...P
+#=GR 1mo9_A PP .799********************..***************************************************99999999999999999*****************************..****99........***********************..........99*******..**********8.....*
+1nhp_          .MKVIVLGSSHGGYEAVEELLNLHPDAEIQWYEKGDFISFLSAGMQLYLEGKVK.DVNSVRYMTGEKMESR...........----..------..............GVNVFSNTEITAIQPKEHQVTVKDlv..sgeERVENYDKLIISPGAVPFELDIP--........GKDLDNIYLmRGRQWAIKLKQKTVd.pE
+#=GR 1nhp_  PP .69***************************************************.**************99.....................................**************************..**************************..........89******99*************9*.**
+1d7y_A         a-PVVVLGAGLASVSFVAELRQAGYQGLITVVGDEAERPYDRPPLSKDFMAHG-.DAEKIRLDCKRAP---...........----..------..............EVEWLLGVTAQSFDPQAHTVALSD.......GRTLPYGTLVLATGAAPRALPTLQG........-ATMPVHTL.RTLEDARRIQAGLR...P
+#=GR 1d7y_A PP 6.8*************************************************8..*************........................................8***********************.......***********************77.........********.**************...*
+1gv4_A         v-PFLLIGGGTAAFAAARSIRARDPGARVLIVSEDPELPYMRPPLSKELWFSDD.PNVTKTLQFRQWNGKE...........RSIYfqPPSFYVsaqdl...pniengGVAVLTGKKVVHLDVRGNMVKLND.......GSQITFEKCLIATGGTPRSLSAIDRa.....gaEVKSRTTLF.RKIGDFRALEKISR...E
+#=GR 1gv4_A PP 6.89**************************************************.*************999...........*****99**********...******************************.......**************************.....***********.**************...*
+1fcd_A         .RKVVVVGGGTGGATAAKYIKLADPSIEVTLIEPNTDYYTCYLSNEVIGGDR--.KLESI-----------...........KHGY..DGLRAH..............GIQVVHD-SATGIDPDKKLVKTAG.......GAEFGYDRCVVAPGIELIYDKIEGYse....eaAAKLPHAWK.AGEQTAILRKQLEDm.aD
+#=GR 1fcd_A PP .58*************************************************...89999......................899*..******..............*******.7***************.......************************9**....***********.************99*.**
+2tmd_A         d-SVLIVGAGPSGSEAARVLMESG--YTVHLTDTAEKIGGHLNQVAALPGLGEWsYHRDYRETQITKLLKK..........nK---..------..............ESQLALGQKPMTADD---VLQ---.......---YGADKVIIATGARWNTDGTNCLthdpipgaDASLPDQLT.-PEQVMDGKKK---...I
+#=GR 2tmd_A PP 6.79********************..8*****************************************988..........55.........................***************...677.............***************************************..9*********......7
+#=GC PP_cons   .78***********************9***************************.**************99...........899*..9*****..............*******9********9*******.......***********************99........9******9*.**************...9
+#=GC RF        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx...........xxxx..xxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxx.xxxxxxxxxxxxxx...x
+
+3grs_          PGRSVIVGAG......YIAVEMAGILSALG......SKTSLMIRHDKVLRSF.DSMISTNCTEELENAG.....VEVLKF..-SQVKEVKKt...lsGLEVSMVTAvpgr.............lpvmTMIPDVDCLLWAIGRVPNTKDlsLNKLGIQTD.DKGHIIVDE..FQNTNVKGIYAVGDVCGK-.......--A
+#=GR 3grs_  PP **********......**************......****************.****************.....******...*********...***************.............*************************9**********.*********..*****************9..........*
+1bhy_          PGKLLIIGGG......IIGLEMGTVYSTLG......SRLDVVEMMDGLMQGA.DRDLVKVWQKQNEYR-.....FDNIMV..NTKTVAVEPk...edGVYVTFEGAn..................apKEPQRYDAVLVAAGRAPNGKLisAEKAGVAVT.DRGFIEVDK..QMRTNVPHIYAIGDIVGQ-.......--P
+#=GR 1bhy_  PP **********......**************......****************.***************......******..**********...************..................**********************************.*********..******************..........*
+1mo9_A         GSTVVVVGGS......KTAVEYGCFFNATG......RRTVMLVRTEPLKLIK.DNETRAYVLDRMKEQG.....MEIISG..-SNVTRIEEdangrvQAVVAMTPN....................gEMRIETDFVFLGLGEQPRSAE.lAKILGLDLG.PKGEVLVNE..YLQTSVPNVYAVGDLIGG-.......--P
+#=GR 1mo9_A PP **********......**************......****************.****************.....******...***********************....................99******************99.9*********.*********..******************..........*
+1nhp_          VNNVVVIGSG......YIGIEAAEAFAKAG......KKVTVIDILDRPLGVYlDKEFTDVLTEEMEANN.....ITIATG..-ETVERYEGdg..rvQKVVTDKN-.....................--AYDADLVVVAVGVRPN-TA..WLKGTLELH.PNGLIKTDE..YMRTSEPDVFAVGDATLIKynpadteVNI
+#=GR 1nhp_  PP **********......**************......*********************************.....******...*********8..8888888888........................***************9.99..*********.*********..*****************************
+1d7y_A         QSRLLIVGGG......VIGLELAATARTAG......VHVSLVETQPRLMSRAaPATLADFVARYHAAQG.....VDLRFE..RSVTGSVD-......GVVLLDDG-.....................-TRIAADMVVVGIGVLANDAL..ARAAGLACD.D-G-IFVDA..YGRTTCPDVYALGDVTRQRnplsgrfERI
+#=GR 1d7y_A PP **********......**************......****************9****************.....******..********.......********.......................********************..*********.7.7.*****..*****************************
+1gv4_A         VKSITVIGGG......FLGSELACALGRKSq....aSGIEVIQLFPEKGNMG.KILPQYLSNWTMEKVKr..egV-KVMPnaIVQSVGVSG......GRLLIKLKD.....................GRKVETDHIVTAVGLEPNVEL..AKTGGLEIDsDFGGFRVNA..ELQARS-NIWVAGDAACFYdik.lgrRRV
+#=GR 1gv4_A PP **********......**************9....9****************.***************99..945.5555599********......*********.....................*********************..*******************..******.***************.******
+1fcd_A         GGTVVIAPPAapfrcpPGPYERASQVAYYLkahkpmSKVIILDSSQTFSK--.QSQFSKGW-ERLYGFGtenamIEWHPG.pDSAVVKVDG......GEMMVETAF.....................GDEFKADVINLIPPQRA-GKI..AQIAGLTND.-AGWCPVDIktFESSIHKGIHVIGDASIAN.......PMP
+#=GR 1fcd_A PP **************************************************...********.******************.**********......*********.....................*****************.8**..*********..9******999*******************.......***
+2tmd_A         GKRVVILNADt....yFMAPSLAEKLATAG......HEVTIVSGVHLANYMH.FTLEYPNMMRRLHELH.....VEELGD..-HFCSRIEP......GRMEIYNIWgdgskrtyrgpgvsprdantsHRWIEFDSLVLVTGRHSECTL..WNELKARES.E--------..WAENDIKGIYLIGDAEA--.......--P
+#=GR 2tmd_A PP ***********....***************......****************.****************.....******...********......***************************************************..*********.5..........*****************...........9
+#=GC PP_cons   **********......**************......****************.****************.....9*9999..*********......*********.....................*********************..*********.9********..*******************.......***
+#=GC RF        xxxxxxxxxx......xxxxxxxxxxxxxx......xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.....xxxxxx..xxxxxxxxx......xxxxxxxxx.....................xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxx.xxxxxxxxx..xxxxxxxxxxxxxxxxxxx.......xxx
+
+3grs_          LLTPVAIAAGRKLAHRLFEYKED.SKLDYNNIPT...
+#=GR 3grs_  PP ***********************.******9985...
+1bhy_          MLAHKAVHEGHVAAENCAGHKAYfDARVIP----gv.
+#=GR 1bhy_  PP ***********************9999887....57.
+1mo9_A         MEMFKARKSGCYAARNVMGEKISyTPKNYP----d..
+#=GR 1mo9_A PP **********************99999986....7..
+1nhp_          ALATNARKQGRFAVKNLEEPVKP.-FPGVQGS--sgl
+#=GR 1nhp_  PP **********************6..9999865..789
+1d7y_A         ETWSNAQNQGIAVARHLVDPTA-.--PGYAELPW...
+#=GR 1d7y_A PP **********************....99999876...
+1gv4_A         EHHDHAVVSGRLAGENMTGAAK-.--PYWHQS--m..
+#=GR 1gv4_A PP **********************....9**986..7..
+1fcd_A         KSGYSANSQGKVAAAAVVVLLKG.EEPGTPSY--ln.
+#=GR 1fcd_A PP ***********************.*****987..57.
+2tmd_A         RLIADATFTGHRVAREIEEANPQiAIPYKRE---t..
+#=GR 2tmd_A PP ***************************9985...7..
+#=GC PP_cons   **********************9.9999987776...
+#=GC RF        xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx...
+//

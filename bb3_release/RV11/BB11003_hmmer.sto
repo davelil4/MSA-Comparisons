@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+1ad3_A         .........................................................................-SISDTVKRAREAFNSGKTRSLQFRIQQLEALQRMINENLKSISGALASDLGKN......EWTSYYE..EVAHVLEELDTTIKELPDWAE-DEPVAKTRQ....TQQDDLYIHSEPLGVVLVIGAWN
+#=GR 1ad3_A PP ..........................................................................689**************************************************......*******..********************8.*********....***********************
+1uzb_A         mtvepfrnepietfqteearramrealrrvreefgrhyplyiggewvdtkermvslnpsapsevvgttakagkAEAEAALEAAWKAFKTWKDWPQEDRSRLLLKAAALMRRRKRELEATLVYEVGKN......WVEASA-..DVAEAIDFIEYYARAALRYR--YPAVEVVP-....YPGEDNESFYVPLGAGVVIAPWN
+#=GR 1uzb_A PP *************************************************************************5899**************************************************......******...********************..6*****99.....***********************
+1eyy_A         ................................................tdnvfyatnaftgealplafpvhteVEVNQAATAAAKVARDFRRLNNSKRASLLRTIASELEARSDDIIARAHLETALP......EVRLTG-..EIARTANQLRLFADVVNSGSYHQAILDTPNPtrapLPKPDIRRQQIALGPVAVFGASN
+#=GR 1eyy_A PP ................................................*************************69****************************************************......******...******************************999999**********************
+1o20_A         .........................................................................DELLEKAKKVREAWDVLRNATTREKNKAIKKIAEKLDERRKEILEANRIDVEKArergvkESLVDRLalNDKRIDEXIKACETVIGLKDPVGEVIDSWVR....EDGLRIARVRVPIGPIGIIYESR
+#=GR 1o20_A PP .........................................................................6999*************************************************************9999*******************************....***********************
+#=GC PP_cons   .........................................................................689***************************************************......******9..********************9*9********....***********************
+#=GC RF        .........................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx
+
+1ad3_A         YP..FNLTIQPMVGAVAAGNAVILKPSEVSGHMADLLATLIPQY-----MDQNLYLVVKG-GVPETTELLK-.ERFDHIMYTGSTAVGKIVMAAAAK......HLTPVTLELGGKSPCYVDKDC.-DLDVACRRIAWGKFMNSGQTCVAPDYILCDPSIQN.QIVEKLKKSLKDFYGedakqsrdYGRIINDRHFQRVKG
+#=GR 1ad3_A PP **..****************************************.....9**********.**********..************************......*********************..***********************************.**************************************
+1uzb_A         FP..VAIFTGMIVGPVAVGNTVIAKPAEDAVVVGAKVFEIFHEAG----FPPGVVNFLPGVGEEVGAYLVEH.PRIRFINFTGSLEVGLKIYEAAGRlapgqtWFKRAYVETGGKN-AIIVDET.ADFDLAAEGVVVSAYGFQGQKCSAASRLILTQGAYE.PVLERVLKRAERLSVgpaeenpdLGPVVSAEQERKVLS
+#=GR 1uzb_A PP **..****************************************9....***********************.*******************************************.*******.************************************.**************************************
+1eyy_A         FPlaFSAAGGDTASALAAGCPVIVKGHTAHPGTSQIVAECIEQALKQEQLPQAIFTLLQGNQRALGQALVSH.PEIKAVGFTGSVGGGRALFNLAHEr....pEPIPFYGELGAINPTFIFPSAmRAKADLADQFVASMTMGCGQFCTKPGVVFALNTPETqAFIETAQSLIRQQSP........STLLTPGIRDSYQSQ
+#=GR 1eyy_A PP ************************************************************************.************************9....***********************************************************99**************........***************
+1o20_A         --..PNVTVETTILALKSGNTILLRGGSDALNSNKAIVSAIREALKETEIPESSVEFIENTDRSLVLEXIRLrEYLSLVIPRGGY-GLISFVRDNAT......---VPVLETGVGNCHIFVDES.ADLKKAVPVIINAKTQRPG-TCNAAEKLLVH-----.---------------........-----EKIAKEFLPV
+#=GR 1o20_A PP ....*********************************************************************************.***********.........******************.*******************.***********..................................99********
+#=GC PP_cons   **..********************************************************************.************************......*********************.************************************.***************........***************
+#=GC RF        xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx........xxxxxxxxxxxxxxx
+
+1ad3_A         LID----NQKVAHGGTw.dQSSRYIAPTILVDV...DPQSPVMQEEIFGPVMPIVCVRSLEEAIQFINQREKPLALYVFS..NNEKVIKKMIAET..SSGGVTANDViVHITVPTL..PFGGVGNSGMG....AYHGKKSFETF.SHRRSCLVKSLLNEEAHKARYPPSPA...........
+#=GR 1ad3_A PP ***....**********.***************...********************************************..*************..**********9********..***********....***********.*************************7...........
+1uzb_A         YIEIGKNEGQLVLGGKrleGEGYFIAPTVFTEV...PPKARIAQEEIFGPVLSVIRVKDFAEALEVANDTPYGLTGGVYS..RKREHLEWARREF..HVGNLYFNRK.ITGALVGV.qPFGGFKLSGTN...aKTGALDYLRLF.LEMKAVAERF----------------...........
+#=GR 1uzb_A PP *********************************...********************************************..*************..**********.********.************...9***********.*******986...........................
+1eyy_A         VVSRGSDDGIDVTFSQ...AESPCVASALFVTSsenWRKHPAWEEEIFGPQSLIVVCENVADMLSLSEMLAGSLTATIHAteEDYPQVSQLIPRLeeIAGRLVFNGW.PTGVEVGYamVHGGPYPASTH....SASTSVGAEAIhRWLRPVAYQALPESLLPDSLKAENPLeiaravdgkaa
+#=GR 1eyy_A PP ****************...**************9***********************************************9*************999*********.*********************....*************************************7***********
+1o20_A         IVEELRKHGVEVRGC-...EKTREIVPDVVPAT...---EDDWPTEYLDLIIAIKVVKNVDEAIEHIKKYSTGHSESILT..ENYSNAKKFVSEI..DAAAVYVNAS.TRFTDGG-..QFGFGAEIGIStqrfHARGPVGLREL.TTYKFVVLGEYHVRE-----------...........
+#=GR 1o20_A PP ***************....**************......*****************************************..*************..**********.*******...**************************.************998......................
+#=GC PP_cons   ****************...**************...********************************************..*************..**********.********..***********....***********.*********9****9**********7...........
+#=GC RF        xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx..xxxxxxxxxx.xxxxxxxx..xxxxxxxxxxx....xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx...........
+//

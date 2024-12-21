@@ -1,0 +1,60 @@
+# STOCKHOLM 1.0
+
+1a3w_A             ..t-LVALRKAGLNIVRMNFSHGSYEYHKSVIDNARKSEELYPgRPLAIALDTKGPEIRTGTTTNDvDYPIPPNHEMIFTTDDKYAKacDDKIMYVDY..KNITKVISAGRIIYVDDGVLSFQVLEVVD-T..LKVKALNAGKICSHKGVNLPGTDVDLPALSEKDKEDLR.FGVKNGVHMVFASFIRTANDVLTIREVL
+#=GR 1a3w_A     PP ..6.67899******************************99977**********************9******************99999********..*****************************.6..**************************************.****************************
+KPYK_LACDE         ...TITKLAEAGANVFRFNFSHGNHEEHLARMNMVREVEKKTG.KLLGIALDTKGAEIRTTDQEGG.KFTINTGDEIRVSMDATKAG..NKDMIHVTY..PGLFDDTHVGGTVLIDDGAVGLTIKAKDEEKreLVCEAQNTGVIGSKKGVNAPGVEIRLPGITEKDTDDIR.FGLKHGINFIFASFVRKAQDVLDIRALC
+#=GR KPYK_LACDE PP ...589*************************************.**********************.********************..*********..****************************99999**************************************.****************************
+KPYC_ARATH         ...MVEKLLMAGMSVARFNFSHGSYEYHQETLDNLRQAMLNTG.MLCAVMLDTKGPEIRTGFLKDGkPIQLKQGQEITISTDYDLKG..DEKTICMSY..KKLAQDVNPGMVILCADGTISLKVLSCDKEKgtVRCRCENTSMLGERKNVNLPGVVVDLPTLTEKDKQDILeWGVPNQIDMIALSFVRKGSDLVQVRKLL
+#=GR KPYC_ARATH PP ...689*************************************.********************9978*******************..*********..*****************************9999************************************988****************************
+KPY1_SYNY3         ..v-IRQMVDAGMNVARLNFSHGSYEDHATMVRLLRSVEQEMD.TPITLLQDLQGPKIRIGQLPGG.EKQLREGEKVSLVPVEIGDR..HPGAVGIDY..PHLATEAKVGERILLDDGLLEMKVVSIQDPE..VICEVVTGGILKSRKGVNLPGLVLTLPSMTTKDKQDLE.FGLSQGIDWVSLSFVRKGEDIHTLKQFL
+#=GR KPY1_SYNY3 PP ..6.89*************************************.**********************.********************..*********..*******************************..**************************************.****************************
+KPYK_METEX         ...MIEKLFHAGADVFRINMSHLAREKLPERIEVIRTIEREGK.RPIGILVDLQGPKLRLGTFVGD.AAVLENGQTFVLDSDPTPG-..DTDRVFLPH..PEILSALEPSHGILIDDGKLRLIVTEVSEGR..AVTRVEVGGRISNRKGVSLPHTALPVPAMTEKDRGDLE.AGLAAGADWIAVSFVQRPEDVAEVKKVA
+#=GR KPYK_METEX PP ...79**************************************.**********************.******************9...8********..*******************************..**************************************.***************************9
+KPYK_CHLMU         ...MLEKLLDAGMNVARLNFSHGTHESHGRTIAILKELREKRQ.VPLAIMLDTKGPEIRLGQVESP.-IKVKPGDRLTLTSKEILG-..SKEAGVTLY.pSCVFPFVRERAPVLIDDGYIQAVVVNAQEHL..IEIEFQNSGEIKSNKSLSIKDIDVALPFMTEKDITDLK.FGVEQELDLIAASFVRCNEDIDSMRKVL
+#=GR KPYK_CHLMU PP ...79**************************************.**********************..*****************9...688888888.799*****************************..**************************************.****************************
+KPY2_ECOLI         ...NLEKVIAAGANVVRMNFSHGSPEDHKMRADKVREIAAKLG.RHVAILGDLQGPKIRVSTFKEG.KVFLNIGDKFLLDANLGKGE.gDKEKVGIDY..KGLPADVVPGDILLLDDGRVQLKVLEVQGMK..VFTEVTVGGPLSNNKGINKLGGGLSAEALTEKDKADIK.TAALIGVDYLAVSFPRCGEDLNYARRLA
+#=GR KPY2_ECOLI PP ...589*************************************.**********************.*****************999.9*********..*******************************..**************************************.888888**********************
+KPYK_BORBU         ...HIKDLHDAGVNVIRLNTAHQSHEDTIKVIDNVRKIS----.NKIALMIDTKGPEVRTANIENP.-IIVKTGDKVIISTSPINE-..-PNNFQTNY..DGFVKEVPQGSKVLIDDGELEMTVVAKLPDR..LICEIKNDGQIKNKKSINTPGISLKLQSVTEKDKGFIE.LAAKYNVDFIAHSFVRHSKDVQDVQEIL
+#=GR KPYK_BORBU PP ...599*******************************99.....69********************..***************996....8*******..*******************************..**************************************.999999**********************
+KPYG_RICCO         naq-------------------------------------SHD.NVVSIMLDTKGPEVRSGDVPQP.--MLKEGQEFNPTIRRGVS-..TQDTVSVNY..DDFVNDVVVGDILLVDGGMMSLAVKSKTSDL..VKCVVVDGGELKSRRHLNVRGKSARLPSITDKDWGDIK.FGVDNQVDFYAVSFVKDAKVVHELKEYL
+#=GR KPYG_RICCO PP 965.....................................568.99********************...****************9...7********..*******************************..**************************************.****************************
+KPYK_THELI         ..s-IKKMIKAGMSVARINFSHGTLEEHAKTIETVRDVAEKLE.RRVAILGDLPGLKMRVGKIKGD.SVTLRKGDKVVLTTRDIEG-..DETTIPVEF..KDLPKLVSKGDTIYLSDGYIMLRVEEVRENE..VECVVVNGGILFSHKGINIPKANLPIEAITPRDFEIIE.FAIEHGVDAIGLSFVGSVYDVLKVKSFL
+#=GR KPYK_THELI PP ..5.99*************************************.**********************.******************9...899******..*******************************..**************************************.****************************
+KPYK_MYCGE         ...NIEAIIKSGVSVIRLNFSHGTHEEQQVRIKIVRDVAKAMN.IPVSIMLDTNGPEIRIVETKKE.GLKITKDSEVIINTMSKMIAsdNQFAVSDASgkYNMVNDVNIGQKILVDDGKLTLVVTRVDKQHnqVICVAKNDHTVFTKKRLNLPNAQYSIPFLSEKDLKDID.FGLSQGIDYIAASFVNTVADIKQLRDYL
+#=GR KPYK_MYCGE PP ...699*************************************.**********************.***************99988445666666657789*************************999888**************************************.****************************
+KPYK_METJA         ..k-LDKAINL-IDGVRFNMSHATTDYCEKFLNILEK------.NNIAKVMDLKGIKIRIKEVKLK.NKILKMGEKVVIG-------..--EDIKLNY..N--IDTIEEGHFILINDGKIKLRVVEKTD-K..IIAVVEVGGEIKEGMGVNLPDTRIELPIIDETDLKNIK.FAVEKDFEYIALSFVRNKEDVKELKDII
+#=GR KPYK_METJA PP ..7.5677777.999********************99.......78********************.************9...........4566789..9..9*************************.6..**************************************.****************************
+KPYK_THEAC         ..i-MKQMIDNGLSLVRINSAHADIKDVSKITQMVRSIN----.RDVGIMIDLKGPELRTGEFAGG.TLKISSGKDYVMGKD-----..----IVLNN..MNVLSAVQVGDRILMSDGEVSFEVESTDP--..FTIRALNDGVLRDRSRVNIPGRFIELGTITDRDRAFIR.EGIADGVDFFALSFVQKSENVDSLRDFV
+#=GR KPYK_THEAC PP ..6.89*******************************98.....7*********************.************954...........55667..99***************************....9*************************************.****************************
+#=GC PP_cons       ...6899*********************************999.9*********************.*************99***99..899999999..******************************9..**************************************.****************************
+#=GC RF            ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx..xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a3w_A             GEQG.KDVKIIVKIENQQGVNN..
+#=GR 1a3w_A     PP ****.***************98..
+KPYK_LACDE         EEANaSYVKIFPKIESQEGIDN..
+#=GR KPYK_LACDE PP ********************98..
+KPYC_ARATH         GKHA.KTILLMSKVENQEGVAN..
+#=GR KPYC_ARATH PP ****.***************98..
+KPY1_SYNY3         AERGhPDLPVIAKIEKPQAIDN..
+#=GR KPY1_SYNY3 PP ********************98..
+KPYK_METEX         AGRA.---LVMAKIEKPQALT-r.
+#=GR KPYK_METEX PP 9888....9**********97.6.
+KPYK_CHLMU         ENFGrPNMPIIAKIENHLGVQN..
+#=GR KPYK_CHLMU PP ********************98..
+KPY2_ECOLI         RDAG.CDAKIVAKVERAEAVC-sq
+#=GR KPY2_ECOLI PP ****.**************97.6*
+KPYK_BORBU         TASGnPDVKIISKIENQEGIDN..
+#=GR KPYK_BORBU PP ********************98..
+KPYG_RICCO         KRCN.ADIHVIVKIESADSIPN..
+#=GR KPYG_RICCO PP ****.**************987..
+KPYK_THELI         EKKS.AD---------------l.
+#=GR KPYK_THELI PP *998.66...............7.
+KPYK_MYCGE         KLKNaSGVKIIAKIESNHALNN..
+#=GR KPYK_MYCGE PP ****9***************98..
+KPYK_METJA         SEYK.GDCEVISKIETKEGLKN..
+#=GR KPYK_METJA PP ****.***************98..
+KPYK_THEAC         IDSG.GDQYIISKIETKSGLDN..
+#=GR KPYK_THEAC PP ****.***************98..
+#=GC PP_cons       ****.***************98..
+#=GC RF            xxxx.xxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,78 @@
+# STOCKHOLM 1.0
+
+1evu_A             .l-NVTSVHlfkERWDTNKVDHHTDKYENN......KLIVRRGQSFYVQIDFS...RPYDPRRDLFRVEYVI..GRYPQENKGTYIPVPIVSE....LQSGKWGAKIVMREDRSVRLSIQSSPKCIVGKFRMYVAVWT....PYGVLRTSrnPETDTYILFNPWCEDDAVYLDNEKEREEYVLNDIGVIFYGEVNDIKTR
+#=GR 1evu_A     PP .6.566666444899***************......*****************...****************..*******************....*****************************************....*****9998889**********************************************
+1g0d_A             gl--IVDVN...GRSHENNLAHRTREIDRE......RLIVRRGQPFSITLQCS...DSLPPKH-HLELVLHL..GKRDE----VVIKVQKEH-....GARDKWWFN-QQGAQDEILLTLHSPANAVIGHYRLAVLVMS....PDGHIVER.aDKISFHMLFNPWCRDDMVYLPDESKLQEYVMNEDGVIYMGTWDYIRSI
+#=GR 1g0d_A     PP 86..789**...******************......*****************...*******.********..****9....999999998.....9********.9******************************....***99999.89***********************************************
+1l9m_A             ..LGVQSIN...WQTAFNRQAHHTDKFSSQ......ELILRRGQNFQVLMIMN...KGLGSNE-RLEFIVST..GPYPSESAMTKAVFPLSN-....GSSGGWSAVLQASNGNTLTISISSPASAPIGRYTMALQIFS....-QGGISSV..KLGTFILLFNPWLNVDSVFMGNHAEREEYVQEDAGIIFVGSTNRIGMI
+#=GR 1l9m_A     PP ..689****...******************......*****************...******9.********..*****************9.....***************************************99.....7778888..************************************************
+TGM5_HUMAN         ..LEVALTD...LQSSRNNVRHHTEEITVD......HLLVRRGQAFNLTLYFR..nRSFQPGLDNIIFVVET..GPLPDLALGTRAVFSLARH....HSPSPWIAWLETNGATSTEVSLCAPPTAAVGRYLLKIHIDS....FQGSVTAY..QLGEFILLFNPWCPEDAVYLDSEPQRQEYVMNDYGFIYQGSKNWIRPC
+#=GR TGM5_HUMAN PP ..68999**...******************......****************9..9****************..*******************....*****************************************....********..************************************************
+TGM4_HUMAN         ..LQVLHID...FLNQDNAVSHHTWEFQTS......SPVFRRGQVFHLRLVLN...QPLQSYH-QLKLEFST..GPNPSIAKHTLVVLDPRTP....SDHYNWQATLQNESGKEVTVAVTSSPNAILGKYQLNVKT--....GNHILKS-..EENILYLLFNPWCKEDMVFMPDEDERKEYILNDTGCHYVGAARSIKCK
+#=GR TGM4_HUMAN PP ..699****...******************......*****************...*******.********..*******************....*************************************99......4555555...************************************************
+EP42_HUMAN         ..LGIKSCD...FQAARNNEEHHTKALSSR......RLFVRRGQPFTIILYFRapvRAFLPALKKVALTAQT..GEQPSKINRTQATFPISSL....GDRKWWSAVVEERDAQSWTISVTTPADAVIGHYSLLLQVSG....RKQLLLG-..---QFTLLFNPWNREDAVFLKNEAQRMEYLLNQNGLIYLGTADCIQAE
+#=GR EP42_HUMAN PP ..579****...******************......*****************9999***************..*******************....*****************************************....9999998......*********************************************
+ANNU_SCHAM         .a-SVKEVD...VLLAENGDAHRTRHYELMdrekepRLVVRRGQPFAVSVTLS...RPYNPDIDAISFVFTVedAEKPSYGQGTLVAVPLLAKg..aESGAAWNAVLDSSADDILRIQITPAADAIVGKWKMDIDTKL...kNDGAVSYS..YKDPFYILYNPWCRQDQVFLEGEELLQEYVLNDTGLIWRGSYNRLRPC
+#=GR ANNU_SCHAM PP .6.79****...*****************9999********************...*************999889***************9997..78899************************************9...788999999..************************************************
+TGMH_TACTR         ..LQVESVE...LYTRDNAREHNTFMYDLVdg.tkpVLILRRGQPFSIAIRFK...RNYNPQQDRLKLEIGF..GQQPLITKGTLIMLPVSGSdtftKDKTQWDVRLRQHDGAVITLEIQIPAAVAVGVWKMKIVSQLtseeQPNVSAVTheCKNKTYILFNPWCKQDSVYMEDEQWRKEYVLSDVGKIFTGSFKQPVGR
+#=GR TGMH_TACTR PP ..69*****...****************9999.9999****************...****************..*****************9989999************************************9988777633333333459***********************************************
+#=GC PP_cons       ..6799999...******************......*****************...****************..*****************9*....***************************************99....88888888..************************************************
+#=GC RF            ..xxxxxxx...xxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1evu_A             SWSYGQFEDGILDTCLYVMDRAQ.......MDLSGRGNPIKVSRVGSAMVNAKDDEGVLVGSWDNIYAYGVPPSAWTGSVDILLEYRSSE-NPVRYGQCWVFAGVFNTFLRCLGIPARIVTNYFSAHDNDANLQMDIFLEEDGNVN.SKLTKDSVWNYHCWNEAWMTRPDLPVG....FGGWQAVDSTPQENSDGMYRCG
+#=GR 1evu_A     PP ***********************.......************************************************************.*******************************************************.***************************....**********************
+1g0d_A             PWNYGQFEDYVMDICFEVLDNSPaalknseMDIEHRSDPVYVGRTITAMVNSNGDRGVLTGRWEEPYTDGVAPYRWTGSVPILQQWSKAGVRPVKYGQCWVFAAVACTVLRCLGIPTRPITNFASAHDVDGNLSVDFLLNERLESLdSRQRSDSSWNFHCWVESWMSREDLPEG....NDGWQVLDPTPQELSDGEFCCG
+#=GR 1g0d_A     PP **********************99**************************************************************************************************************************678899**********************....**********************
+1l9m_A             GWNFGQFEEDILSICLSILDRSLnfrrdaaTDVASRNDPKYVGRVLSAMINSNDDNGVLAGNWSGTYTGGRDPRSWDGSVEILKNWKKSGLSPVRYGQCWVFAGTLNTALRSLGIPSRVITNFNSAHDTDRNLSVDVYYDPMGNPL.DK-GSDSVWNFHVWNEGWFVRSDLGPS....YGGWQVLDATPQERSQGVFQCG
+#=GR 1l9m_A     PP **************************************************************************************************************************************************.99.9***********************....**********************
+TGM5_HUMAN         PWNYGQFEDKIIDICLKLLDKSLhfqtdpaTDCALRGSPVYVSRVVCAMINSNDDNGVLNGNWSENYTDGANPAEWTGSVAILKQWNATGCQPVRYGQCWVFAAVMCTVMRCLGIPTRVITNFDSGHDTDGNLIIDEYYDNTGRIL.GNKKKDTIWNFHVWNECWMARKDLPPA....YGGWQVLDATPQEMSNGVYCCG
+#=GR TGM5_HUMAN PP **************************************************************************************************************************************************.***************************....**********************
+TGM4_HUMAN         PWNFGQFEKNVLDCCISLLTESS.......LKPTDRRDPVLVCRAMCAMMSFEKGQGVLIGNWTGDYEGGTAPYKWTGSAPILQQYYNTK-QAVCFGQCWVFAGILTTVLRALGIPARSVTGFDSAHDTERNLTVDTYVNENGEKI.TSMTHDSVWNFHVWTDAWMKRPDLPKG....YDGWQAVDATPQERSQGVFCCG
+#=GR TGM4_HUMAN PP ***********************.......************************************************************.*******************************************************.***************************....**********************
+EP42_HUMAN         SWDFGQFEGDVIDLSLRLLSKDK.......-QVEKWSQPVHVARVLGALLHFLKEQRVLPTPQTQATQEGALLNKRRGSVPILRQWLTGRGRPVYDGQAWVLAAVACTVLRCLGIPARVVTTFASAQGTGGRLLIDEYYNEEGLQN.GEGQRGRIWIFQTSTECWMTRPALPQG....YDGWQILDPSAPNGGGVLGSCD
+#=GR EP42_HUMAN PP ***********************........*******************************************************************************************************************.***************************....**********************
+ANNU_SCHAM         VWKYAQFEKEILDCALYLVSKIG......gVRPSECGDPVRVCRAISAAVNSPDDNGAVMGNWSNDYGGGTPPTKWIGSMKILQQFYKNK-KPVKYGQCWVFAGVLTTVCRALGLPARTVTTYSAAHDTQNSLTVDYFVDDKGEIM.EEMNSDSIWNFHVWTEVWMERPDLMPGdgahYGGWQAVDSTPQELSDNMYRCG
+#=GR ANNU_SCHAM PP **********************9......9************************************************************.*******************************************************.*****************************************************
+TGMH_TACTR         RWIFGQFTDSVLPACMLILERSG.......LDYTARSNPIKVVRAISAMVNNIDDEGVLEGRWQEPYDDGVAPWMWTGSSAILEKYLKTRGVPVKYGQCWVFAGVANTVSRALGIPSRTVTNYDSAHDTDDTLTIDKWFDKNGDKI.EDATSDSIWNFHVWNDCWMARPDLPTG....YGGWQAYDSTPQETSEGVYQTG
+#=GR TGMH_TACTR PP ***********************.......********************************************************************************************************************.***************************....**********************
+#=GC PP_cons       ***********************.......********************************************************************************************************************.9**************************....**********************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxx
+
+1evu_A             PASVQAIKHGHVCFQFDAPFVFAEVNSDLIYITAKK-..DGTHVVENVDATHIGKLIVTKQIGGDG......MMDITDTYKFQEGQEEERLALETALMYGAK-------..........................KPLNTSNVDMDFEV....ENAVLGKDFKLSITFRNNSHNRY.TITAYLSANITFYTGVPKAEF..
+#=GR 1evu_A     PP ************************************...8**************************......*************************99976.................................9*************....***********************.*********************..
+1g0d_A             PCPVAAIKEGNLGVKYDAPFVFAEVNADTIYWIVQK-..DGQRRKITEDHASVGKNISTKSVYGNH......REDVTLHYKYPEGSQKEREVYKKAG------------..........................RRVTRLQLSIKHA-....-QPVFGTDFDVIVEVKNEGGRDA.HAQLTMLAMAVTYNSLRRGEC..
+#=GR 1g0d_A     PP ************************************...8**************************......************************9......................................7789999999996......**********************.*********************..
+1l9m_A             PASVIGVREGDVQLNFDMPFIFAEVNADRITWLYDNT..TGKQWKNSVNSHTIGRYISTKAVGSNA......RMDVTDKYKYPEGSDQERQVFQKALGKL---------..........................KPEPSIIGKLKVA-....GMLAVGKEVNLVLLLKNLSRDTK.TVTVNMTAWTIIYNGTLVHEV..
+#=GR 1l9m_A     PP *************************************..***************************......*************************887...................................89**********8.....***********************.*********************..
+TGM5_HUMAN         PASVRAIKEGEVDLNYDTPFVFSMVNADCMSWLVQG-..-GKEQKLHQDTSSVGNFISTKSIQSDE......RDDITENYKYEEGSLQERQVFLKALQKLKARSFHGSQrgaelqpsrptslsqdsprslhtpslRPSDVVQVSLKFKL...lDPPNMGQDICFVLLALNMSSQFK.DLKVNLSAQSLLHDGSPLSPF..
+#=GR TGM5_HUMAN PP ************************************....9*************************......***********************************999*************************************99...8***********************.*********************..
+TGM4_HUMAN         PSPLTAIRKGDIFIVYDTRFVFSEVNGDRLIWLVKMVngQEELHVISMETTSIGKNISTKAVGQDR......RRDITYEYKYPEGSSEERQVMDHAFLLLSSEREHR--..........................RPVKENFLHMSVQS....DDVLLGNSVNFTVILKRKTAALQ.NVNILGSFELQLYTGKKMAKLcd
+#=GR TGM4_HUMAN PP ***********************************9977788999*********************......****************************9999988............................**************....***********************.*********************88
+EP42_HUMAN         LVPVRAVKEGTVGLTPAVSDLFAAINASCVVWKCCE-..DGTLELTDSNTKYVGNNISTKGVGSDR......CEDITQNYKYPEGSLQEKEVLERVEKEKMEREKDNGI..........................RPPSLETASPLYLLlkapSSLPLRGDAQISVTLVNHSEQEK.AVQLAIGVQAVHYNGVLAAKL..
+#=GR EP42_HUMAN PP ************************************...8**************************......*************************************..........................********999988888999*********************.*********************..
+ANNU_SCHAM         PAPVVAVKQGEVLRPYDSAYVFAEVNADKVFWRYSGP..TQPLKLIRKDMLGIGQNISTKAVGRFQ......REDITNTYKYPEKSVEERAAMLKALRQSESLFSRYYL.........................nEDFNDIHFNFELR-....DDIVIGSPFSVVVVMKNRSNQQDyTVTVLLRVDTVLYTGHVKDGV..
+#=GR ANNU_SCHAM PP *************************************..***************************......******************************9999887.........................6899*********9.....*******************99887*********************..
+TGMH_TACTR         PASVLAVQRGEIGYMFDSPFVFSEVNADVVHWQEDDS.sETGYKKLKIDSYRVGRLLLTKKIGVDDdfgdadAEDITDQYKNKEGTDEERMSVLNAARSSGFNYAFNLP.........................sPEKEDVYFNLLDI-....EKIKIGQPFHVTVNIENQSSETR.RVSAVLSASSIYYTGITGRKI..
+#=GR TGMH_TACTR PP **********************************999.8999**********************99999999***********************************98.........................45677899999996.....***********************.*********************..
+#=GC PP_cons       ************************************9..89*************************......**************************9999*999999..........................89999******989....***********************.*********************..
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........................xxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx..
+
+1evu_A             KKETFDVTLE.PLSFKKEAVLIQAGEYMGQLLEQASLHFFVTARINETRDVLAKQKSTVLTIPEIIIKVRGTQVVGSDMTVTVQFTNPLKETLRNVWVHLDGPG-VTRPMKKMFREIRPNSTVQWEEVCRPWVSGHRKLIASMSSDSLRHVYGELDVQIQ-r
+#=GR 1evu_A     PP **********.*********************************************************************************************.*****************************************************98.6
+1g0d_A             QRKTISVTVP.AHKAHKEVMRLHYDDYVRCVSEHHLIRVKALLDAPG---PIMTVANIPLSTPELLVQVPGKAVVWEPLTAYVSFTNPLPVPLKGGVFTLEGAGLLSATQIHVNGAVAPSGKVSVKLSFSPMRTGVRKLLVDFDSDRLKDVKGVTTVVVHK.
+#=GR 1g0d_A     PP **********.*********************************999...89****************************************************9999999999********************************************985.
+1l9m_A             WKDSATMSLD.PEEEAEHPIKISYAQYERYLKSDNMIRITAVCKVPDES-EVVVERDIILDNPTLTLEVLNEARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSGLLLGNLKIDVPTLGPKERSRVRFDILPSRSGTKQLLADFSCNKFPAIKAMLSIDVA-e
+#=GR 1l9m_A     PP **********.************************************77.89999******************************************************************************************************997.6
+TGM5_HUMAN         WQDTAFITLS.PKEAKTYPCKISYSQYSQYLSTDKLIRISALGEEKSSPEKILVNKIITLSYPSITINVLGAAVVNQPLSIQVIFSNPLSEQVEDCVLTVEGSGLFKKQQKVFLGVLKPQHQASIILETVPFKSGQRQIQANMRSNKFKDIKGYRNVYVD-f
+#=GR TGM5_HUMAN PP **********.**************************************************************************************************************************************************996.7
+TGM4_HUMAN         LNKTSQIQGQvSEVTLTLDSK-TYINSLAILDDEPVIRGFIIAEIVESKEIMASEVFTSFQYPEFSIELPNTGRIGQLLVCNCIFKNTLAIPLTDVKFSLESLG-ISSLQTSDHGTVQPGETIQSQIKCTPIKTGPKKFIVKLSSKQVKEINAQKIVLIT-k
+#=GR TGM4_HUMAN PP 8999****9977778888888.**********************************************************************************.9***************************************************997.5
+EP42_HUMAN         WRKKLHLTLS.ANLEKIITIGLFFSNFERNPPENTFLRLTAMATHSESNLSCFAQEDIAICRPHLAIKMPEKAEQYQPLTASVSLQNSLDAPMEDCVISILGRGLIHRERSYRFRSVWPENTMCAKFQFTPTHVGLQRLTVEVDCNMFQNLTNYKSVTVV-a
+#=GR EP42_HUMAN PP **********.**************************************************************************************************************************************************996.7
+ANNU_SCHAM         KKEKVERLIK.AGAVEEVRIDVSYEDYYKHLVDQCAFNIACLATVHDTNYEYFAQDDFRVRKPDIKIKLEGEPVQGQEMSAVATLKNPLPIPVKKGQFLIEGPGIAKTQKIKLSQNIAPGEEASVNFKFTPKYDGRATIAAKFSSKELDDVDGFLNFMVE-p
+#=GR ANNU_SCHAM PP **********.**************************************************************************************************************************************************997.7
+TGMH_TACTR         KRENGNFSLQ.PHQKEVLSIEVTPDEYLEKLVDYAMIKLYAIATVKETQQTWSEEDDFMVEKPNLELEIRGNLQVGTAFVLAISLTNPLKRVLDNCFFTIEAPG-VTGAFRVTNRDIQPEEVAVHTVRLIPQKPGPRKIVATFSSRQLIQVVGSKQVEVL-d
+#=GR TGMH_TACTR PP **********.*********************************************************************************************.888888888*******************************************995.7
+#=GC PP_cons       **********.**********************************************************************************************999*************************************************9975.
+#=GC RF            xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

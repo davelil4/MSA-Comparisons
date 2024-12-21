@@ -1,0 +1,68 @@
+# STOCKHOLM 1.0
+
+1amk_              .p-QPIAAANWKCN.GTTASIEKLVQVFNEHTIS--...HDVQCVVAPTFVHIPLVQAKLR..NPKYVISAENAI.AK-SGAFTGEVSMPILKDIGVHWVILGHSERRTY.............YGETDEIVAQKVSEACKQGFMVIACIGETLQQREANQTAKVVLSQTSAIAAKLT................KDAWNQV
+#=GR 1amk_      PP .8.5799*******.****************988.....58********************..**********98.76.9******************************.............******************************************************................*******
+1lyx_A             ..RKYFVAANWKCN.GTLESIKSLTNSFNNLDFDP-...SKLDVVVFPVSVHYDHTRKLLQ..-SKFSTGIQNVS.KFGNGSYTGEVSAEIAKDLNIEYVIIGHFERRKY.............FHETDEDVREKLQASLKNNLKAVVCFGESLEQREQNKTIEVITKQVKAFVDLID................--NFDNV
+#=GR 1lyx_A     PP ..689*********.*******************9....8********************8...***********.**********************************.............******************************************************..................*****
+TPIS_LATCH         ..RKFFVGGNWKMN.GDKKSLGELIQTLNAAKVPF-...-TGEIVCAPPEAYLDFARLKVD..-PKFGVAAQNCY.KVSKGAFTGEISPAMIKDCGVTWVILGHSERRHV.............FGESDELIGQKVSHALSEGLGVVACIGEKLDEREAGITEGVVFEVTEVIADDVK................--DWSKV
+#=GR TPIS_LATCH PP ..6889********.****************9997.....8*******************7...***********.**********************************.............******************************************************..................*****
+TPIS_BACAA         ..RKPIIAGNWKMN.KTLSEAVSFVEEVKGQIPAA-...SAVDAVVCSPALFLERLVAATE..GTDLQVGAQNMH.FEKNGAFTGEISPVALSDLKVGYVVLGHSERREM.............FAETDESVNKKTIAAFEHGLTPIVCCGETLEERESGKTFDLVAGQVTKALAGLT................EEQVKAT
+#=GR TPIS_BACAA PP ..689*********.****************9998....8*********************..************.**********************************.............******************************************************................*******
+TPIS_BIFLO         .r-IPLVAGNWKMN.FDHLEATYFVQKLVWLLRDAHfdfKRCEVALFPSFTSLRSVQVLVEadKLHVAYGAQSVS.VTTQGAFTGDVSADMIAHLGCSYVIVGHSERRKY.............HPEDDANIVDQVRAVLAAGMQPILCVGESFEERRQGIELDFAVGQVRDVTRDLN................EEQAAKL
+#=GR TPIS_BIFLO PP .6.689********.*******************999999********************97777899*******.**********************************.............******************************************************................*******
+TPI1_BRUME         .i-RPLVAGNWKMN.GKGESLTELRAIAAGLSSDLG...RKLDAVICVPATLLSRAAETLE..GETVGLGGQDAH.FKTSGAHTGDISPEMLKEAGATHVILGHSERRTD.............HHESNKLICAKTEAAWAAGLVAIVCVGETASERKAERALDVIGDQLSGSLPDGV................--TAENT
+#=GR TPI1_BRUME PP .8.589********.*********************...**********************..************.**********************************.............****************************************************99..................9****
+TPIS_CHLCV         ..RKSYVFGNWKMH.KTAKEAKDFLSIFCPFVKEIS...PASLVGIAPAFTTLSACCESIKemDSSIWLGAQNVH.QDSSGAFTGEVSLPMLQEFHVNFVLLGHSECRHI.............FHEEDATIALKVGAAARSGVVPVLCIGETLEARENGTTKEVLSNQLMLGLAQLP................--ETAPV
+#=GR TPIS_CHLCV PP ..689*********.*********************...*********************99999**********.**********************************.............******************************************************..................9****
+TPIS_MYCGE         .r-TRYLIGNWKTN.KNLKDAVSFVEQFQQNKLN--...YNAKIGIAPVYVHLTEIKKIIS..-DSLLLFAQDAN.FIESGSYTGTVSFTQLQDIGVNNSIIGHSERRKY.............YNETSAVINQKLFACLKASMQVVLCIGEAL-----GQEISFLKTDLTNCLDTID................KSLIKNL
+#=GR TPIS_MYCGE PP .5.689********.***************9877.....59*******************8...9**********.**********************************.............******************************.....*******************................*******
+TPIS_RHIET         ..----------MN.PMQADAKQLLQEFKQLLQENEiteEKCNIGLAPVTLALTSTQAELAnaARSVFTVAQDVSrFGNMGAYTGEVSAELLKDSQIEYVLIGHSERREY.............FAESAAILNAKAQNALNAGLKVIYCVGESLEQRESGQAEVVVLQQICDLASVVT................AEQWPHI
+#=GR TPIS_RHIET PP ............89.9******************999999*******************998889********7527899******************************.............******************************************************................*******
+TPIS_FRATU         ..----------MN.GNSTSIKELCSGISQVQYDT-...SRVAIAVFPSSVYVKEVISQLP..-EKVGVGLQNIT.FYDDGAYTGEISARMLEDIGCDYLLIGHSERRSL.............FAESDEDVFKKLNKIIDTTITPVVCIGESLDDRKSGKLKQVLATQLSLILENLS................VEQLAKV
+#=GR TPIS_FRATU PP ............9*.*******************9....8********************9...***********.**********************************.............******************************************************................*******
+TPI2_RHILO         vv--YWVGTSWKMN.KTLAEALDFAERLAGFIPGFD...DRIQPFVIPPFTAVREVKRALS..STRIKVGAQNMH.WADAGAWTGEISPPMLRDCGLDLVELGHSERREH.............FGETDRTVGLKTAAAVKHGMIPLICVGETLAERESGQADAVLSAQVEGALQFLE...............gEAKTAKI
+#=GR TPI2_RHILO PP 86..79********.*********************...**********************..************.**********************************.............*****************************************************9...............7889****
+TPIS_WOLSU         .m---ILAANFKTN.HTRKSTRHYLERLSNFLFETS...CEHDIFLFPPPLALDFFDDIGG..---VCIGTQNAY.PAPSGAFTGEVGSEQLEELAIQTILIGHSERRGI.............LGESQAFCAEKFRYYASLGYTIFYCIGESLEVRRAGIEATIRHNLSQLEGIDLS................---YPKL
+#=GR TPIS_WOLSU PP .5...899******.*********************...********************98.....*********.**********************************.............*********************************************999999999...................****
+TPI2_LISIN         ..RKPLVGINMKNYiNTRAQTSEWLEATIPLLENF-...SDVDTFIFPSMGTLETTANLLA..GTSFGFGPQNMA.PEKSGPLTGEFSVESIIDLNANYVEIGHAERKNL.............FHEKTSEIAKKIKLALDEKITPVVCVGEEVHANDTNELKNALKKQIEALFQTIN................LAQWENV
+#=GR TPI2_LISIN PP ..689*********8899****************9....8*********************..************.**********************************.............******************************************************................*******
+TPIS_UREPA         .m--KYIIANFKMN.ATQELINHFLNNLTLFDEQ--...-KIIIGLAPGDLYLKTFVNLAE..IKKVNLYAQNPS.LHNKGPYTGQISCLQLLDINIKNALVGHSEIR--.............IDFSQSIIDQKIKISMDLLEQVIICVGETFDAYKQNKSLNFVLNQLANIINYKG................---LKKI
+#=GR TPIS_UREPA PP .5..79********.***************9877......5********************..************.********************************...............8999***********************************************999...................****
+TPIS_TROW8         .e-KKIIAGNWKMN.INHSQAVSYLQELNWRLIDNGhdfDACEIAVFPPFTDLRSVQTLVAsdDIQISYGAQDVS.AFSDGAHTGQISAQFLKDLDCKYVLIGHSEQRCLpcypgnnsainelNNKHDGLIANKLLRSFAAGICPILCIGDISPGDHFDATLSRFRSVLSHLKAISDkkhsigyalgskthflDSDQLHM
+#=GR TPIS_TROW8 PP .6.89*********.*******************9988999*******************97788999*******.***********************************************************************************************99999999**************99*****
+#=GC PP_cons       ..6789********.****************99999...89*******************9..99**********.**********************************.............******************************************************................*******
+#=GC RF            ..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxx
+
+1amk_              VLAYEPVWAIG.TGKVATPEQAQEVHLLLRKWVSENIgTDVAAKLRILYGGSVNAANAATLYAKPDINGFLVGGASLK-PEFRDIIDAT-r..
+#=GR 1amk_      PP ***********.******************************************************************.99****9975.7..
+1lyx_A             ILVYEPLWAIG.TGKTATPEQAQLVHKEIRKIVKDTCgEKQANQIRILYGGSVNTENCSSLIQQEDIDGFLVGNASLK-ESFVDIIKSA-m..
+#=GR 1lyx_A     PP ***********.******************************************************************.*******976.7..
+TPIS_LATCH         VLAYEPVWAIG.TGKTASPQQSQELHGKLRKWLKENVsETVADSVRIIYGGSVTGATCKELASEPDVDGFLVGGASLK-PEFVEYKD---vrq
+#=GR TPIS_LATCH PP ***********.******************************************************************.88998766...578
+TPIS_BACAA         VIAYEPIWAIG.TGKSSSSADANEVCAHIRKVVAEVVsPAAAEAVRIQYGGSVKPENIKEYMAQSDIDGALVGGASLEPASFLGLLGAV-k..
+#=GR TPIS_BACAA PP ***********.*************************99********************************************998765.7..
+TPIS_BIFLO         IVAYEPVWAIG.TGMVATPQSAQDAANAIRNDLKTTFgTKVSDSVRILYGGSVTSKNAAELISQPDVDGFLIGGAALDVEELAKIARL--al.
+#=GR TPIS_BIFLO PP ***********.************************************************************************9875..69.
+TPI1_BRUME         IIAYEPIWAIG.TGLTPTVQDVRAAHAFMREQLIERF.GAKGAHLRLLYGGSVKPSNAAELLGVADVDGALVGGASLKAADFLAICETY-r..
+#=GR TPI1_BRUME PP ***********.*************************.************************************************987.6..
+TPIS_CHLCV         IIAYEPVWAIG.TGKVASTADVQEVHAFCREVLSRIFsKEKSEIISILYGGSVKADNAEGFARCPDVDGLLVGGASLDPQGFANVLRNF-n..
+#=GR TPIS_CHLCV PP ***********.*************************9**********************************************99875.7..
+TPIS_MYCGE         VIAYEPLWAIG.TGKTATPEVANQTIKTIREYINDLYdENVANNISILYGGSVDHNNIQKLAIMEQIDGFLVGKASLEIKNFLEMARVY-a..
+#=GR TPIS_MYCGE PP ***********.*************************************************************************9876.7..
+TPIS_RHIET         VIAYEPIWAIG.TGKTASPEDAQTMHAKIREGLTQIT.-SHGANMAILYGGSVKAENAVELAACPDINGAL-------------------...
+#=GR TPIS_RHIET PP ***********.**********************865..******************************98......................
+TPIS_FRATU         VIAYEPVWAIG.TGVVASLEQIQETHQFIRSLLAKVD.ERLAKNIKIVYGGSLKAENAKDILSLPDVDGGL-------------------...
+#=GR TPIS_FRATU PP ***********.***********************99.*******************************87......................
+TPI2_RHILO         LFAYEPVWAIGdKGIPASADYADKQQALIKTVAGAL-.--LPSVPPVLYGGSVNPGNAAELVGQPNIDGLFIGRSAWQADGYIDILGR--as.
+#=GR TPI2_RHILO PP **********************************75....5999*****************************************976..57.
+TPIS_WOLSU         IIAYEPIWAIG.TGVSASLEQIQETHAALKAHLS---.------CPLLYGGSVNLSNIAEILALPEVDGALIGSASLKVEDFCQMIQK--i..
+#=GR TPIS_WOLSU PP ***********.*********************9..........8*****************************************97..5..
+TPI2_LISIN         VLAYEPEWAIG.KASSAETNYIESAHQALREIIRELG.-GDETLVRIIYGGSVSKENAAEIVRQKNVDGLFVGRFGHKPQNFADIVSIV-s..
+#=GR TPI2_LISIN PP ***********.**********************976..999*******************************************9876.7..
+TPIS_UREPA         IIAYEPIWAIG.TDLELDFKHINYMIEGIKTYLYN--.-CTGINIPILYGGSVNDNNINELCNQKLIDGFLIGNASLDVNVFNKIIDKCK...
+#=GR TPIS_UREPA PP ***********.**********************7....78**********************************************985...
+TPIS_TROW8         LVAYEPSSAIN.SGNCANSGDIVRMAAAIKDIVN---.------VRVLYGGGVNLFNASAVFNEDLLDGILVGRASLNASDFASLIKTC-c..
+#=GR TPIS_TROW8 PP ***********.*********************9..........9*****************************************998.5..
+#=GC PP_cons       ***********.**********************999.**9*******************************************998765...
+#=GC RF            xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

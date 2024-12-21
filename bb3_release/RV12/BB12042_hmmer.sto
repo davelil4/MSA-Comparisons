@@ -1,0 +1,46 @@
+# STOCKHOLM 1.0
+
+1c47_A             ..........................VKIVTVKTKAYPDQKPGTSGLRKRVKVFQSSTNYAENFIQSIISTVEPAQRqEATLVVGGDGRFYMKEAIQLIVRIAAANGIGRLVIGQNGILSTPAVSCIIRKIKAI.....GGIILTASHNPGGpngDFGIKFNISNGGPAP.EAITDKIFQISKTIEEYAICPDLKVDLGV
+#=GR 1c47_A     PP ..........................69**********************************************************************************************************.....************9999***************.*****************************
+PGMU_ECOLI         maihnragqpaqqsdlinvaqltaqyYVLKPEAGNAEHAVKFGTSGHRGSAARHSFNEPHILAIAQAIAEERAKNGI.TGPCYVGKDTHALSEPAFISVLEVLAANGVDVIVQENNGFTPTPAVSNAILVHNKKggplaDGIVITPSHNPPE...DGGIKYNPPNGGPAD.TNVTKVVEDRANALLADGLKGVKRISLDE
+#=GR PGMU_ECOLI PP **************************79*************************************************.**************************************************************************...***************.*****************************
+YB00_METJA         ..........................-----------MGRLFGTSGIRMKNLS----PKIAYKVGLAVAKKYKK---.---VVVGRDTRTTGKLIETALTAGILNGGGEVTTINIV---PTPVLGFNARNYDV-.....-GIMITASHNPPE...YNGIKLFNKNGLAFNkKEEDEIEEIIFKEDFIEVEWHS-------
+#=GR YB00_METJA PP .....................................689***********99....9****************.......***********************************...**************.......************...***************9999*****************99.......
+1k2y_X             ..........................------KAPTLPASIFRAYDIRGVVGDTL-TAETAYWIGRAIGSESLARG-.EPCVAVGRDGRLSGPELVKQLIQGLVDCGCQVSDVGMV---PTPVLYYAANVLEGK.....SGVMLTGAHNPPD...YNGFKIVVAGETLAN.EQIQALRERIEKNDLASGVG---------
+#=GR 1k2y_X     PP ................................799******************88.********************..**************************************...***************.....*************...***************.********************.........
+#=GC PP_cons       ..........................69****9****99**************99**********************.********************************************************.....*************...***************.*****************************
+#=GC RF            ..........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxx...xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1c47_A             LGKqqfdlenkfkPFTVEIVDSVEAYATMLRNIFDFNALKELlsgpnRLKIRIDAMHGvVGPYVKKILCEELGAPaNSAVNCVPLEDFGGHHPDPN...LTYAADLVETMKSG-......EHDFGAAFDGDGDRNMILGKHGFFVNPSDSVAVIAANIFSIPYFQqTGVRGFARSMPTSGALDRVANATKIALYETPTGW
+#=GR 1c47_A     PP **********************************************************9****************9********************...************99.......********************************************99**********************************
+PGMU_ECOLI         AMA..........SGHVKEQDLVQPFVEGLADIVDMAAIQKA.....GLTLGVDPLGG.SGIEYWKRIGEYYNLN.LTIVNDQVDQTFRFMHLDKD...GAIRMDCSSECAMAGllalrdKFDLAFANDPDYDRHGIVT-PAGLMNPNHYLAVAINYLFQHRPQW.GKDVAVGKTLVSSAMIDRVVNDLGRKLVEVPVGF
+#=GR PGMU_ECOLI PP ***..........*****************************.....***********.****************.********************...****************************************.*************************.**********************************
+YB00_METJA         --V..........GEIWEDSRAIRNYMEHILKNVEINEK---.....-FNVVIDCANA.SACLVSPYLFTDLGCH.VISVNSHMDGRFIGRLPEPDeknLKKTMDMIKGLNMSG......DNYIGIAHDGDADRMVAIDEKGRLADFDKLLAAFSRYMVEKT---.-GNKKIVTTVDASMIIDEYLKDLDVEIIRTKVGD
+#=GR YB00_METJA PP ..9..........*************************6.........**********.****************.********************999***************......******************************************.....*********************************
+1k2y_X             ---..........--SVEQVDILPRYFKQIRDDIAMAK----.....PMKVVVDCGNG.VAGVIAPQLIEALGCS.VIPLYCEVDGNFPNHHPDPG..kPENLKDLIAKVKAE-......NADLGLAFDGDGDRVGVVTNTGTIIYPDRLLMLFAKDVVSRN---.-PGADIIFDVKCTRRLIALISGYGGRPVMWKTGH
+#=GR 1k2y_X     PP ...............89*********************.........9**********.****************.********************..***************.......******************************************.....*********************************
+#=GC PP_cons       ***..........**9**********************9***.....9**********.****************.********************...***************......*********************************************.**********************************
+#=GC RF            xxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1c47_A             KFFGNLMDASKLSLCGEESFGTGSD--....HIREKDGLWAVLAWLSILATRKQSVEDILKDHWHKFGRNFFTRYDYEEVEAEGATKMMKDLEALMFDRSfvgkqfsandkvYTVEKADNFEYHDpVDGSVSKNQGLRLIFADGSrIIFRLSGTgsaGATIRLYIDSYEkdnakiNQDPQVMLAPLISIALKVSQLQ-er
+#=GR 1c47_A     PP *************************......9**************************************************************************************************************************99999***********************************987.5*
+PGMU_ECOLI         KWFVDGLFDGSFGFGGEESAGASFLRFdgtpWSTDKDGIIMCLLAAEITAVTGKNPQEHYNELAKRFGAPSYNRLQA--AATSAQKAALSKLSPEMVSAS............TLAGDPITARLTA.APGNGASIGGLKVMTDNGW.FAARPSGT...EDAYKIYCESFL......GEEHRKQIEKEAVEIVSEVLKN-a.
+#=GR PGMU_ECOLI PP *****************************************************************************..*********************............*************.*******************.********...************......********************98.5.
+YB00_METJA         VAVAEEMIKNSAVFGGEPSGTWIHAD-....IHLTPDGILSGLRVLEMLDFYNKKLYEIL-DEIPSYVNLREKIPCEDDKKEKVMSYVIENGESLFKT--............-------------.---VPETVDGARFNLENGW.VLIRPSGT...EPYIRVRVEAKN......NKDAKELLEKGIKLV-KEALSA-l.
+#=GR YB00_METJA PP *************************9.....*****************************.*************************************...............................9***************.********...************......*************99.**9987.6.
+1k2y_X             SLIKKKMKETGALLAGEMSGHVFFKER....WFGFDDGIYSAARLLEILSQ---DQRDSE-HVFSAFPSDISTPEINITVTEDSKFAIIEALQRDAQW--............-------------.GEGNITTLDGVRVDYPKGW.GLVRASNT...TPVLVLRFEADT......-EEELERIKTVFRNQLKAVDSS-lp
+#=GR 1k2y_X     PP ***************************....*******************9...******.*************************************............................*******************.********...************.......*******************97.5*
+#=GC PP_cons       ***************************....*********************************************************************............*************.*******************.********...************......*******************997...
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxx...xxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxx..
+
+1c47_A             tgrtaptvit
+#=GR 1c47_A     PP **********
+PGMU_ECOLI         ..........
+#=GR PGMU_ECOLI PP ..........
+YB00_METJA         ..........
+#=GR YB00_METJA PP ..........
+1k2y_X             vpf.......
+#=GR 1k2y_X     PP ***.......
+#=GC PP_cons       ..........
+#=GC RF            ..........
+//

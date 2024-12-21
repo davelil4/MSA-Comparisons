@@ -1,0 +1,140 @@
+# STOCKHOLM 1.0
+
+1bgx_T             ........mrgmlpl---FEPKGRVLLVDGHHLAYRTFHALKG...--LTTSRGEPVQAVYGFAKSLLKALKEDG.......-DAVIVVFDAKAPSFRHEAYGGYKAGRAPTPEDFPRQLALIKELVDLLGLARLEVPGYEADDVLASLAKKAEKEG..YEVRILTADKDLYQLLSDRIHVLHPE--........-GYLI
+#=GR 1bgx_T     PP ........****986...67899*******************5.....999**********************99........9*************************************************************************..***********************994...........79**
+DPO1_RHILE         mpnsiwtssdaraih-ARMKKGDHLFLVDGSGFIFRAFHALPP...-LTRKTDGLPIGAVSGFCNMLWKLLRDARntdvgvtPTHLAVIFDYSAKTFRKDLYDAYKANRSAPPEELIPQFGLIREATRAFNLPCIETEGFEADDIIATYARQAEATG..ADVTIVSSDKDLMQLVSPNVHMYDSMKD........--KQI
+#=GR DPO1_RHILE PP **************6.6899**********************7....999************************99*********************************************************************************..**************************99..........9**
+DPO1_ANATH         ..............m--------KLVIFDGNSILYRAFFALP-...-ELTTSNNIPTNAIYGFVNVILKYLEQEK.......PDYVAVAFDKRGREARKSEYEEYKANRKPMPDNLQVQIPYVREILYAFNIPIIEFEGYEADDVIGSLVNQFKNTG..LDIVIITGDRDTLQLLDKNVVVKIVSTKfd....ktVEDLY
+#=GR DPO1_ANATH PP ..............6........79*****************.....5***************************.......***************************************************************************..***********************9998888....888999*
+DPO1_LACLA         ...............---MENKDRLLLIDGSSVAFRAFFALYNq.iDRFKAPNGLHTNAIFAFHTMLSSLMERIE.......PTHVLIAFDAGKTTFRTEMFADYKGGRSKTPDEFREQLPFIKEMIEKLGIRHYELANYEADDIIGTLDKMAEAPNvnFDVTIVTGDKDMIQLVDGNTRVEISKKGv......aEFEEF
+#=GR DPO1_LACLA PP ..................789*********************99.99****************************.......**********************************************************************99887669*************************999......9*****
+DPO1_RICFE         ...............---MTQKNTLLLIDGYGFVFRAYYAQQ-...-PLTSPKGEPVGALYGFASMLLKLLSDFK.......PKHVAVVFDSGGKNFRHHIYPEYKANRPPPPEDLVVQLPLVRDVASNLNFPILEKNGYEADDIIATFAAKTAALG..EDVVVISSDKDLLQLMGENIKIYDPLKG........--KYI
+#=GR DPO1_RICFE PP ..................789********************9.....7***************************.......***************************************************************************..*************************988..........9**
+DPO1_TREPA         ...............---MQEKKTLYLLDAYGLIYRSYHAFAR...APLINDSGANVSAVYGFFRSLHTLLCHYR.......PRYFVAVFDSLTPTFRHVQYPAYKAKRDKTSAELYAQIPLIEEILCALGITVLRHDGFEADDLIATLAKRVAAEH..CHVVIISSDKDVLQLVCDTVQVLRLDID........HKWTC
+#=GR DPO1_TREPA PP ..................789**********************...*****************************.......***************************************************************************..****************************........****9
+DPO1_BORBU         ..............m-------KELYLIDALNIIFRNYHVMKN...YPLLNTQGENVNAFIGFFKTLFFIIKEKN.......PEHLIITFDSEVPTFRKQKYPSYKATRDLPPDDLIPQIGWIKEGLLKAKIPIFEMEGYEADDLLASFAKKAAKNN..YLTYIISPDKDLLQTMSEYVKILKIENN........SFIEM
+#=GR DPO1_BORBU PP ..............6.......79*******************...*****************************.......***************************************************************************..****************************........*****
+DPO1_SYNY3         ..............m-FMSAKSPLLLLVDGHSLAFRAYYAFGLskkGPLRTTAGIPTSVCFGFLNSLMQVMESQK.......PAAIAIAFDRREPTFRHEADGAYKSNRQETPEDFAEDLSYLQQLLEALNLQTITYAGYEADDILGTLACQGSDAG..YQVKILSGDRDLFQLVSPEKNISVLYLTrnpfssntGYDEL
+#=GR DPO1_SYNY3 PP ..............7.56789999****************9765569****************************.......***************************************************************************..******************99999998888899999999***
+DPO1_MYCLE         ......msaamtaev-CEDHTKPMLMLLDGNSLAFRAFYALPT...ENFKTRGGLTTNAVYGFTAMLINLLREEA.......PTHIAAAFDVSRKTFRSECYAGYKANRSSIPAEFHGQIDITKEVLGALGITVFAEAGFEADDLIATLATQAENEG..YRVLVVTGDRDALQLVSNDVTVLYPRKGv......sELTRF
+#=GR DPO1_MYCLE PP ......********7.67899**********************...*****************************.......***************************************************************************..***************************99......999***
+DPO1_HELPJ         ............meq--PVIKEGTLALIDTFAYLFRSYYMSAK..nKPLTNDKGFPTGLLTGLVGMVKKFYKDRK......nMPFIVFALESQTKTKRAEKLGEYKQNRKDAPKEMLLQIPIALEWLQKMGFTCVEVGGFEADDVIASLATLSP---..YKTRIYSKDKDFNQLLSDKIALFDGK--........--TEF
+#=GR DPO1_HELPJ PP ............*86..57899******************999..8**************************998......89**********************************************************************9.....***********************995............78*
+#=GC PP_cons       ................57789999*****************98...*9***************************.......***************************************************************************..*************************899........999**
+#=GC RF            ...............xxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxx
+
+1bgx_T             TPAWLWEKYGLR.PDQWADYRALTGDESDNLPGVKGIGEKTARKLLEEWGSLEALLKN.........--LDRLKP--AIREKILA..HMDDLKLSWDLakvrTDLPLEV-DFAKRREPD-RERLRAFLERLEFGSLLHEFGLLESPKALEEAP---------......................................
+#=GR 1bgx_T     PP ************.********************************************9...........999998..88888888..8888888877766568888888.455555555.56**************************99999...............................................
+DPO1_RHILE         GIPDVIEKWGVP.PEKMIDLQAMTGDSVDNVPGIPGIGPKTAAQLLEEYGDLDTLLER........aTEIKQVKRRETILANIDM..ARLSRDLVRLR....TDVPLDLDLDALVLEPQNGPKLIGFLKTMEFTTLTRRVAEACDCDASAIEPAIVRIEWGEtargpdldaaepepvaggipevsgesvpmpprakaksa
+#=GR DPO1_RHILE PP ************.*********************************************........9999999999999999999..99999999999....**********************************************************999*************************************
+DPO1_ANATH         TVENVKEKYGVW.ANQVPDYKALVGDQSDNIPGVKGIGEKSAQKLLEEYSSLEEIYQNl.......dKIKSSIRE--KLEAGKDM..AFLSKRLATIV....CDLPLNVKLEDLRTKEWNKERLYEILVQLEFKSIIKRLGLSEVVQFEFVQQRTDIPDVEQ......................................
+#=GR DPO1_ANATH PP ************.*********************************************6.......444444444..66666677..89*********....***************************************************999999984......................................
+DPO1_LACLA         TPDYLLEKMGLT.PAQFIDLKALMGDSSDNYPGVTKVGEKTGLKLLQEFGSLENLYEN........vDSLKASKMKENLIADKEM..AFLSQQLATIN....TKAPIEIGLDDTLLKGKKVDELSQFYDEMGFAQFKSKLLAEAGGEVTDEKVVDEIDFEIV......................................
+#=GR DPO1_LACLA PP ************.*********************************************........99*****************..***********....***************************************************988887774......................................
+DPO1_RICFE         TEDDVVKKFGTT.SDKLREVMALIGDRSDNIPGVPSIGPKTASSLITQFGSVENIFNS........lEQVSSLKQRETLQNSKEA..ALISWQLIGLD....SNVDLDFQLNNLEWSPPNSDKLTGFLQEYGFKSLYKRAENLFDIKINDHKEIVENKVTEAkeisnaseladfakkae.....................
+#=GR DPO1_RICFE PP ************.*********************************************........*******************..***********....******************************************************99999999***************.....................
+DPO1_TREPA         CDAAYVQQRWTVmPTQLLDLFSLMGDSSDNVPGVRGIGPKTAAHLLHCFGTLDGIYRHtyslkealrTKIVCGKKDAFFSRSLIElrDDVPCVFSLED...sCCIPLDVTSAARIFVREGLHALAQQYRACVQEIDTEATNDTLQMTESSVLTSGRCANECFlsqvegrastpevnsvlkse................lk
+#=GR DPO1_TREPA PP 9998888777555**************************************************999999***********999998889999***999...9***********************************************************9********************................**
+DPO1_BORBU         DNEYVTKKFGVN.SFQIKDYLAIVGDRSDNIPGIKGIGAKGAANLLREFKTLDGIYSN.........LEIINKKHRELLIKEKEN..AFLSYELVSLEe..nLKIPEIENFALKNFSEEIISLFEKHSAIALIKTYKKDILKQEKENADQKSLFKQEPTTNSld....................................
+#=GR DPO1_BORBU PP ************.*********************************************.........888888889999999999..999999988776..7999*********************************************99998877777788....................................
+DPO1_SYNY3         DWQGVVDKMGVT.PAQIVDFKALCGDKSDCIPGINGIGEKTAIKLLAEYETLEKVYEN.........--LAQIKGALKTRLDNGKddAMHSQMLARIV....VDVPLPVTWEDLQLTGFSTDRLVPLLEKLELRTFIDKIQAFHRNFSDNQSPVPMGNEADNgepkktvkakkskekvnpddsq............qlsl
+#=GR DPO1_SYNY3 PP ************.********************************************9...........**********99999988***********....**********************************************************************************............****
+DPO1_MYCLE         TPEAVIEKYGVT.PAQYPDLAALRGDPSDNLPGIPGVGEKTAAKWIVDYGSLQGLVDN.........VESVRGKVGEALRTHLAS..VVRNRELTELV....KDVPLVQTSDTLRLQPWDRDRIHRLFDNLEFRVLRDRLFEALAAAGERVPEVDEGFDVRG......................................
+#=GR DPO1_MYCLE PP ************.*********************************************.........******************..***********....**********************************************************97......................................
+DPO1_HELPJ         LAKDCVEKYGIL.PSQFTDYQGIVGDSSDNYKGVKGIGSKNAKELLQRLGSLEKIYENld.....laKNLLSPKMYQALIQDKGS..AFLSKELATL-....ERGCIKEFDFLSCAFPSENPLLKIKDELKEYGFISTLRDLENSPFIVENVPILNSTPILD......................................
+#=GR DPO1_HELPJ PP ************.***********************************************.....********************..*********9.....99**********************************************************......................................
+#=GC PP_cons       ***********9.*********************************************.........99999999**99999999..99*****9999....********999*****9***********************************99999998......................................
+#=GC RF            xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxx..xxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......................................
+
+1bgx_T             ...................---------------------------------------WPPPEGAFVGFVLSR.........KEPMWADLLALAAAR---.....................................------------GGRVHRAPEPYKALRDLKEA....----.RGLLAKDLSVLALREGLGLP-P
+#=GR 1bgx_T     PP ..........................................................6899***********.........******999888875....................................................6789999*****99999988.........5777***************7.9
+DPO1_RHILE         vegafspadlakaraeafaTLPFDHSAYVTIRDLVTLDRWIADARATGLVAFDTETTSLDAMQAELVGFSLAIadntadptgTKIRAAYVPLVHKNGVGDllgggl........................adnqipmRDALPRLKALLEDESVLKVAQNLKYDYLLLKR....YGIE.-TRSFDDTMLISYVLDAGTGAH
+#=GR DPO1_RHILE PP *************************************************************************9***99999999************999******........................*******99******************************....****..99*******************
+DPO1_ANATH         ...................----------------------------------KELESISQIRSKEIPLMFVQ.........GEKCFYLYDQESNTV---.....................................---FITSNKLLIEEILKSDTVKIMYDLKNIFHqlnlEDTN.NIKNCEDVMIASYVLDSTRSSY
+#=GR DPO1_ANATH PP .....................................................79999***************.........************997...........................................56778888888888888888888888877777799**.**********************
+DPO1_LACLA         ...................----------------------------TDGSISEKVNADDFFYLETLGENYHR.........-EQIVAFAWGNAEKI---.....................................--YVSKNIDLLTKMKFPENTYDFKKNRVLLSH....LDIE.LPLVKFDAMLAKYLISTTED-N
+#=GR DPO1_LACLA PP ...............................................2468999******************9..........999*******9995..........................................344555666666666667777777777888....****.*******************7.9
+DPO1_RICFE         ..kigifgiyllqhkgdnvALILSLQNQSYIIKISNTSHDLFSYNTKNNNDWFSDIIFNLLTDKSIRKITYSL.........KPLLKFYAEQSHEITAIE.....................................DLELMQYALSAGLSQKNLFEEALKEDNRHLSK....PAYR.-EEFKGDTEALATAAYKSVRED
+#=GR DPO1_RICFE PP ..*****************9*****************************************************.........******************.....................................********************************....9999..99*****************99
+DPO1_TREPA         tsavsgaipienrdlrqdvMLARSAGHYRGVTDPVELKRIIDCACANGVVAFDCETDGLHPHDTRLVGFSICF.........QEAEAFYVPLIVPDVSLHtestqctcarstnvetekecteqhgvsasavqdpayvQAVMHQLRRLWNDETLTLVMHNGKFDYHVMHR...aGVFEhCACNIFDTMVAAWLLDPDRGTY
+#=GR DPO1_TREPA PP *******************9*****************************************************.........***************9999********************************************************************...66677899********************
+DPO1_BORBU         ................dinTIDTENVKYRSITTKIELDDLIESLKKAKYISIDTETSSLDTYTAKLIGISISF.........KEFEGYYIPIEAKGKIYIe...................................kNYIIQKFNNLFESNP-KIIGQNYKFDYKILKN....NGFN.PIPPYFDTMIAAYLIDTNSK-V
+#=GR DPO1_BORBU PP ................888999***************************************************.........************9998766...................................6999*******99998.9***************....****.*******************7.7
+DPO1_SYNY3         fdgvpvvnqedglitiqlpKQIQPQIITTIAQLEALVEELKKHTDADFPVAWDTETDSLDPLVANLVGIGCAWg.......qEPNQVAYIPLKHHQGEQLs...................................lGIIKDLLGEILGNAIYPKVLQNAKFDRRVLAH....HGIE.LGGVVLDTMLASYVLQPEE-TH
+#=GR DPO1_SYNY3 PP *******************99****************************************************9.......8999***********99985...................................5678899**************************....****.*******************.69
+DPO1_MYCLE         ...................----------GLLESGTVGRWLAKHADDGRRSGLAIVGTHLPHGGDATALAVAA.........ADGNGGYIDTAMLTPDDD.....................................D----ALAAWLADPDNPKALHEAKLAMHDLAG....RGWT.LGGITSDTALAAYLVRPGQRSF
+#=GR DPO1_MYCLE PP .............................899*****************************************.........**************9877.....................................7....99*************************....****.**********************
+DPO1_HELPJ         ...................NTPALDNAPKKSRMIVLESAEPLSMFLEKLENPNARVFMRLVLDKDKKILALAF........lLQDQGYFLPLEEALFSPF.....................................SLEFLQNAFSQMLQHACIIGHDLKPLLSFLKA...kYQVPlENIRIQDTQILAFLKNPEK--V
+#=GR DPO1_HELPJ PP ...................*****************************************************9........89*****************.....................................******************************99...899998999***************9..7
+#=GC PP_cons       ...................9***************************99************************.........*************98998.....................................99989999999999999999999999999999....9999.999****************999
+#=GC RF            ...................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxx.....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxx.xxxxxxxxxxxxxxxxxxxxxx
+
+1bgx_T             GDDPMLLAYLLDPSNT.TPE.GVARRYG--...----GEWTEEAGERAALSERLFANLWGRLEgEERLLWLYREVERPLSAVLAHMEATGVRLDVAYLRALSLEVAEEIARLEAEVFRLAGHPFNLNSRDQLERVLFDELGLPAIGKTEKTgkRSTSAAVLEALREA..HPIVEKILQYRELTKLKSTYIDPLPDLIHPR
+#=GR 1bgx_T     PP ****************.***.******9.........89************************99*******************************************************************************999988889**************..*******************************
+DPO1_RHILE         GMDPLSEKFLGHTPIP.YKD.VAGSGKANVtfdLVDIDRATHYAAEDADVTLRLWLVLKPRLA.AAGLTSVYERLERPLLPVLARMEARGITVDRQILSRLSGELAQGAARLEDEIYVLAGERFNIGSPKQLGDILFGKMGLSGGSKTKTG.qWSTSAQVLEDLAAA.gFELPRKIVDWRQVTKLKSTYTDALPGYVHPE
+#=GR DPO1_RHILE PP ****************.***.*****99888887899**************************.***************************************************************************************.**************9.9*******************************
+DPO1_ANATH         ELETLFVSYLNT----.DIE.AVKKDKK--...-----------IVSVVLLKRLWDELLRLID.LNSCQFLYESIERPLIPVLYEMEKTGFKVDRDALIQYTKEIENKILKLETQIYQIAGEWFNINSPKQLSYILFEKLKLPVIKKTKTG..YSTDAEVLEELFDK..HEIVPLILDYRMYTKILTTYCQGLLQAINPS
+#=GR DPO1_ANATH PP **********76.....999.9999998................889****************.***************************************************************************************..**************..*******************************
+DPO1_LACLA         KISTIARLFNSGHLAT.DEE.IFGKGTKIA...LPDDAVLFEHLARKIKVLALAKEKMMAELL.ENEQEHLLSDMELPLAEVLAKMEITGIAVSQNTLEEIGAENEEKLASLTREIYDLAGEEFNINSPKQLGVILFEKLQLPVGKKTKTG..YSTAVDVLEDLAAL..SPVVAKILEYRQINKVQSTYVKGLIP-QIAD
+#=GR DPO1_LACLA PP 9***************.***.*******99...999***************************.***************************************************************************************..**************..**************************.6778
+DPO1_RICFE         ASTGSTSKLP------.LET.KFGKMSN--...------VINESARIVAEFTSLYKQNILELK.DNKAFRLYSNIDLPICFILDKMEKIGIKVDANYLNQLSAEFGAEILKLEEEIFALSGTKFNIGSPKQLGEILFEKMQLPFGKASAKAssYSTGAEILEKLSEH.gYNIADLLLRWRQLTKLKNTYTDSLPKQIDNI
+#=GR DPO1_RICFE PP 9999999988.......669.9999997...........899*********************.***********************************************************************************999999**************.********************************
+DPO1_TREPA         GMDVLAASFFQIRTIT.FEE.VVAKGQTFA...HVPYECAVRYAAEDADITFRLYHYLKLRLE.TAGLLSVFETIEMPLLPILARMEEVGIFLRKDVVQQLTRSFSDLIQQYEHDIFSLAGHEFNIGSPKQLQTVLFQELHLPPGKKNTQG..YSTDHSVLKKLARK..HPIAEKILLFRDLSKLRSTYTESLAK-LADQ
+#=GR DPO1_TREPA PP ****************.***.*******99...******************************.***************************************************************************************..**************..*********************88888.****
+DPO1_BORBU         SLDFLAEKYLMHKNIK.YED.VIQKNDNFA...NISLEMATSYSSEDADITFRLFNIFTKKLK.EDKLDKLMHEIEMPFNKVIIEMEENGIYLDKEYLKEYGKELGKELEAIENEIIKSIGIDFNLNSPKQMHEILFEKLNLKLPEKMKKD..-STDIKVLESLREQ..HESIENLIKYRQIAKLKSTYTDNLIELINYK
+#=GR DPO1_BORBU PP 7***************.***.*******89...******************************.************************************************************************************998...*************..*******************************
+DPO1_SYNY3         NLTDLCRRYNLGLVALsYKDlGLKKDQTIA...DLPLETAGQYCGLDCYATYLLASKLQKELDqYPELKEILKEIEQPLEKILAAMEDRGIRIDCDYLQTLSQQLAENLLTIETAAYEAAGESFNLSSPKQLGTILFDKLGLDRKKSRKTKtgYSTDHATLEKLQGD..HPIIDAILEHRTLAKLKSTYVDALPELVNGQ
+#=GR DPO1_SYNY3 PP **********98654313331456667777...******************************999*******************************************************************************99888888**************..*******************************
+DPO1_MYCLE         TLDDLSLRYLRRELRA.ETP.EQEQFSLLDn.vDEVDKQAIQTLILRARAVVDLAAALDAELD.LIDSTSLLGEMELPVQQVLADMEKAGIAADLRLLTELQSQFGDQIRDAAEAAYAVIGKQINLSSPKQLQVVLFEELGMPKTKRTKTG..YTTDADALQSLFCKteHPFLQHLLTHRDVTRLK-VTVDGLLN-AVAA
+#=GR DPO1_MYCLE PP ****************.***.*****99888.8899***************************.***************************************************************************************..*************999*****************.89******.8899
+DPO1_HELPJ         GFDEVLKEYLKEDLIP.HEK.IKDFKTK--...--SKAEKSELLSMELNALKRLCEYFEKGGL.EEDLLTLARDIETPFVKVLMGMEFQGFKIDAPYFKRLEQEFKNELNVLERQILDLIGVDFNLNSPKQLGEVLYDKLGLPKNKS----..HSTDEKNLLKILDK..HPSIPLILEYRELNKLFNTYTTPLLR-LKDK
+#=GR DPO1_HELPJ PP 9***************.***.******9.......456889*******************666.69********************************************************************************9......9*************..**************************.****
+#=GC PP_cons       9*********999999.999.999999988...99999*************************.9***********************************************************************************999..**************..***************************99**
+#=GC RF            xxxxxxxxxxxxxxxx.xxx.xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1bgx_T             TGRLHTRFNQTATATGRLSSSDPNLQNIPVRTPLGQRIRRAFI...AEEGW.LLVALDYSQIELRVLAHLSGDENLIRVFQEGRDIHTETASWMFGVP.REAVDPLMRRAAKTINFGVLYGMSAHRLSQELAIPYEEAQAFIERYFQSFPKVRAWIEKTLEEGRRRGYVETLFGRRRYVPDLEARVKSVREAAE......
+#=GR 1bgx_T     PP *******************************************...*****.**********************************************.***********************************************************************************************......
+DPO1_RHILE         TKRVHTSYSLASTTTGRLSSSEPNLQNIPVRTAEGRKIRTAFI...STPGH.KLISADYSQIELRVLAHVAEIPQLTKAFEDGVDIHAMTASEMFGVP.VEGMPGEVRRRAKAINFGIIYGISAFGLANQLSIERSEAGDYIKKYFERFPGIRDYMESRKAMARDKGYVETIFGRRINYPEIRSSNPSVRAFNE......
+#=GR DPO1_RHILE PP *******************************************...*****.**********************************************.***********************************************************************************************......
+DPO1_ANATH         SGRVHTTFIQTGTATGRLASSDPNLQNIPVKYDEGKLIRKVFV...PEGGH.VLIDADYSQIELRILAHISEDERLISAFKNNVDIHSQTAAEVFGVD.IADVTPEMRSQAKAVNFGIVYGISDYGLARDIKISRKEAAEFINKYFERYPKVKEYLDNTVKFARDNGFVLTLFNRKRYIKDIKSTNRNLRGYAE......
+#=GR DPO1_ANATH PP *******************************************...*****.**********************************************.***********************************************************************************************......
+DPO1_LACLA         DGKIHTRYVQDLTQTGRLSSVDPNLQNIPVRLEEGRKIRKAFV...PSKDS.LLLSSDYSQIELRVLAHISGDEHLIDAFKHGADIHTSTAMRVFGIEkAEDVTANDRRNAKAVNFGVVYGISDFGLARNLGITRKDAKNYIETYFERYPGIKTYMENIVREARDKGFVETMSHRRRKIPDINARNFNVRGFAE......
+#=GR DPO1_LACLA PP 9******************************************...*****.*********************************************9889*********************************************************************************************......
+DPO1_RICFE         THRVHTTFLQTSTTTGRLSSQEPNLQNVPIRSSEGNKIRQAFI...AEEGY.KLISADYSQIELRILSHIANIDALKQAFINKDDIHTQTACQIFNLQ.KHELTSEHRRKAKAINFGIIYGISAFGLAKQLNVSNGEASEYIKKYFAEYKGVQEYMEQTKAFASSNGYVINFFGRKCFVP--LIHDKKLKQFAE......
+#=GR DPO1_RICFE PP *******************************************...*****.**********************************************.*********************************************************************************..67899*******......
+DPO1_TREPA         TGRVHTSFVQIGTATGRLSSRNPNLQNIPIKSTEGRKIRQAFQ...ATVGH.ELISADYTQIELVVLAHLSQDRNLLNAFRQHIDIHALTAAYIFNVS.IDDVQPAMRRIAKTINFGIVYGMSAFRLSDELKISQKEAQSFIYRYFETYPGVYAFSTQVAEQTRKTGYVTSLAGRRRYIRTIDSRNTLERARAE......
+#=GR DPO1_TREPA PP *******************************************...*****.**********************************************.***********************************************************************************************......
+DPO1_BORBU         TNRLHTSFIQTKTATGRITSINPNLQNIPIKDEKGRKIRKAFK...PENGN.IFISADYSQIELAILAHLSQDEVLIKAFENNKDIHTETASKLFKIE.EKEITPNLRRIAKSINFGIIYRMSDFRLAKELGITKEEAKGFINSYFDSYPKIKEFIINQINFVRNAGYSETILKRRRYIKEINSNNYLERSAAE......
+#=GR DPO1_BORBU PP *******************************************...*****.**********************************************.***********************************************************************************************......
+DPO1_SYNY3         TQRIHTDFNQAVTSTGRLSSSNPNLQNIPIRSDFSRQIRRAFL...PQKDW.LLVSADYSQIELRILAHLSQEPVLLQAYGDRQDVHGVTAKLLFG--.KEDITPAERNLGKTINFGVIYGMGAQRFARETGISAVEGREFIDRYHRTYAQVFDYLETMKLEAIAKGYVTTIVGRRRYFNFVTEALRQLRGKTVteldlv
+#=GR DPO1_SYNY3 PP *******************************************...*****.********************************************...77*******************************************************************************************9999****
+DPO1_MYCLE         DGRIHTTFNQTIATTGRLSSTEPNLQNIPIRTNAGRQIRDAFVvgsENNGYtELMTADYSQIEMRIMAHLSRDEGLIEAFHTGEDLHSFVASRAFGIP.IEDITPELRRRVKAMSYGLAYGLSAYGLATQLKISTEEAKLQMEQYFARFGGVRDYLMDVVEQARKDGYTSTVLGRRRYLPELDSSNRQIREAAE......
+#=GR DPO1_MYCLE PP *******************************************9988999999*********************************************.***********************************************************************************************......
+DPO1_HELPJ         DDKIHTTFIQTGTATGRLSSHSPNLQNIPVRSPKGLLIRKGFI..aSSKEY.CLLGVDYSQIELRLLAHFSQDKDLMEAFLKGRDIHLETSKALFG--.-EDLAKEKRSIAKSINFGLVYGMGSKKLSETLSIPLSEAKSYIEAYFKRFPSIKDYLNGMREEILKTSKAFTLLGRYRVFDFTGVNDYVKGNYL-......
+#=GR DPO1_HELPJ PP *******************************************..8899**.********************************************....9************************************************************************************99988887.......
+#=GC PP_cons       *******************************************...*****.**********************************************.9**********************************************************************************************......
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+1bgx_T             ............RMAFNMPVQGTAADLMKLAMVKLFPRLEEMGA--RM..LLQVHDELVLEA----AEAVARLAKEVMEGVYP....LAVPLEVEVGIGEDWLSAKe.
+#=GR 1bgx_T     PP ............*****************************665..59..************....89***************....***************9986*.
+DPO1_RHILE         ............RAAINAPIQGSAADVIRRAMIKIEPALVEVGLADRVrmLLQVHDELIFEVEDQDVEKAMPVIVSVMENATMpaleMRVPLRVDARAATNWDEAH..
+#=GR DPO1_RHILE PP ............********************************998777*******************************9888889****************98..
+DPO1_ANATH         ............RIAMNSPIQGSPADIMKLAMIKVYQKLKENNLKSKI..ILQVHDELLIEAPYEEKDIVKEIVKREMENAVR....LKVPLVVEVKEGLNWYETK..
+#=GR DPO1_ANATH PP ............************************************..*********************************....*****************87..
+DPO1_LACLA         ............RTAINSPIQGSAADILKIAMINLDKALSARDFKSKL..LLQVHDEIILDVPLEELDEIKVLVKQTMEEAIE....LAVPLKVDENTGKTWYEAK..
+#=GR DPO1_LACLA PP ............************************************..*********************************....*****************97..
+DPO1_RICFE         ............RAAINAPIQGTNADIIKIAMINLDQEIEKNNLKTRL..VLQIHDELLFEVPEDEVELVTPIIKKIMENSTN....MDVPIITEIRVGNNWMEIH..
+#=GR DPO1_RICFE PP ............************************************..*********************************....*****************98..
+DPO1_TREPA         ............RMALNTQIQSSAADIVKIAMIAIQRAFARRPLRAQL..LLQVHDELIFEAPAAETAIVKEILFAEMEHAVE....LSIPLRIHVESGNSWGDFH..
+#=GR DPO1_TREPA PP ............************************************..*********************************....****************987..
+DPO1_BORBU         ............RIAINSIIQGSAADIMKIAMVKVFNEFKSKKMESKI..LLQVHDEMLIESPIEEENEVKKILKIMMETAYT....LNLPLRANIETGKSWGEIH..
+#=GR DPO1_BORBU PP ............************************************..*********************************....*****************98..
+DPO1_SYNY3         dvkmnyndaqllRSAANAPIQGSSADIIKIAMVKLAKLLESYQTR--M..LLQVHDELIFEMPPEEWEELAPLIQNTMEQALT....LSVPLVVEMHRGSNWMEAK..
+#=GR DPO1_SYNY3 PP *****************************************7665..8..*********************************....*****************97..
+DPO1_MYCLE         ............RAALNAPIQGSAADIIKVAMIAVDKSLKQAKLASRM..LLQVHDELLFEVAIGEREQIEAMVREQMGSAYP....LDVPLEVSVGFGRSWGAA-ah
+#=GR DPO1_MYCLE PP ............************************************..*********************************....***************976.7*
+DPO1_HELPJ         ............REGVNAIFQGSASDLLKLGMLKVSERFKNNPS-VRL..LLQVHDELIFEIEEKNAPELQQEIQRILNDEVY...pLRVPLETSAFIAKRWNELKg.
+#=GR DPO1_HELPJ PP ............5***************************9665.59*..******************************999...9*****************87*.
+#=GC PP_cons       ............*****************************9999999..*********************************....****************987..
+#=GC RF            ............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxx..
+//

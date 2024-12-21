@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+1aiq_A             x-----KQYLELMQKVLDEG.TQKND-..RTGT.---.--GTLSIFGH.QMRFNLQD-GFPLVTTKRCHLRSIIHELLWFLQ-GDTNIAYLHEN.NVTIWDEWAD-...........ENGDLGPVYGKQWRAWPTP.DGRHIDQITTVLNQLKNDPDSERIIVSAWNVGELDKM.ALAPCHAFFQFYVAD....GKLSCQ
+#=GR 1aiq_A     PP 6.....9*************.*****...****.......9*******.********.9***********************.***********.*********9............*******************.*************************************.***************....******
+1b02_A             .MTQFDKQYNSIIKDIINNG.ISDEEFdvRTKWdSDGtPAHTLSVISK.QMRFDNSE--VPILTTKKVAWKTAIKELLWIWQLKSNDVNDLNMM.GVHIWDQWKQ-...........EDGTIGHAYGFQLGKKNRSlNGEKVDQVDYLLHQLKNNPSSRRHITMLWNPDELDAM.ALTPCVYETQWYVKH....GKLHLE
+#=GR 1b02_A     PP .9******************.*****999****99**9**********.*******9..***********************************.**********............*********************************************************.***************....******
+TYSY_STRP8         .MTKADQIFKANIQKIINEG.SLSEQA..RPKY.KDG.RTAHSKYITGaFAEYDLAKGEFPITTLRPIPIKSAIKELFWIYQDQSNSLDVLEAKyNVHYWNEWEVD...........QTRTIGQRYGAVV------.--KKHDIISKILKQLAENPWNRRNVISLWDYEAFEETkGLLPCAFQIMFDVRRvgedLYLDAS
+#=GR TYSY_STRP8 PP .9******************.******..****.***.********9989********************************************************...........*************.........9*********************************99**************999989*****
+TYSY_HAEIN         .----MKQYLELCRRIVSEGeWVANE-..RTGK.---.--HCLTVINA.DLEYDVANNQFPLITTRKSYWKAAIAEFLGYIR-GYDNAADFRAL.GTKTWDANANEnaawlanphrrGVDDMGRVYGVQGRAWRKP.NGETIDQLRKIVNNLTKGIDDRGEILTFFNPGEFDLG.CLRPCMHTHTFSLVG....DTLHLT
+#=GR TYSY_HAEIN PP .....69*******************...****.......********.*********************************.***********.*****************************************.*************************************.***************....******
+#=GC PP_cons       .9***9**************.******..****.***.**********.*********************************************.***********...........*******************.*************************************.***************....******
+#=GC RF            .xxxxxxxxxxxxxxxxxxx.xxxxxx..xxxx.xxx.xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx....xxxxxx
+
+1aiq_A             LYQRSCDVFLGLPFNIASYALLVHMMAQQCDLEVGDFVWTGGDTHLYSNHM.DQTHLQLSR.EPRPLPKLIIKRKPES.IFDYR....FEDFEIEGYDPH.PGIKAPVAI
+#=GR 1aiq_A     PP ***************************************************.*********.****************.*****....************.*******98
+1b02_A             VRARSNDMALGNPFNVFQYNVLQRMIAQVTGYELGEYIFNIGDCHVYTRHI.DNLKIQMER.EQFEAPELWINPEVKD.FYDFT....IDDFKLINYKHG.DKLLFEVAV
+#=GR 1b02_A     PP ***************************************************.*********.****************.*****....************.*******98
+TYSY_STRP8         LTQRSNDILVAHHINAMQYVALQMMIAKHFGWKIGKFFYFVNNLHIYDNQF.DQAQELLKRqPVASQPKLVLNVPDGTnFFDIK....PDDFELQNYDPVkPQLHFDLAI
+#=GR TYSY_STRP8 PP ***************************************************.*********8899************99*****....***********99*******98
+TYSY_HAEIN         SYQRSCDVPLGLNFNQIQVFTFLALMAQITGKKAGKAYHKIVNAHIYEDQLeLMRDVQLKR.EPFPLPKLEINPDIKT.LEDLEtwvtMDDFKVVGYQSH.EPIKYPFSV
+#=GR TYSY_HAEIN PP ***************************************************99********.****************.****99999************.*******97
+#=GC PP_cons       ***************************************************.*********.****************.*****....************.*******98
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxx....xxxxxxxxxxxx.xxxxxxxxx
+//

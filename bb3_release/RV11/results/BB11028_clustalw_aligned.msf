@@ -1,0 +1,80 @@
+PileUp
+
+
+
+   MSF:  230  Type: P    Check:  3149   .. 
+
+ Name: 1nbq_A oo  Len:  230  Check:  3209  Weight:  13.0
+ Name: 1rhf_A oo  Len:  230  Check:  7071  Weight:  10.0
+ Name: 1tlk_ oo  Len:  230  Check:  3452  Weight:  14.0
+ Name: 1cvs_C oo  Len:  230  Check:  4804  Weight:  10.0
+ Name: 1wit_ oo  Len:  230  Check:  6031  Weight:  8.0
+ Name: 2ncm_ oo  Len:  230  Check:  8671  Weight:  14.0
+ Name: 1d9k_A oo  Len:  230  Check:  3304  Weight:  11.0
+ Name: 1bqs_A oo  Len:  230  Check:  1884  Weight:  7.0
+ Name: 1vca_A oo  Len:  230  Check:  7226  Weight:  7.0
+ Name: 1hnf_ oo  Len:  230  Check:  7497  Weight:  10.0
+
+//
+
+
+
+1nbq_A          .....AMGSV TVHSSEPEVR IPENNPVKLS CAYSGFS.SP RVEWKFDQGD 
+1rhf_A          .......... ...GAPVKLT VSQGQPVKLN CSVEGXE.EP DIQWVKDGAV 
+1tlk_           VAEEKPHVKP YFTKTILDMD VVEGSAARFD CKVEGYP.DP EVMWFKDDNP 
+1cvs_C          .MPVAPYWTS PEKMEKKLHA VPAAKTVKFK CPSSGTP.QP TLRWLKNGKE 
+1wit_           .......LKP KILTASRKIK IKAGFTHNLE VDFIGAP.DP TATWTVGD.. 
+2ncm_           .......RVL QVDIVPSQGE ISVGESKFFL CQVAGDAKDK DISWFSPNGE 
+1d9k_A          .......... QVRQSPQSLT VWEGETTILN CSYEDST.FD YFPWYRQFPG 
+1bqs_A          ......VKPL QVEPPEPVVA VALGASRQLT CRLACADRGA SVQWRGLDTS 
+1vca_A          ........FK IETTPESRYL AQIGDSVSLT CSTTGCE.SP FFSWRTQIDS 
+1hnf_           .TNALETWGA LGQDINLDIP SFQMSDDIDD IKWEKTSDKK KIAQFRKEKE 
+
+
+1nbq_A          TTRLVCYNNK ITASYEDRVT FLPTGITFKS VTREDTGTYT CMVS.EEGGN 
+1rhf_A          VQNLDQLY.. IPVSEQHWIG FLS....LKS VERSDAGRYW CQVE.DGG.. 
+1tlk_           VK........ .......... .......... ....ESRHFQ IDYD.EEG.. 
+1cvs_C          FKPDHRIG.. .....GYKVR YATWSIIMDS VVPSDKGNYT CIVENEYGSI 
+1wit_           .......... .......... .......... ..SGAALAPE LLVDAKSS.. 
+2ncm_           KLS....... .......... .......... ...PNQQRIS VVWN.DDD.. 
+1d9k_A          KSPALLIAIS .......... ........LV SNKKEDGRFT IFFNKREK.. 
+1bqs_A          LGAVQSDTG. .......... ...RSVLTVR NASLSAAGTR VCVGSCGGRT 
+1vca_A          PLNGKVTNEG .......... ..TTSTLTMN PVSFGNEHSY LCTATCESRK 
+1hnf_           TFKEKDTYKL FKN....... ...GTLKIKH LKTDDQDIYK VSIYDTKG.. 
+
+
+1nbq_A          SYGEVKVKLI VLVPPSKPTV NIPSSATIGN RAVLTCSEQD .GSPPSEYTW 
+1rhf_A          .......... ......ETEI SQPVWLTVEG VPFFTVEPKD LAVPPNAPFQ 
+1tlk_           .......... .......... .......... .......... .......... 
+1cvs_C          NHTYQLDVVE RSPHRPILQA GLPANKTVAL GSNVEFMCKV YSDPQPHIQW 
+1wit_           .......... .......... .......... .......... .......... 
+2ncm_           .......... .......... .......... .......... .......... 
+1d9k_A          .......... .......... .......... .......... .......... 
+1bqs_A          FQHTVQLLVY AFPNQLTVSP AALVPGDPEV ACTAHKVTPV DPNALSFSLL 
+1vca_A          LEKGIQVEIY SFPKDPEIHL SGPLEAGKPI TVKCSVADVY PFDRLEIDLL 
+1hnf_           .......... ......KNVL EKIFDLKIQE RVSKPKISWT CINTTLTCEV 
+
+
+1nbq_A          FKDGIVMPT. .....NPKST RAFSNSSYVL NPTTGELVFD PLSASDTGEY 
+1rhf_A          LSCEAVGPP. .....EPVTI VWWRGTTKIG GPAPSPSVLN VTGVTQSTXF 
+1tlk_           .......... .......... .......... ...NCSLTIS EVCGDDDAKY 
+1cvs_C          LKHIEVNGSK IGPDNLPYVQ ILKTAGVNTT DKEMEVLHLR NVSFEDAGEY 
+1wit_           .......... .......... .......... ...TTSIFFP SAKRADSGNY 
+2ncm_           .......... .......... .......... ...SSTLTIY NANIDDAGIY 
+1d9k_A          .......... .......... .......... ...KLSLHIT DSQPGDSATY 
+1bqs_A          VGGQELEGAQ ALGPEVQEEE EEPQGDEDVL FRVTERWRLP PLGTPVPPAL 
+1vca_A          KGDHLMKSQ. .........E FLEDADRKSL ETKSLEVTFT PVIEDIGKVL 
+1hnf_           MNGTDPELN. .......... ...LYQDGKH LKLSQRVITH KWTTSLSAKF 
+
+
+1nbq_A          SCEARNGYG. TPMTSNAVRM EAVE...... 
+1rhf_A          SCEAHNLKG. LASSRTATVH LQ........ 
+1tlk_           TCKAVNSLG. EATCTAELLV ETM....... 
+1cvs_C          TCLAGNSIG. LSHHSAWLTV L......... 
+1wit_           KLKVKNELG. EDEAIFEVIV Q......... 
+2ncm_           KCVVTAEDGT QSEATVNVKI FQ........ 
+1d9k_A          FCAATGSFNK LTFGAGTRLA VSPY...... 
+1bqs_A          YCQATMRLPG LELSHRQAIP VLHSPTSPE. 
+1vca_A          VCRAKLHIDE MDSVPTVRQA VKELQVYISP 
+1hnf_           KCTAGNKVSK ESSVEPVSCP EK........ 
+

@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+1a0h_A             ..---------------------------SPLLETCVPDRGREYRGRLAVTTH-.-GSRCLAWSSEQAKALSKDQDFNPAVPLA-ENFCRNPDGDEEgAWCYV--ADQPGDFEYCDLNYCEEPVDGDLGDRLGEDPDAAIEGRTSEDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQTEKELFESYIEG---------
+#=GR 1a0h_A     PP .............................799*********************...****************************.************9*****..9**********************************************************************************985.........
+1b2i_A             ..---------------------------------CMHGSGENYDGKISKTMS-.-GLECQAWDSQSPHAHGYIPSKFPNKNLK-KNYCRNPDRELR.PWCFT--TDPNKRWELCDIPRC--------------------------------------------------------------------------------
+#=GR 1b2i_A     PP ...................................******************...****************************.************.*****..***************................................................................................
+1kdu_              ..---------------------------------CYEGNGHFYRGKASTDTM-.-GRPCLPWNSATVLQQTYHAH-RSDAGLG-KNYCRNPDNRRR.PWCYV--QGLKPLVQECMVHDCA-------------------------------------------------------------------------------
+#=GR 1kdu_      PP ...................................******************...*******************9.9******.************.*****..***************7...............................................................................
+KRM2_HUMAN         mgTQALQGFLFLLFLPLLQPRGASAGSLHSPGLSECFQVNGADYRGHQNRTGPRgAGRPCLFWDQTQQHSYSSASDPHGRWGLGAHNFCRNPDGDVQ.PWCYVAETEEGIYWRYCDIPSCHMPGYLGCFVDSGAPPALSGPSGTSTKLTVQVCLRFCRMKGYQLAGVEAGYACFCGSESDLARGRLAPATDCDQICFGHP
+#=GR KRM2_HUMAN PP **69*********************************************************************************************.******************************************************************************************************
+KRM1_HUMAN         ..MAPPAARLALLSAAALTLAARPAPSPGLGPGPECFTANGADYRGTQNWTALQ.GGKPCLFWNETFQHPYNTLKYPNGEGGLGEHNYCRNPDGDVS.PWCYVAEHEDGVYWKYCEIPACQMPGNLGCYKDHGNPPPLTGTSKTSNKLTIQTCISFCRSQRFKFAGMESGYACFCGNNPDYWKYGEAASTECNSVCFGDH
+#=GR KRM1_HUMAN PP ..79**************************************************.******************************************.******************************************************************************************************
+#=GC PP_cons       ..79*************************9************************.******************************************.**********************9********************************************************************98*********
+#=GC RF            ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a0h_A             ------------------------------------------------------------------------------------------------------------------.----------------.--------------------------------------------------------------------
+#=GR 1a0h_A     PP ........................................................................................................................................................................................................
+1b2i_A             ------------------------------------------------------------------------------------------------------------------.----------------.--------------------------------------------------------------------
+#=GR 1b2i_A     PP ........................................................................................................................................................................................................
+1kdu_              ------------------------------------------------------------------------------------------------------------------.----------------.--------------------------------------------------------------------
+#=GR 1kdu_      PP ........................................................................................................................................................................................................
+KRM2_HUMAN         GQLCGGDGRLGVYEVSVGSCQGNWTAPQGVIYSPDFPDEYGPDRNCSWALGPPGAA-LELTFRLFELADPRDRLELRDAASGSLLRAFDGARPPPSGPLRLGTAALLLTFRSDArGHAQGFALTYRGLQDAaEDPEAPEGSAQTPAAPLDGANVSCSPRPGAPPAAIGARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLA
+#=GR KRM2_HUMAN PP ********************************************************.**************************************************************************9********************************************************************
+KRM1_HUMAN         TQPCGGDGRIILFDTLVGACGGNYSAMSSVVYSPDFPDTYATGRVCYWTIRVPGASHIHFSFPLFDIRDSADMVELLDGYTHRVLARFHGRSRPPLSFNVSLDFVILYFFSDRI.NQAQGFAVLYQAVKEE.LPQERPAVNQTVAEVITEQANLSVSAARSSKVLYVITTSPSHPPQTVPGSNSWAPPMGAGSHRVEGWT
+#=GR KRM1_HUMAN PP ******************************************************************************************************************.****************.********************************************************************
+#=GC PP_cons       ******************************************************************************************************************.****************.********************************************************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a0h_A             ---------------------------------------------------------------------------------r
+#=GR 1a0h_A     PP .................................................................................9
+1b2i_A             ---------------------------------------------------------------------------------t
+#=GR 1b2i_A     PP .................................................................................5
+1kdu_              ---------------------------------------------------------------------------------d
+#=GR 1kdu_      PP .................................................................................7
+KRM2_HUMAN         PGKGPPALGASRGPRRSWAVWYQQPRGVALPCSPGDPQAEGSAAGYRPLSASSQSSLRSLISAL-----------------.
+#=GR KRM2_HUMAN PP *************************************************************985..................
+KRM1_HUMAN         VYGLATLLILTVTAIVAKILLHVTFKSHRVPASGDLRDCHQPGTSGEIWSIFYKPSTSISIFKKKLKGQSQQDDRNPLVSD.
+#=GR KRM1_HUMAN PP *******************************************************************************98.
+#=GC PP_cons       **************************************************************98***************98.
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

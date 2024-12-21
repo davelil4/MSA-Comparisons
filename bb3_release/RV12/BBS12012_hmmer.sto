@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+1bqb_A             a-AATGTGKGVLGDTKDININSIDGGFSLEDLTH.qGKLSAYNFNDQTG--.-----QATLITNEDENFVKddQRAGVDANYYAKQTYDYYKNTFGResyDNHGSPIVSLTHVNHYGGQDNRNNAAWIGDKMIYGDGdGRTFTNlSGANDVVAHEITHGVTQQTANLEYKDQSGALNESFSDVFGYFVD--------.-D
+#=GR 1bqb_A     PP 6.68999***************************.**************........69************999*******************************************************************************************************************..........9
+PRT1_ERWCA         .DEQRHCAQQTLMHVQSLMVSHHPRPEPHEKLPAgqANRSIHDAEQQQQL-.-----PGKLVRAEGQPSNG..DIAVDEAYSYLGVTYDFFWKIFQRnslDAEGLPLAGTVHYG-----QDYQNAFWNGQQMVFGDGdGKIFNRfTIALDVVAHELTHGITENEAGLIYFRQSGALNESLSDVFGSMVKQYHLGQTT.EQ
+#=GR PRT1_ERWCA PP .789*****************************9889************7.......**************..*****************************************.....9*****************************************************************************.**
+1ezm_              e-AGGPGGNQKIGKYTYGSDYGPLIVNDRCEMDD..GNVITVDMNSSTDDS.KTTPFRFACPTNTYKQVNG.aYSPLNDAHFFGGVVFKLYRDWFGT...SPLTHKLYMKVHYG-----RSVENAYWDGTAMLFGDG.ATMFYP.LVSLDVAAHEVSHGFTEQNSGLIYRGQSGGMNEAFSDMAGEAAEFYMR----.GK
+#=GR 1ezm_      PP 5.78899***************************..***************.*******************.*************************...**************.....******************.******.************************************************.....9*
+PRZN_RENSA         .DRTDRKDINRVVCDANSKVIDLEASNADALLKC..GKTQANKPTRIEGQAaSSVADVNSVYNFLNDTASF..YGANTKANDLTALIGNDEGDGLGK...-AMRAVVRICVTDSQNGEQCPFANAFWYNGQMTYGQG.------.VTTDDITGHELTHGVTEKTNGLVYANESGAINESMSDVFGEFIDLSNGSSDDtAA
+#=GR PRZN_RENSA PP .789******************************..**************99*******************..************************....************************************........**************************************************999**
+#=GC PP_cons       .78899****************************..*************9*.*****9*************..************************...*************************************.******.***************************************************9.**
+#=GC RF            .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+1bqb_A             EDFLMGEDVytpGKEGDALRSMSNPEQFG.........QPSHMKDYVYT........EKDNGGVHTNSGIPNKAAYNVIQAI-.......--GKSKSEQIYYRALTEY....-LTSNSNFKDLKDALYQAAKDLYE..QQTAEQVYEAWNEVGVE
+#=GR 1bqb_A     PP *****************************.........***********........*************************..........9***************.....***********************..****************7
+PRT1_ERWCA         ADWLIGAELladGIHGMGLRSMSHPGTAYddellgidpQPSHMNEYVNT........REDNGGVHLNSGIPNRAFYLAAIALG.......GHSWEKAGRIWYDTLCDK....TLPQNADFEIFARHTIQHAAKRFN..HTVADIVQQSWETVGVE
+#=GR PRT1_ERWCA PP *************************************************........**************************.......******************....************************..****************7
+1ezm_              NDFLIGYDI...KKGSGALRYMDQPSRDG........rSIDNASQYY--........--NGIDVHHSSGVYNRAFYLLANSP-.......GWDTRKAFEVFVDANRYY....-WTATSNYNSGACGVIRSAQNRNY..-SAAD-VTRAFSTVGVT
+#=GR 1ezm_      PP *********...*****************........99********............***********************........******************.....***********************...9999.*********96
+PRZN_RENSA         NRWAIGE--...GSSLGVIRSMKDPGKYG.........EPAIYKGSNWKptatnpndNNDQGGVHSNSGVGNKLAFLITDGQTfngqtvtGIGIAKAAQLYWAAQRQLtanaTYSSLGKALNSACSANVS-NNVAGttAANCTQVANAIKAVGIK
+#=GR PRZN_RENSA PP *******.....*****************.........**********************************************************************9999******************.9999878899************97
+#=GC PP_cons       *********...*****************.........***********........**************************.......******************....************************..99*************97
+#=GC RF            xxxxxxxxx...xxxxxxxxxxxxxxxxx.........xxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,144 @@
+# STOCKHOLM 1.0
+
+GILX_HELHO         ...IIGGQECDETGHPWLALLHRSE.....-GSTWSGVLLNRDWILTAAHCEELG........-PMKICFGMKNRNVLRGDE.Q..VKVAAVKKCYPATAgtiyncnyvntvlmnN-----DLlkrelfpMLIKLDSSVD.....YN.ERVAPLSLPTSP-....-ASLGAECSVLGWGTTTPDDV.....TLPDVPVCV
+#=GR GILX_HELHO PP ...89*******************6......**********************99.........9***********999988.7..654444433333333344466768555544.....5544445999*********.....**.************......69******************.....*********
+PCE_TACTR          ...IIGGREAPIGAWPWMTAVYIKQg..giRSVQCGGALVTNRHVITASHCVVNSagtdvmpaDVFSVRLGEHNLYSTDDDS.NpiDFAVTSVKHHEHFV...............LATYLNDI.......AILTLNDTVT.....FT.DRIRPICLPYRKLr..yDDLAMRKPFITGWGTTAFNGP.....-SSAVLREV
+#=GR PCE_TACTR  PP ...89******************999..999***********************99******999************99988.6115678899*******...............********.......**********.....**.***********985..5677899**************8......********
+1bio_              ...ILGGREAEAHARPYMASVQLNG.....-AHLCGGVLVAEQWVLSAAHCLEDG........-KVQVLLGAHSLSQPEPSK.R..LYDVLRAVPHPDSQ...............PDTIDHDL.......LLLQLSEKAT.....LG.PAVRP--LPQRVD....RVAPGTLCDVAGWGIVNHAGR.....-RPDSLQHV
+#=GR 1bio_      PP ...79*******************6......************************.........9*****************.*..**************...............********.......**********.....**.****9..577777....79******************7......********
+1fq3_A             ...IIGGHEAKPHSRPYMAYLMIWD.....SLKRCGGFLIQDDFVLTAAHCWGSS........--INVTLGAHNIKEQEPTQ.Q..FIPVKRPIPHPAYN...............PKNFSNDI.......MLLQLERKAK.....RT.RAVQPLRLPSNKA....QVKPGQTCSVAGWGQTAPLGK.....-HSHTLQEV
+#=GR 1fq3_A     PP ...89********************.....************************9..........*****************.*..**************...............********.......**********.....**.*************....********************7......********
+GRAM_RAT           ...IIGGREAVPHSRPYMVSLQNTK.....-SHMCGGVLVHQKWVLTAAHCLSEP.......lQQLKLVFGLHSLHDPQDPG.L..TFYIKQAIKHPGYN...............-LKYENDL.......ALLKLDGRVK.....PS.KNVKPLALPRKPR...dKPAEGSRCSTAGWGITHQRGQ.....-LAKSLQEL
+#=GR GRAM_RAT   PP ...89******************95......************************.......********************.*..**************................89*****.......**********.....**.**********998...68899****************6......********
+COGS_UCAPU         ...IVGGVEAVPNSWPHQAALFIDD.....-MYFCGGSLISPEWILTAAHCMDGA........GFVDVVLGAHNIREDEATQ.V..TIQSTDFTVHENYN...............SFVISNDI.......AVIRLPVPVT.....LT.AAIATVGLPSTD-....-VGVGTVVTPTGWGLPSDSAL.....GISDVLRQV
+#=GR COGS_UCAPU PP ...8********************6......************************........*******************.*..**************...............********.......**********.....**.***********9......8*******************.....*********
+PRN3_MOUSE         ...IVGGHEARPHSRPYVASLQLSRf...pGSHFCGGTLIHPRFVLTAAHCLQDIs......wQLVTVVLGAHDLLSSEPEQ.Q..KFTISQVFQN-NYN...............PEENLNDV.......LLLQLNRTAS.....LG.KEVAVASLPQQDQ....TLSQGTQCLAMGWGRLGTQAP.....-TPRVLQEL
+#=GR PRN3_MOUSE PP ...8********************99...99************************9......999*****************.*..******9987.9**...............********.......**********.....**.*************....******************998......********
+5ptp_              ...IVGGYTCGANTVPYQVSLNSG-.....-YHFCGGSLINSQWVVSAAHCYKSG........--IQV-LGEDNINVVEGNE.Q..FISASKSIVHPSYN...............SNTLNNDI.......MLIKLKSAAS.....LN.SRVASISLPTSC-....-ASAGTQCLISGWGNTKSSGT.....SYPDVLKCL
+#=GR 5ptp_      PP ...8******************98.......8***********************..........887.9************.*..**************...............********.......**********.....**.************......6*******************.....*********
+1ton_              ...IVGGYKCEKNSQPWQVAVINE-.....--YLCGGVLIDPSWVITAAHCYSNN........--YQVLLGRNNLFKDEP-A.Q..RRLVRQSFRHPDYI...............VHDHSNDL.......MLLHLSEPAD.....IT.GGVKVIDLPTKEP....--KVGSTCLASGWGSTNPSEM.....VVSHDLQCV
+#=GR 1ton_      PP ...8*****************987........8********************99..........*************88.6.9..99************...............********.......**********.....**.************5......99*****************.....*********
+1a0h_B             ...IVEGQDAEVGLSPWQVMLFRKS....pQELLCGASLISDRWVLTAAHCLLYPpwdknftvDDLLVRIGKHSRTRYERKVeK..ISMLDKIYIHPRYN..............wKENLDRDI.......ALLKLKRPIE.....LS.DYIHPVCLPDKQTa.akLLHAGFKGRVTGWGNRRETWTtsvaeVQPSVLQVV
+#=GR 1a0h_B     PP ...89*******************9....99*********************9999999999999**********999887626..667899********..............9999*****.......**********.....**.***********996.667899*************999877777789******
+1bru_P             ...VVGGEDARPNSWPWQVSLQYDQ.....WRHTCGGTLVDQSWVLTAAHCISSS........-RTYVVLGRHSLSTNEPGS.L..AVKVSKLVVHQDWN...............SNQLGNDI.......ALLKLASPVS.....LT.DKIQLGCLPAAGT....ILPNNYVCYVTGWGRLQTNGA.....-SPDILQQG
+#=GR 1bru_P     PP ...79********************.....*************************.........9*****************.*..**************...............********.......**********.....**.*************....********************7......********
+1fxy_A             ...IVGGYNCKDGEVPWQALLINEE.....NEGFCGGTILSEFYILTAAHCLYQK........-RFKVRVGDRNTEQEEGGE.A..VHEVEVVIKHNRFT...............KETYDFDI.......AVLRLKTPIT.....FR.MNVAPASLPTAP-....-PATGTKCLISGWGNTASSGA.....DYPDELQCL
+#=GR 1fxy_A     PP ...8*********************.....*************************.........9*****************.*..**************...............********.......**********.....**.************......59******************.....*********
+1rfn_A             ...VVGGEDAKPGQFPWQVVLNGK-.....VDAFCGGSIVNEKWIVTAAHCVEGV........-KITVVAGEHNIEETEHTE.Q..KRNVIRIIPHHNYN...............INKYNHDI.......ALLELDEPLV.....LN.SYVTPICIADKEY....TFLKFGSGYVSGWGRVFHKGR.....-SALVLQYL
+#=GR 1rfn_A     PP ...79*****************99......5************************.........9*****************.*..**************...............********.......**********.....**.*************....********************7......9*******
+CTRB_GADMO         ...IVNGEEAVPHSWPWQVSLQQSN.....GFHFCGGSLINENWVVTAAHCNVRT........-YHRVIVGEHDKASDEN-I.Q..ILKPSMVFTHPKWD...............SRTINNDI.......SLIKLASPAV.....LG.TNVSPVCLGESSD....VFAPGMKCVTSGWGLTRYNAP.....GTPNKLQQA
+#=GR CTRB_GADMO PP ...89********************.....************************9.........9************976.7.*..**************...............********.......**********.....**.*************....*********************.....*********
+TRP3_PSEAM         .lg--EYKECPPHSRPWQVNLHDG-.....-KMSCSGALIDRWWIVTSFDCALTA........HRTIATLGDHDLTVEEGTE.Q..HIPVAEVIVHSPYR...............--SPLHSL.......TMVRLAQPAQ.....FN.QHVQPVPLASRC-....-PQPGEICSVSGWGSTRPNHF.....EPQQRLKCI
+#=GR TRP3_PSEAM PP .87..679**************99.......6***********************........*******************.*..*************9.................88999*.......**********.....**.************......5*******************.....*********
+FA12_CAVPO         ...IVGGLVALPGAHPYIAALYWG-.....-SNFCSGSLIAPCWVLTAAHCLQNRp.....apEELKVVLGQDRHNQSCEHC.Q..TLAVHSYRLHEAFS...............PSSYLNDL.......ALLRLQKSADgscaqLS.PYVQTVCLPSGPAp..pSESETTCCEVAGWGHQFEGAE.....EYSSFLQEA
+#=GR FA12_CAVPO PP ...89******************9.......6***********************9.....*********************.*..**************...............********.......********9989999**.**********9876..688999****************.....*********
+HGFA_HUMAN         ...IIGGSSSLPGSHPWLAAIYIG-.....-DSFCAGSLVHTCWVVSAAHCFSHSp.....prDSVSVVLGQHFFNRTTDVT.Q..TFGIEKYIPYTLYS..............vFNPSDHDL.......VLIRLKKKGDrc.atRS.QFVQPICLPEPGS....TFPAGHKCQIAGWGHLDENVS.....GYSSSLREA
+#=GR HGFA_HUMAN PP ...89******************9.......5**********************99.....**9******************.*..**************..............77889****.......******997666.669*.*************....*********************.....*********
+UROK_CHICK         ...IVGGSQAEVETQPWIAGIFQNIm..gtDQFLCGGSLIDPCWVLTAAHCFYNPtkk.qpnkSVYKVFLGKSILNTNDEHE.Q..VFMVDEIISHPDFTd.............hTGGNDNDI.......ALIRIRTASGqc.avES.NYVRTVCLPEKNL....NLYDNTWCEIAGYGKQNSYDI.....YYAQRLMSA
+#=GR UROK_CHICK PP ...8*****************99877..7799**********************9999.9998899****************.*..*************94.............455689***.......*****9987666.6699.*************....*********************.....*********
+TRYT_PIG           ...IVGGKEAPGHKWPWQVSLRCLDq...yWKHFCGGSLIHPQWVLTAAHCFGPEka....dpLYIRVQLGEQHLYYQD---.R..LLLVSRIIVHPNYY...............DEVNGADI.......ALLELEDPVN.....LS.SHVQPVTLPPASE....TFPKGTRCWVTGWGDVHSGWP....lPPPYPLKQV
+#=GR TRYT_PIG   PP ...8*****************99887...89*********************99888....8889***********994....7..9*************...............********.......**********.....**.*************....********************9....78899*****
+PSS8_MOUSE         ...ITGGGSAKPGQWPWQVSITYDG.....-NHVCGGSLVSNKWVVSAAHCFPREh.....srEAYEVKLGAHQLDSYSNDT.V..VHTVAQIITHSSYR...............EEGSQGDI.......AFIRLSSPVT.....FS.RYIRPICLPAANA....SFPNGLHCTVTGWGHVAPSVS....lQTPRPLQQL
+#=GR PSS8_MOUSE PP ...789******************6......*********************9999.....9999*****************.*..**************...............********.......**********.....**.*************....******************999....89********
+TRY5_AEDAE         ...IVGGFEVPVEEVPFQVSLSGVG.....SSHFCGGSLLSERWVMTAGHCAASG.......qTNLQVRIGSSQHASG---G.Q..LIKVKKVNRHPKYD...............EVTTDYDF.......ALLELEETVT.....FS.DSCAPVKLPQKDT....PVNEGTCLQVSGWGNTQNPSE.....-SSEVLRAA
+#=GR TRY5_AEDAE PP ...8*********************.....**********************999.......899*********9999...7.9..**************...............********.......**********.....**.*************....******************996......********
+HYPB_HYPLI         ...IVGGFEADIEDFPWQVSIQRGG.....-YHFCGGSIYSPEIIVTAAHCLEKId......aSQLRVRVGGSYWDEE---G.S..LLTVSNFKIHEKYD...............AMIMWYDV.......ALLKLSSKLT.....YG.ATVKNIELAKET-....-PPDNADAVVSGWGTIYENYP.....YMPVQLRSV
+#=GR HYPB_HYPLI PP ...8********************6......***********************99......99*********99998...6.8..**************...............********.......**********.....**.**********99......59******************.....*********
+TRYP_PLEPL         ...IIGGHECAAHSRPFMASLNYG-.....-YHFCGGVLINNQWVLSVAHCWYNP........YAMQVMLGEHDLRKFEGTE.Q..LMKTDTIIWHPNYD...............YQTLDLTS.......CSSSSTILWK.....VT.HAVAPIPLPTSCP....--VAGTPCSVSGWGNTARDGDe...vYLPTLLQCM
+#=GR TRYP_PLEPL PP ...89******************9.......8***********************........*******************.*..**************...............*****999.......99999999**.....**.************5......9**************99987...789*******
+KLK9_HUMAN         ..a-IGAEECRPNSQPWQAGLFHLT.....-RLFCGATLISDRWLLTAAHCRKPY........--LWVRLGEHHLWKWEGPE.Q..LFRVTDFFPHPGFNkd...........lsANDHNDDI.......MLIRLPRQAR.....LS.PAVQPLNLSQTC-....-VSPGMQCLISGWGAVSSPKA.....LFPVTLQCA
+#=GR KLK9_HUMAN PP ..7.799****************96......*********************999..........*****************.*..**************99...........9889999***.......**********.....**.************......8*******************.....*********
+KLKA_HUMAN         eay---GAPCARGSQPWQVSLFNG-.....LSFHCAGVLVDQSWVLTAAHCGNKP........--LWARVGDDHLLLLQG-E.Q..LRRTTRSVVHPKYHqgsg.......pilpRRTDEHDL.......MLLKLARPVV.....PG.PRVRALQLPYRC-....-AQPGDQCQVAGWGTTAARRV.....KYNKGLTCS
+#=GR KLKA_HUMAN PP 975...889**************9......5************************..........************987.7.*..******************.......***999******.......**********.....**.************......6*******************.....*********
+TMS3_HUMAN         ...IVGGNMSLLSQWPWQASLQFQG.....-YHLCGGSVITPLWIITAAHCVYDLy.....lpKSWTIQVGLVSLLDNP--A.P..SHLVEKIVYHSKYK...............PKRLGNDI.......ALMKLAGPLT.....FN.EMIQPVCLPNSEE....NFPDGKVCWTSGWGATEDGAG.....DASPVLNHA
+#=GR TMS3_HUMAN PP ...89*******************6......***********************99.....99*************995..5.7..999***********...............********.......**********.....**.*************....*********************.....*********
+TMS2_MOUSE         ...IVGGLNASPGDWPWQVSLHVQG.....-VHVCGGSIITPEWIVTAAHCVEEPls....gpRYWTAFAGILRQSLMFY-G.S..RHQVEKVISHPNYD...............SKTKNNDI.......ALMKLQTPLA.....FN.DLVKPVCLPNPGM....MLDLDQECWISGWGATYEKGK.....-TSDVLNAA
+#=GR TMS2_MOUSE PP ...8********************6......**************************....*99********99999976.7.9..**************...............********.......**********.....**.*************....********************7......********
+DES1_HUMAN         ...IVGGTEVEEGEWPWQASLQWDG.....-SHRCGATLINATWLVSAAHCFTTYk.....npARWTASFGVTIKPSK----.M..KRGLRRIIVHEKYK...............HPSHDYDI.......SLAELSSPVP.....YT.NAVHRVCLPDASY....EFQPGDVMFVTGFGALKNDGY.....-SQNHLRQA
+#=GR DES1_HUMAN PP ...8********************6......*********************9997.....78889999998877776.....6..799***********...............********.......**********.....**.*************....********************7......********
+DER3_DERPT         ...IVGGEKALAGECPYQISLQSS-.....-SHFCGGTILDEYWILTAAHCVAGQt......aSKLSIRYNSLKHSLG---G.E..KISVAKIFAHEKYD...............SYQIDNDI.......ALIKLKSPMK.....LNqKNAKAVGLPAKGS....DVKVGDQVRVSGWGYLEEGSY.....SLPSELRRV
+#=GR DER3_DERPT PP ...8******************98.......6**********************97......7777777777666666...5.7..9*************...............********.......**********.....7616799*********....*********************.....*********
+TMS5_MOUSE         ...IVGGQAVASGRWPWQASVMLGS.....-RHTCGASVLAPHWVVTAAHCMYSFrl...srlSSWRVHAGLVSHGAVRQ-H.Q..GTMVEKIIPHPLYS...............AQNHDYDV.......ALLQLRTPIN.....FS.DTVDAVCLPAKEQ....YFPWGSQCWVSGWGHTDPSHT.....HSSDTLQDT
+#=GR TMS5_MOUSE PP ...8********************6......***********************999...9999*************976.6.9..**************...............********.......**********.....**.*************....*********************.....*********
+CTR2_VESCR         ...IVGGTDAPRGKYPYQVSLRAP-.....-KHFCGGS-ISKRYVLTAAHCLVGKs......kHQVTVHAGSVLLNKE---E.A..VYNAEELIVNKNYN...............SIRLINDI.......GLIRVSKDIS.....YT.QLVQPVKLPVSN-....TIKAGDPVVLTGWGRIYVNGP.....-IPNNLQQI
+#=GR CTR2_VESCR PP ...8******************99.......6*****6.89***********9998......8889999999999998...5.7..9*************...............********.......**********.....**.************.....6*******************8......********
+PRTC_RABIT         ..l-IDGKLTRRGDSPWQVILLDSK.....KKLACGAVLIHVSWVLTAAHCMEEP........KKLFVRLGEYDLRRKERWE.L..DLNIQEVLIHPNYS...............RSTTDNDI.......ALLRLAQPAT.....LS.QTIVPICLPDNGLaereLMQAGQETVVTGWGYHSSREKea.krNRTFILNFI
+#=GR PRTC_RABIT PP ..6.79999****************.....*************************........*******************.*..**************...............********.......**********.....**.*********9987666689*************99988855.5566778****
+FIBC_LUMRU         ...VIGGTNASPGEFPWQLSQQRQSg...sWSHSCGASLLSSTSALSASHCVDGVl......pNNIRVIAGLWQQSDTSG-T.Q..TANVDSYTMHENYGa.............gTASYSNDI.......AILHLATSIS.....LG.GNIQAAVLPANNN....NDYAGTTCVISGWGRTDGTNN.....-LPDILQKS
+#=GR FIBC_LUMRU PP ...69*****************9999...9************************99......9***************87.6.*..*************98.............8899*****.......**********.....**.*************....*****************9996......********
+TPA_MOUSE          ...IKGGLYTDITSHPWQAPIFVKNkrspgERFLCGGVLISSCWVLSAAHCFLERf.....ppNHLKVVLGRTYRVVPGEEE.Q..TFEIEKYIVHEEFD...............DDTYDNDI.......ALLQLRSQSKqc.aqES.SSVGTACLPDPNL....QLPDWTECELSGYGKHEASSP.....FFSDRLKEA
+#=GR TPA_MOUSE  PP ...679999*************9998899899**********************99.....*********************.*..**************...............********.......******998877.7799.9************....*********************.....*********
+#=GC PP_cons       ...89******************98.....99**********************9........99***********9999*8.9..99************...............9*******.......**********.....**.************9....99******************9.....9********
+#=GC RF            ...xxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxxxxxx...............xxxxxxxx.......xxxxxxxxxx.....xx.xxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxx
+
+GILX_HELHO         NIEIFNNAVCQVARD--.......LWKFTNKLCAGVDF.....GGKDSCKGDSGGPLVCDN-.....-QLTGNVSWGF.....NCEQGEKYG-YIKLIKFNFWIQNII-q.
+#=GR GILX_HELHO PP ************988.........799***********.....*****************9.......**********.....****99999.567778******987.5.
+PCE_TACTR          QLPIWEHEACRQAYEKD.......LNITNVYMCAGFAD.....GGKDACQGDSGGPMMLPVKt..geFYLIGIVSFGK.....KCALPGFPGVYTKVTEFLDWIAEHM-v.
+#=GR PCE_TACTR  PP *****************.......**************.....***************99888..89***********.....**********************998.7.
+1bio_              LLPVLDRATCNRHHD--.......GAITERLMCAES--.....NRRDSCKGDSGGPLVCGG-.....-VLEGVVTSGS....rVCGN-RKPGIYTRVASYAAWIDSVL-a.
+#=GR 1bio_      PP ************988.........89**********.......99****************.......*********9....88998.89**************9976.7.
+1fq3_A             KMTVQEDRKCESLRHY-.......-YDSTIELCVGP--.....EIKTSFKGDSGGPLVCKV-.....--AQGIVSYGR.....NNGM---PRACTKVSSFVHWIKKTMK..
+#=GR 1fq3_A     PP *************996.........588999*****.......99***************6........9********.....9998...9***************996..
+GRAM_RAT           DLRLLDTRMCNNSRFWN.......GVLTDSMLCLKAGA.....KGQAPCKGDSGGPLVCGK-.....GKVDGILSFSS....kNCTDIFKPTVATAVAPYSSWIRKVI-g.
+#=GR GRAM_RAT   PP *****************.......**************.....*****************9......7*********9....9**********************987.7.
+COGS_UCAPU         DVPIMSNADCDAVYG--.......-IVTDGNICIDS-T.....GGKGTCNGDSGGPLNYNG-.....-LTYGITSFGAa...aGCEA-GYPDAFTRVTYFLDWIQTQT-g.
+#=GR COGS_UCAPU PP ************986..........8**********.7.....9*****************.......9********99...99998.99**************9875.8.
+PRN3_MOUSE         NVTVVT-FLCREH----.......------NVCTLVPR.....RAAGICFGDSGGPLICNG-.....-ILHGVDSFVI....rECASLQFPDFFARVSMYVDWIQNVL-r.
+#=GR PRN3_MOUSE PP *****8.788774.................68******.....******************.......*********9....9**********************986.6.
+5ptp_              KAPILSDSSCKSAYP--.......GQITSNMFCAGL--.....EGGDSCQGDXGGPVVCSG-.....-KLQGIVSWGS.....GCAK-NKPGVYTKVCNYVSWIKQTI-a.
+#=GR 5ptp_      PP ***************.........79**********.......9*****************.......9*********.....***9.99***************997.6.
+1ton_              NIHLLSNEKCIETYK--.......DNVTDVMLCAGE--.....MGKDTCAGDSGGPLICDG-.....-VLQGITSGGA....tPCAK-KTPAIYAKLIKFTSWIKKVMK..
+#=GR 1ton_      PP *************99.........78**********.......8*****************.......**********....99*99.88****************996..
+1a0h_B             NLPLVERPVCKASTR--.......IRITDNMFCAGYKPg..egKRGDACEGDSGGPFVMKSPyn.nrWYQMGIVSWGE.....GCDRDGKYGFYTHVFRLKKWIQKVI-d.
+#=GR 1a0h_B     PP *************99.........79**********877..66789*************98788.89***********.....**********************997.6.
+1bru_P             QLLVVDYATCSKWWG--.......STVKTNMICAGG--.....DGISSCNGDSGGPLNCQANg...qWQVHGIVSFGS....lGCYY-HKPSVFTRVSNYIDWINSVI-a.
+#=GR 1bru_P     PP ************988.........79**********.......9*****************9*...************....****9.99***************987.6.
+1fxy_A             DAPVLSQAKCEASYP--.......GKITSNMFCVFL--.....EGKDSCQGDSGGPVVCNG-.....-QLQGVVSWGD.....GCQK-NKPGVYTKVYNYVKWIKNTI-a.
+#=GR 1fxy_A     PP ***************.........79**********.......9*****************.......**********.....***9.99***************987.6.
+1rfn_A             RVPLVDRATCLRSTK--.......FTIYNNMFCAGH--.....EGGDSCQGDSGGPHVTEVEg...tSFLTGIISWGE.....ECAK-GKYGIYTKVSRYVNWIKEKT-k.
+#=GR 1rfn_A     PP ************998.........79**********.......9****************999...99**********.....***9.99***************987.6.
+CTRB_GADMO         ALPLMSNEECSQTWG-N.......NMISDVMICAGA--.....AGATSCMGDSGGPLVCQKDn...vWTLVGIVSWGS....sRCSV-TTPAVYARVTELRGWVDQIL-a.
+#=GR CTRB_GADMO PP ************998.6.......8***********.......9*****************99...************....89998.89**************9875.7.
+TRP3_PSEAM         TVPVVDDQTCVNTFPQY.......LYWSQHMVCAGR--.....ADTDNCMSNRGSVMVCGG-.....-QLQGVQWFNH.....GCKDPAHPSVYSKMCLYNDWIHQVM-a.
+#=GR TRP3_PSEAM PP *****************.......************.......89****************.......**********.....***********************98.5.
+FA12_CAVPO         QVPLISSERCSSPEVHG.......DAFLSGMLCAGFLE.....GGTDACQGDSGGPLVCEDEaaehrLILRGIVSWGS.....GCGDRNKPGVYTDVASYLTWIQKHT-a.
+#=GR FA12_CAVPO PP *****************.......**************.....*****************999999999*********.....**********************987.6.
+HGFA_HUMAN         LVPLVADHKCSSPEVYG.......ADISPNMLCAGYFD.....CKSDACQGDSGGPLACEKNg...vAYLYGIISWGD.....GCGRLHKPGVYTRVANYVDWINDRI-r.
+#=GR HGFA_HUMAN PP *****************.......**************.....********************...************.....*********************9986.6.
+UROK_CHICK         TVNLISQDDCKNKYYDS.......TRVTDNMVCAGDPL.....WETDACKGDSGGPMVCEHNg...rMTLYGIVSWGD.....GCAKKNKPGVYTRVTRYLNWIDSNM-n.
+#=GR UROK_CHICK PP *****************.......**************.....********************...************.....**********************998.5.
+TRYT_PIG           RVPIVENSECDMQYHLGlstgdniPIVRDDMLCAGS--.....EGHDSCQGDSGGPLVCRVNg...tWLQAGVVSWGE.....GCALPNRPGIYTRVTHYLDWIHQCI-p.
+#=GR TRYT_PIG   PP **************9878888877889*********.......9*****************9*...9***********.....**********************976.8.
+PSS8_MOUSE         EVPLISRETCSCLYNINavp.eepHTIQQDMLCAGYVK.....GGKDACQGDSGGPLSCPMEg...iWYLAGIVSWGD.....ACGAPNRPGVYTLTSTYASWIHHHV-a.
+#=GR PSS8_MOUSE PP **************998999.9999*************.....********************...************.....**********************986.6.
+TRY5_AEDAE         YVPAVSQKECHKAYLSF.......GGVTDRMVCAGFKE.....GGKDSCQGDSGGPLVHDN-.....-TLVGVVSWGY.....GCAQAGYPGVYARVASVRDWVKEV--sg
+#=GR TRY5_AEDAE PP *****************.......**************.....*****************9.......**********.....*********************987..68
+HYPB_HYPLI         DVKIVSREVCRSDEYGY......gNAIGPTMICAYA--.....VGKDACQGDSGGPLVVGE-.....-ALVGVVSWGE.....GCAYPGFPGVYTDVSVVRSWITENA-k.
+#=GR HYPB_HYPLI PP **********9987665......599**********.......8****************9.......9*********.....*********************9986.6.
+TRYP_PLEPL         DVPIVDEEQCMKSYP--.......DMISPRMVCAGFMD.....GSRDACNGDSGSPLVCRG-.....-EVYGLVSWGQ.....GCAQPNYPGVYVKLCEFLGWIERTL-e.
+#=GR TRYP_PLEPL PP ***************.........79************.....******************.......9*********.....*********************9876.6.
+KLK9_HUMAN         NISILENKLCHWAYP--.......GHISDSMLCAGLWE.....GGRGSCQGDSGGPLVCNG-.....-TLAGVVSGGA....ePCSRPRRPAVYTSVCHYLDWIQEIME..
+#=GR KLK9_HUMAN PP **************9.........79************.....******************.......*********9....99*********************9985..
+KLKA_HUMAN         SITILSPKECEVFYP--.......GVVTNNMICAGL-D.....RGQDPCQSDSGGPLVCDE-.....-TLQGILSWGV....yPCGSAQHPAVYTQICKYMSWINKVI-r.
+#=GR KLKA_HUMAN PP **************9.........79**********.7.....9****************9.......*********9....9**********************997.5.
+TMS3_HUMAN         AVPLISNKICNHRDVYG.......GIISPSMLCAGYLT.....GGVDSCQGDSGGPLVCQERr...lWKLVGATSFGI.....GCAEVNKPGVYTRVTSFLDWIHEQME..
+#=GR TMS3_HUMAN PP *****************.......**************.....******************9*...************.....***********************995..
+TMS2_MOUSE         MVPLIEPSKCNSKYIYN.......NLITPAMICAGFLQ.....GSVDSCQGDSGGPLVTLKNg...iWWLIGDTSWGS.....GCAKALRPGVYGNVTVFTDWIYQQMR..
+#=GR TMS2_MOUSE PP *****************.......**************.....******************9*...************.....**********************9985..
+DES1_HUMAN         QVTLIDATTCNEPQAYN.......DAITPRMLCAGSLE.....GKTDACQGDSGGPLVSSDAr..diWYLAGIVSWGD.....ECAKPNKPGVYTRVTALRDWITSKT-g.
+#=GR DES1_HUMAN PP *****************.......**************.....*****************999..9************.....*********************9875.8.
+DER3_DERPT         DIAVVSRKECNELYSKA......nAEVTDNMICGGDVA....nGGKDSCQGDSGGPVVDVKN.....NQVVGIVSWGY.....GCARKGYPGVYTRVGNFIDWIESK--rs
+#=GR DER3_DERPT PP **************987......689*********987....599*****************.....***********.....*********************986..68
+TMS5_MOUSE         MVPLLSTHLCNSSCMYS.......GALTHRMLCAGYLD.....GRADACQGDSGGPLVCPSGd...tWHLVGVVSWGR.....GCAEPNRPGVYAKVAEFLDWIHDTV-q.
+#=GR TMS5_MOUSE PP *****************.......**************.....*****************999...9***********.....**********************986.6.
+CTR2_VESCR         TLSIVNQQTCKFKHW--.......-GLTDSQICTFT-K.....LGEGACDGDSGGPLVANG-.....-VQIGIVSYGH.....PCAV-GSPNVFTRVYSFLDWIQKN--ql
+#=GR CTR2_VESCR PP *************99..........59*******99.6.....8*****************.......999*******.....***8.99***************97..69
+PRTC_RABIT         TVPVAPQNECEQVMS--.......NIISENMLCAGILG.....DRRDACDGDSGGPMVASFRg...tWFLVGLVSWGE.....GCGDLNNYGVYTKVSRYLDWIHSHI-e.
+#=GR PRTC_RABIT PP ************998.........79************.....****************9999...9***********.....**********************998.5.
+FIBC_LUMRU         SIPVITTAQCTAAMVGVg.....gANIWDNHICVQDPA.....GNTGACNGDSGGPLNCPDG....gTRVVGVTSWVVssglgTCL-PDYPSVYTRVSAYLGWIGDN--sr
+#=GR FIBC_LUMRU PP **************9877.....79*************.....*****************99....9*********8766664455.79***************886..57
+TPA_MOUSE          HVRLYPSSRCTSQHLFN.......KTVTNNMLCAGDTRsggnqDLHDACQGDSGGPLVCMINk...qMTLTGIISWGL.....GCGQKDVPGVYTKVTNYLDWIHDNMK..
+#=GR TPA_MOUSE  PP *****************.......************9866655678*************9988...9***********.....***********************996..
+#=GC PP_cons       ************99999.......99***********9.....9****************99.....***********.....***9******************9875..
+#=GC RF            xxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

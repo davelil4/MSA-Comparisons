@@ -1,0 +1,88 @@
+PileUp
+
+
+
+   MSF:  329  Type: P    Check:  2214   .. 
+
+ Name: 1bbt_ab oo  Len:  329  Check:  3916  Weight:  12.0
+ Name: 1al2_ac oo  Len:  329  Check:  1140  Weight:  8.0
+ Name: 1b35_C oo  Len:  329  Check:  2439  Weight:  12.0
+ Name: 1al2_ad oo  Len:  329  Check:  1456  Weight:  12.0
+ Name: 1bbt_ac oo  Len:  329  Check:  6155  Weight:  10.0
+ Name: 1bbt_aa oo  Len:  329  Check:  2052  Weight:  23.0
+ Name: 1mec_aa oo  Len:  329  Check:  8709  Weight:  20.0
+ Name: 1al2_ab oo  Len:  329  Check:  6347  Weight:  13.0
+
+//
+
+
+
+1bbt_ab         ...LLEDRIL TTRNGHTTST TQSSVGVTYG YATAEDFVSG PN......TS 
+1al2_ac         EACGYSDRVL QLTLGNSTIT TQEAANSVVA YGRWPEYLRD SE......AN 
+1b35_C          .....SKPTV QGKIGECKLR GQGRMANFDG MDMSHKMALS STNE.IETNE 
+1al2_ad         ...GLPVMNT PGSNQYLTAD NFQSPCALPE FDVTPPIDIP GEVKNMMELA 
+1bbt_ac         ..GIFPVACS DGYGGLVTTD PKTADPVYGK VFNPPRNQLP GR........ 
+1bbt_aa         .......... TTSAGESADP VTTTVENYGG ETQIQR.... .......... 
+1mec_aa         .GVENAEKGV TENTDATADF VAQPVYLPEN QTKVAFFYDR SSPIGRFAVK 
+1al2_ab         AATSRDALPN TEASGPTHSK EIPALTAVET GATNPLVPSD TVQT....RH 
+
+
+1bbt_ab         GLETR...VV QAERFFKT.. ...HLFDWVT SDSFGRCHLL ELPTDHKG.. 
+1al2_ac         PVDQPTEPDV AACRFYTL.. ...DTVSWTK .ESRGWWWKL PDALRDMG.. 
+1b35_C          GLAGTSLDVM DLSRVLSIPN Y.WDRFTWKT SDVINTVLWD NYVSPFKVKP 
+1al2_ad         EIDTMIPFDL SATKKNTMEM YRVRLSDKPH TDDPILCLSL SPASDPRLS. 
+1bbt_ac         .FTNLLDVAE ACPTFLRFEG GVPYVTTKTD SDRVLAQFDM SLAAKHMSN. 
+1bbt_aa         ..RQHTDVSF IMDRFVKV.. ........TP QNQINILDLM QVPS...... 
+1mec_aa         SGSLESGFAP FSNKACPNSV ILTPGPQFDP AYDQLRPQRL TEIWGNGNEE 
+1al2_ab         VVQHRSRSES SIESFFARGA CVTIMTVDNP ASTTNKDKLF AVWKITYKD. 
+
+
+1bbt_ab         .......... ..VYGSLTDS YAYMRNGWDV EVT....... AVGNQFNGGC 
+1al2_ac         .......... ..LFGQNMYY HYLGRSGYTV HVQ....... CNASKFHQGA 
+1b35_C          YSATITDRFR CTHMGKVANA FTYWRGSMVY TFK....... FVKTQYHSGR 
+1al2_ad         .......... HTMLGEILNY YTHWAGSLKF TFL....... FCGSMMATGK 
+1bbt_ac         .......... .TFLAGLAQY YTQYSGTINL HFM....... FTGPTDAKAR 
+1bbt_aa         .......... HTLVGGLLRA STYYFSDLEI AVK....... HEG....DLT 
+1mec_aa         TSEVFPLKTK QDYSFCLFSP FVYYKCDLEV TLSP.....H TSGAHGLLVR 
+1al2_ab         .......... TVQLRRKLEF FTYSRFDMEL TFVVTANFTE TNNGHALNQV 
+
+
+1bbt_ab         LLVAMVPELC SIQKRE.... .......... .......... .......... 
+1al2_ac         LGVFAVPEMC LAGDSNTTTM HTSYQNANPG EKGGTFTGTF TPDNNQTSPA 
+1b35_C          LRISFIPYYY NTTISTGTPD VSRTQKIVVD LRTSTAVSFT VP........ 
+1al2_ad         LLVSYAPPGA DPPKKR.... .......... .......... .......... 
+1bbt_ac         YMVAYAPPGM EPPKTP.... .......... .......... .......... 
+1bbt_aa         WVPNGAPEKA LDNTTN.... .......... .......... .......... 
+1mec_aa         WCPTGTPTKP TTQVLHEVSS LSEGR..... .......... .......... 
+1al2_ab         YQIMYIPPGA PVPEKWDDYT WQTSSNPS.. .......... .......... 
+
+
+1bbt_ab         .......... .....LYQLT LFPHQFINPR TNMTAHITVP FVGVNRYDQY 
+1al2_ac         RRFCPVDYLL GNGTLLGNAF VFPHQIINLR TNNCATLVLP YVNSLSIDSM 
+1b35_C          .......... YIGSRPWLYC IRPESSWLSK DNTDGALMYN CVSGIVRVEV 
+1al2_ad         .......... ......KEAM LGTHVIWDIG LQSSCTMVVP WISNTTYRQT 
+1bbt_ac         .......... ......EAAA HCIHAEWDTG LNSKFTFSIP YLSAADYTYT 
+1bbt_aa         .......... ......PTAY HKAPLTRLAL PYTAPHRVLA TVYNGECRTL 
+1mec_aa         .......... .TPQVYSAGP GTSNQISFVV PYNSPLSVLP AVWYNGHKRF 
+1al2_ab         .........I FYTYGTAPAR ISVPYVGISN AYSHFYDGFS KVPLKDQSAA 
+
+
+1bbt_ab         KVHKPWT... LVVMVVAPLT VNTEGAP... QIKVYANIAP TNVHVAG... 
+1al2_ac         VKHNNWG... IAILPLAPLN FASESSP... EIPITLTIAP MCCEFNGLRN 
+1b35_C          LNQLVAA... QNVFSEIDVI CEVNGGP... DLEFAGPTCP RYVPYAGDFT 
+1al2_ad         IDDSFTEGGY ISVFYQTRIV VPLSTPR... EMDILGFVSA CNDFSVRLLR 
+1bbt_ac         ASDVAET... TNVQGWVCLF QITHGKA... DGDALVVLAS AGKDFELRLP 
+1bbt_aa         PTSFNYG..A IKATRVTELL YRMKRAE... TYCPRPLLAI HPTEARHKQK 
+1mec_aa         DNTGDLG... IAPNSDFGTL FFAGTKP... DIKFTVYLRY KNMRVFCPRP 
+1al2_ab         LGDSLYGAAS LNDFGILAVR VVNDHNPTKV TSKIRVYLKP KHIRVWCPRP 
+
+
+1bbt_ab         .EFPSKE... .......... .........
+1al2_ac         ITLPRLQ... .......... .........
+1b35_C          LADTRKIEAE RTQEYSNNED .........
+1al2_ad         DTTHIEQKA. .......... .........
+1bbt_ac         VDARAE.... .......... .........
+1bbt_aa         IVAP...... .......... .........
+1mec_aa         TVFFPWPTSG DKIDMTPRAG VL.......
+1al2_ab         PRAVAYYGPG VDYKDGTLTP LSTKDLTTY
+

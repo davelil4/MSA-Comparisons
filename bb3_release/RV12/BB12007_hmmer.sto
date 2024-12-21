@@ -1,0 +1,135 @@
+# STOCKHOLM 1.0
+
+1bgl_A             itdslavv-LQRRDWENPGVTQLNRLAAHPPFASWRN.SEEARTD..RPSQQLRSLNGEWRFAWFPAP............EAVPESWLEC--DLPEADTVVVPSNWQMH...GYDAPIYTNVTYPIT....VNPPFVP.TENPTGCYSLTFNVDESWLQ..eGQTRIIFDGVNSAFHLWCNGRWVGYGQDSRLPSEFDLS
+#=GR 1bgl_A     PP *******6.7899************************.*******..*********************............********99..9****************...***************....*******.******************99..89*************************************
+BGAL_THEMA         .......m---PYEWENPQLVSEGTEKSHASFIPYLD.PFSGEW-..EYPEEFISLNGNWRFLFAKNP............FEVPEDFFSEKFDDSNWDEIEVPSNWEMK...GYGKPIYTNVVYPFE....PNPPFVPkDDNPTGVYRRWIEIPEDWFK...KEIFLHFEGVRSFFYLWVNGKKIGFSKDSCTPAEFRLT
+#=GR BGAL_THEMA PP .......6...689***********************.******...78899****************............*****************************...***************....*******99*******************...**************************************
+BGA2_ECOLI         .......m----NRWENIQLTHENRLAPRAYFFSYDS.VAQARTFarETSSLFLPLSGQWNFHFFDHP............LQVPEAFTSE--LMADWGHITVPAMWQME...GHGKLQYTDEGFPFP....IDVPFVP.SDNPTGAYQRIFTLSDGWQG...KQTLIKFDGVETYFEVYVNGQYVGFSKGSRLTAEFDIS
+#=GR BGA2_ECOLI PP .......5....89***********************.******99999*******************............********98..8****************...***************....*******.********************...**************************************
+BGAL_BACHD         ...mkths--NVSWLRDVNVFAVNRLPAHSDHVYYET.VEEAKKE..PPMSMRHSLNGHWKFHYAINP............NTRPKEFYQLGFDCKCWDDILVPGHIQLQ...GYGKPQYVNTMYPWDghhhLRPPEIPeDDNPVGSYVKYFDIPNNMSN...HPLFISFQGVETAFYVWLNGEFVGYSEDSFTPAEFDLT
+#=GR BGAL_BACHD PP ...***75..6799***********************.*******..*********************............*****************************...**************99999*******99*******************...**************************************
+BGAL_STAXY         ........MLKQQFHENLEVQHVNLLPRRAFYIPYQQgEADYHFEtrYNTRNATLLNGEWYFQYFES-............---LEAYLNHS-NKQESKTLTVPSVWNLY...GYDQIQYLNTQYPIP....FNPPYVP.KDNPCGHYTRKFTIDEYDQQ...YDYHLNFEGVDSAFYVWINNEFIGYSQISHAISEFDIS
+#=GR BGAL_STAXY PP ........6899*************************889999998899*****************9................9****996.9****************...***************....*******.********************...**************************************
+BGAL_ACTPL         ........MILPNYFQDPNTLHVNTVEHHAYFIPHQQ.NETALSGkrEQSDYFTLLNGQWDFNYFQSY............HDLPDNFL----DIAFEHKIPVPANWQNH...GFDHHHYTNINYPFP....FEPPFVP.HQNPCGVYHRTLQLTPKHKR...--YLLNFEGVDSCLFVYVNKQFVGYSQISHNTSEFDVS
+#=GR BGAL_ACTPL PP ........57899************************.****998889********************............********....899**************...***************....*******.*****************999.....************************************
+BGAL_KLULA         .....msc-LIPENLRNPKKVHENRLPTRAYYYDQD-.-------..----IFESLNGPWAFALFDAP............LDAPDAKNLDWETAKKWSTISVPSHWELQedwKYGKPIYTNVQYPIP....IDIPNPP.TVNPTGVYARTFELDSKSIE..sFEHRLRFEGVDNCYELYVNGQYVGFNKGSRNGAEFDIQ
+#=GR BGAL_KLULA PP .....**5.7899*******************9998...............7****************............***********************************************....*******.*******************9..9**************************************
+BGAL_ARTSP         .......m--SSSYITDQGPGSGLRVPARSWLNSDAP.-------..-----SLSLNGDWRFRLLPTApgtpgagsvlatGETVEAVASESFDDSSWDTLAVPSHWVLAedgKYGRPIYTNVQYPFP....IDPPFVP.DANPTGDYRRTFDVPDSWFEsttAALTLRFDGVESRYKVWVNGVEIGVGSGSRLAQEFDVS
+#=GR BGAL_ARTSP PP .......6..578889999999999999999999886...............79************999***********9***************************9999***************....*******.*******************9888899***********************************
+#=GC PP_cons       ........677899**********************9.*****99..99**9****************............*********99*9****************...***************....*******.********************...**************************************
+#=GC RF            ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx..xxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx....xxxxxxx.xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1bgl_A             AFLRAGENRLAVMVLRWSDGSYLEDQDMWRMSGIFRDVSLLHKPT.TQISDFHV.ATRFNDDFSRAVLEAEVQMCGe..lRDYLRVTVSLWQ-GETQVASGTAPFGgeiid...........erggyADRVTLRLNVENPKLWSAEIPNLYRAVVELHTADGTLIEAEACDVGFREVRIENGLLLLNGKPLLIRGVNRHE
+#=GR 1bgl_A     PP *********************************************.********.*********************9..999**********.77899999999999****...........******************************************************************************
+BGAL_THEMA         DVLRPGKNLITVEVLKWSDGSYLEDQDMWWFAGIYRDVYLYALPK.FHIRDVFV.RTDLDENYRNGKIFLDVEMRNl.geEEEKDLEVTLITPDGDEKTLVKETVKp...................eDRVLSFAFDVKDPKKWSAETPHLYVLKLKLGE------DEKKVNFGFRKIEIKDGTLLFNGKPLYIKGVNRHE
+#=GR BGAL_THEMA PP *********************************************.********.**********************.*999*********************9999...................89999****************************......***********************************
+BGA2_ECOLI         AMVKTGDNLLCVRVMQWADSTYVEDQDMWWSAGIFRDVYLVGKHL.THINDFTV.RTDFDEAYCDATLSCEVVLENlaasPVVTTLEYTLFDGERVVHSSAIDHLAi..................ekLTSATFAFTVEQPQQWSAESPYLYHLVMTLKDANGNVLEVVPQRVGFRDIKVRDGLFWINNRYVMLHGVNRHD
+#=GR BGA2_ECOLI PP *********************************************.********.*********************9998899*********************998..................88899**********************************************************************
+BGAL_BACHD         PYAVEGENKLCVEVYQRSTGSWLEDQDFWRFSGIFRDVYLYTIPN.IHVYDMHV.RADLDRSLQTGILETTLELKRs..qEKEVMIVAELYDAEGAVVATADMKTN.....................QDQATVSMSVDSPALWSAEDPYLYKLFLKLFDENGTLVEVVPQKIGFRRFELVNNIMTLNGKRIVFKGVNRHE
+#=GR BGAL_BACHD PP *********************************************.********.*******************997..78888999*******************.....................*************************************************************************
+BGAL_STAXY         NFVKQGENNIEVLVLKYSDGTYLEDQDMFRHSGIFRDVYILKRAT.ERVDDFKV.ETNLSDDLNAAQIDVKIERAH....-NLKSVEFQLYNPKGEEVASISG---.....................--VNEHQFDVHNPHLWSTENPVLYTLYILTDQ------EVITQKVGIREVAIQNNQFYINGQSIKIRGTNYHD
+#=GR BGAL_STAXY PP *********************************************.********.*********************.....7********************9..........................89****************************......***********************************
+BGAL_ACTPL         DYLQAGTNHLTVVVLKWCDGSYLEDQDKFRMSGIFRDVYLLEREQ.NYLQDFFI.QYELDDELRHANLKVETLFSR....-QPQAIEYQLLNPNGFTVFNQTD---.....................---THLNIEVEDIQLWNAEKPQLYTLILHTAE------EVIVQKIGFRKVEIKDGILLFNQQPIKFKGVNRHD
+#=GR BGAL_ACTPL PP *********************************************.********.*******************99.....8********************9...........................7****************************......***********************************
+BGAL_KLULA         KYVSEGENLVVVKVFKWSDSTYIEDQDQWWLSGIYRDVSLLKLPKkAHIEDVRVtTTFVDSQYQDAELSVKVDVQG....SSYDHINFTLYEPEDGSKVYDASSLLneengnttfstkefisfstkkNEETAFKINVKAPEHWTAENPTLYKYQLDLIGSDGSVIQSIKHHVGFRQVELKDGNITVNGKDILFRGVNRHD
+#=GR BGAL_KLULA PP *******************************************9989*******88899*****************....*******************99999889*******************99************************************************************************
+BGAL_ARTSP         EALRPGKNLLVVRVHQWSAASYLEDQDQWWLPGIFRDVKLQARPV.GGLTDVWLrTDWSGSGTITPEITADPAAFP....-----VTLRVPELGLEVIWDSPAD--.....................----VAPVSIDAVEPWSAEVPRLYDASVSSAA------ESISLRLGFRTVKIVGDQFLVNGRKVIFHGVNRHE
+#=GR BGAL_ARTSP PP *********************************************.********66678899*************9.........9*****************5...........................899*************************......***********************************
+#=GC PP_cons       *********************************************.********.999******************....989********************999.....................9999*********************************************************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.xxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxx.....................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1bgl_A             HHPLHGQVMDEQTMVQDILLMKQNNFNAVRCSHYPNHPLWYTLCDRYGLYVVDEANIETHG.................------.-MVPMNRL....-TDDPRWLPAMSERVTRMVQRDRNHPSVIIWSLGNESGHGANHDALYRWIKSVDPSRPVQYEG.......GGADTTATDIICPMYARvdedq..pfpavpKWS
+#=GR 1bgl_A     PP *************************************************************.........................8888888.....**************************************************************.......**********************..*********
+BGAL_THEMA         FDPDRGHAVTVERMIQDIKLMKQHNINTVRTSHYPNQTKWYDLCDYFGLYVIDEANIESHG.................-----I.DWDPEVTL....-ANRWEWEKAHFDRIKRMVERDKNHPSIIFWSLGNEAGDGVNFEKAALWIKKRDNTRLIHYEGt.....tRRGESYYVDVFSLMYPK.............MDI
+#=GR BGAL_THEMA PP *************************************************************......................*.*******9.....**************************************************************9.....9999**************.............***
+BGA2_ECOLI         NDHRKGRAVGMDRVEKDLQLMKQHNINSVRTAHYPNDPRFYELCDIYGLFVMAETDVESHG.................----FA.NVGDISRI....-TDDPQWEKVYVERIVRHIHAQKNHPSIIIWSLGNESGYGCNIRAMYHAAKALDDTRLVHYEE.......-DRDAEVVDIISTMYTR.............VPL
+#=GR BGA2_ECOLI PP *************************************************************.....................55.77777777.....**************************************************************........****************.............***
+BGAL_BACHD         FNGRTGRVVTKEDMLEDIKTMKKHNINAVRTSHYPNNSEWYQLCDEYGLYVIDEMNLETHG.................SWQKLG.KVEPSWNI....PGNHLEWEPIVMDRAVSMFERDKNHPSILIWSCGNESYAGEVILNVSRYFKSVDPSRLVHYEGv....fhARAYDATSDMESRMYAK.............PKD
+#=GR BGAL_BACHD PP *************************************************************.................******.********....****************************************************************....*999***************.............***
+BGAL_STAXY         SHPETGYVMTESHFKKDLELMKQGNFNAIRTAHYPKSPLFYEMTDQYGFYVMSEADIETHG.................VVRLYGeDNNEDFNI....IADDSKFETAIIERIEASIMPLKNYSSIVSWSLGNESGFGKNMVKGAARAKSLDNTRPIHYEGtlyrdkqQHYDLSNIDMISRMYPS............pEEI
+#=GR BGAL_STAXY PP *************************************************************.................******9********....*********************************************************************99****************............6667
+BGAL_ACTPL         SDPKTGYAITYAQAHKDLQLMKQHNINAIRTAHYPNAPWFSELCDQYGFYLIGESDVESHGasmltvkmpepsillnhQNDLQTeRIRQDMIDnycyFARDPLFKKAILDRQQANVERDKNRTSIIIWSLGNEAGYGANFEAAAAWIKQRDKSRLVHYESsiyqhsaDNNDLSNLDFYSEMYGS.............TED
+#=GR BGAL_ACTPL PP ******************************************************************************5555544555554444444*********************************************************************9999**************.............***
+BGAL_KLULA         HHPRFGRAVPLDFVVRDLILMKKFNINAVRNSHYPNHPKVYDLFDKLGFWVIDEADLETHGvqepfnr..htnleaeyPDTKNK.LYDVNAHY....LSDNPEYEVAYLDRASQLVLRDVNHPSIIIWSLGNEACYGRNHKAMYKLIKQLDPTRLVHYEG.......-DLNALSADIFSFMYPT.............FEI
+#=GR BGAL_KLULA PP ********************************************************************..*******999****.********....***************************************************************........****************.............***
+BGAL_ARTSP         TNADRGRVFDEASAREDLALMKRFNVNAIRTSHYPPHPRFLDLADELGFWVILECDLETHG.................------.FHALKWVG...nPSDDPAWRDALVDRMERTVERDKNHASIVMWSLGNESGTGANLAAMAAWTHARDLSRPVHYEG.......-DYTGAYTDVYSRMYSSipetdsigrndshALL
+#=GR BGAL_ARTSP PP *************************************************************........................77888877...79**************************************************************........*******************9999999998888
+#=GC PP_cons       *************************************************************.................889988.88888888....***************************************************************.......9****************.............999
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxx.xxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxx.............xxx
+
+1bgl_A             IKKWLSLPG.....ETRPLILCEYAHAMGNSLGGFAKYWQAFRQYPRLQGGFVWDWVDQSLIKYD...ENGN..PWSAYGGDFGDTPNDRQFCMNGLVFADRTPHPALTEAKHQQQFFQFRLSGQ-....TIEVTSEYLFRHSDNELLHWMVAL..DGKPLASGEVPLDV.APQGKQLIELP.ELPQPESA..gQLWLTV
+#=GR 1bgl_A     PP *********.....***************************************************...****..*************************************************77.....6***********************..**************.***********.*******9..9******
+BGAL_THEMA         LLEYASKK-.....REKPFIMCEYAHAMGNSVGNLKDYWDVIEKYPYLHGGCIWDWVDQGIRKKD...ENGR..EFWAYGGDFGDTPNDGNFCINGVVLPDRTPEPELYEVKKVYQNVKIRQVSKD....TYEVENRYLFTNLEMFDGAWKIRK..DGEVIEEKTFKIFA.EPGEKRLLKIP.-LPEMDDS...EYFLEI
+#=GR BGAL_THEMA PP ********......***************************************************...****..****************************************************....************************..**************.***********..*******...******
+BGA2_ECOLI         MNEFGEYP-.....HPKPRIICEYAHAMGNGPGGLTEYQNVFYKHDCIQGHYVWEWCDHGIQAQD...DHGN..VWYKFGGDYGDYPNNYNFCLDGLIYSDQTPGPGLKEYKQVIAPVKIHARDLTr..gELKVENKLWFTTLDDYTLHAEVRA..EGETLATQQIKLRDvAPNSEAPLQIT.-LPQLDAR...EAFLNI
+#=GR BGA2_ECOLI PP ********......***************************************************...****..*************************************************9988..8************************..************988***********..*******...******
+BGAL_BACHD         IEDYLTND-.....PKKPYISCEYMHAMGNSLGGMHKYTELEQKYPMYQGGFIWDYIDQALLKKD...RYGK..EYFAYGGDFGDRPTDYSFCANGIVYADRKPSPKMQEVKFLYQNIKLVPDREG....-VLVKNENLFTDTSAYQLEYVLYW..EGTELYRKKQDVFV.APQEEVYLPFD.WLEQGMNEs.gEYCIHT
+#=GR BGAL_BACHD PP ********......***************************************************...****..*************************************************997.....***********************..**************.***********.****99999.9******
+BGAL_STAXY         EETYLSNPD.....LDKPFILCEYAHAMGNSPGDLHAYQTLVEQYDSFIGGFVWEWCDHAIQTGM...KDGN..PIFRYGGDFGEKLHDGNFCVDGIVFPNRVPHEGYYEFKQEHRPLNLVSQEDF....KIVLRNQLDFIPAEKYMFVEATVTnlNGGKTISEIPLSNF.LPHTAQTIDLSdYINIQHIS...--DVIL
+#=GR BGAL_STAXY PP 789******.....***************************************************...****..****************************************************....*******************99988789*************.***********999999999.....8899
+BGAL_ACTPL         IDRYCATA-.....QRKPFVLCEYSHAMGNSNGDAEDYWQAFHRHPQSCGGFVWEWCDHAPYRAN...----..GQFGYGGDFGESPHDGNFCMDGLVSPDRIPHSNLLELKNVNRPARAELIDN-....QIVIHNYLDFTDLADYLTIDYEFV.eNGVVTSGGNLSVSC.KPHSSVILPIE.-LPKNNGH...LWLLNL
+#=GR BGAL_ACTPL PP ********......************************************************998.........59***********************************************99.....5*******************9998.8**************.***********..*******...******
+BGAL_KLULA         MERWRKNHTdengkFEKPLILCEYGHAMGNGPGSLKEYQELFYKEKFYQGGFIWEWANHGIEFEDvstADGKlhKAYAYGGDFKEEVHDGVFIMDGLCNSEHNPTPGLVEYKKVIEPVHIKIAHGS....-VTITNKHDFITTDHLLFIDKD--..TGKTIDVPSL----.KPEESVTIP--.--------...SDTTYV
+#=GR BGAL_KLULA PP ********9999999*************************************************99999999989************************************************996.....********************9....9*******99.....9*******9..............35899*
+BGAL_ARTSP         LGCNAIESAr...qRTRPFILCEYVHAMGNGPGAIDQYEDLVDKYPRLHGGFVWEWRDHGIRTRT...ADGT..EFFAYGGDFDEVIHDGNFVMDGMILSDSTPTPGLFEYKQIVSPIRLALTLNAegnaGLTVANLRHTSDASDVVLRWRVEH..NGTRVDAGELTTDGaNGPLQAGDSLTlTLPTIVAAaegETWLSV
+#=GR BGAL_ARTSP PP 8888888777...799*************************************************...****..***********************************************9988878889***********************..*************98999*******999***9998899******
+#=GC PP_cons       9******99.....***************************************************...****..9************************************************998....8**********************9..**************.***********.******99...999***
+#=GC RF            xxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxx...xxxxxx
+
+1bgl_A             RVVQPNATAWSEAGHISAWQQWRLAENLSVTLPaaSHAIPHLTTSE--MDFCIELGNKRWQFNRQSGFLSQMWIGDKKQLLTP..LRDQFTRAPLDNDIGVSEATRIdPNAWVERWKAAGhyqaeaaLLQCTADTLADAVLITTAHAWQHQGKTLFISRKTYRIDGSGQ..............MAITVDVEVASDTPH.P
+#=GR 1bgl_A     PP ********************************96677777777776..***********************************..*********************99********9998889999889999*************************************..............***************.*
+BGAL_THEMA         SFSLSEDTPWAEKGHVVAWEQFLLKAPAFEKKS..--ISDGVSLREDGKHLTVEAKDTVYVFSKLTGLLEQILHRRKKILKSP..VVPNFWRVPTDNDIGNRMPQRL.-AIWKRASKERK.......---LFKMHWKKEENRVSVHSVFQLPG-NSWVYTTYTVFGNGD..............VLVDLSLIPAEDVPE.I
+#=GR BGAL_THEMA PP *******************************99....9*********************************************..**********************..*******9997..........89999999999999999999887.99*************..............***************.*
+BGA2_ECOLI         TVTKDSRTRYSEAGHPIATYQFPLKENTAQPVPfaPNNARPLTLEDDRLSCTVRGYNFAITFSKMSGKPTSWQVNGESLLTRE..PKINFFKPMIDNHKQEYEGLWQ.PNHLQIMQEHLR.......-DFAVEQSDGEVLIISRTVIAPPVFDFGMRCTYIWRIAADGQ..............VNVALSGERYGDYPHiI
+#=GR BGA2_ECOLI PP *********************************999***********************************************..**********************.***********9........*****************************************..............***************9*
+BGAL_BACHD         MLTLKQDQLWAEKGHEVAFGQHVYRMGAIQKER..-NARGALKVVHGDVNIGIHGEDFSVLFSKAVGSLVSLHYAGKEMIEQP..PMPLFWRATTDNDKGCSQLYHS.GIWYAASLARKC.......VNMEVEEKPGHVSVLFTYHFAISDRVEVKVGYTVFPDGSLRV..............RSTYQASKGGETLPQ.L
+#=GR BGAL_BACHD PP ********************************9...***********************************************..**********************.************.......******************************************..............***************.*
+BGAL_STAXY         RYKLKYDDIFRHENFELGHDQIVYQRRTLKEQNeqSDETEILVTQTDKLIKVSVGKSETYVFNKDNASLESVLKHNHIVISQN..TTNNIWRAPTDNDTNIKNDWAY.-SGYKDITTRVH.......-DYQIVENETEVSLIFNIAMVNDAVPPVLFGTVTWHVQRNGT..............LNVTYDLERDMKAPY.L
+#=GR BGAL_STAXY PP *****************************999988999*********************************************..**********************..**********9........*****************************************..............***************.*
+BGAL_ACTPL         DYRLNTATELLEAEHSLGFEQLNLFSENKLVLPkfTIEKSTFEVQEDHFRINVHNGQFSYQLDKQKGIFSRIEKAGKAIIQQP..LDFNIWRAPTDNDRLIREAWQN.-AGYDKAYTRAY.......-EIQWQQSEQAVEFSVKSAIVSISRGRILTLDIRYRIFNDGQ..............ISVEINAIRPTELPY.L
+#=GR BGAL_ACTPL PP ****************************999998999**********************************************..*********************9..**********9........*****************************************..............***************.*
+BGAL_KLULA         VAVLKDDAGVLKAGHEIAWGQAELPLKVPDFVT..ETAEKAAKINDGKRYVSVESSGLHFILDKLLGKIESLKVKGKEISSKFegSSITFWRPPTNNDEPRDFKNWK.--KYNIDLMKQNi....hgVSVEKGSNGSLAVVTVNSRISPVVFYYGFETVQKYTIFANKI.............nLNTSMKLTGEYQPPD.F
+#=GR BGAL_KLULA PP *********************************..**********************************************998899********************...9***9999999....999**************************************997.............7***************.*
+BGAL_ARTSP         EAVLREATAWAPAGHPLSETQLDLSPAQPPLRV..-----------PRPASPIAGAAPVELGPATFDAGSLVTLAGLPVAG--..PRLELWRAPTDNDKGQGFGAYGpEDPWINSGRGVP......aPSSAVVWQQAGLDRLTRRVEDVAALPQGLRVRSRYAAANSEHdvaveenwqlsgdeLWLRIDIAPSAGWDLvF
+#=GR BGAL_ARTSP PP **************************9999998.............899*******************************9....9*********************999********99......89**********************************************************************9*
+#=GC PP_cons       ******************************999..999999****9*************************************..**********************.**********99.......9*****************************************..............***************.*
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxx.x
+
+1bgl_A             ARIGLNCQLAQVAERVNWLGLGPQENYPDRLTAACFDRWDLPLSDMYTPYVFPSENGLRCGTRELNYGP-----HQWRGD---FQ....FNISRYSQQQLMETSHRHLLHAEEGTWLNIDGFHMGIGgDDSW---------------.---------...........................................
+#=GR 1bgl_A     PP *******************************************************************95.....789888...**....**************************************9***9....................................................................
+BGAL_THEMA         PRIGFQFTVPEEFGTVEWYGRGPHETYWDRKESGLFARYRKAVGEMMHRYVRPQETGNRSDVRWFALSD--GETKLFVSGMPQID....FSVWPFSMEDLERVQHISELPERDFVTVNVDFRQMGLGgDDSWGAMPHLEYRLLPKPY.RFSFRMRI-seeipswrvlaaipetlhvemssedviregdtlrvkfsllndt
+#=GR BGAL_THEMA PP ********************************************************************8..59************....**********************************************************.*****986.6******************************************
+BGA2_ECOLI         PCIGFTMGINGEYDQVAYYGRGPGENYADSQQANIIDIWRQAVDAMFENYPFPQNNGNRQHVRWTALTNRHGNGLLVVPQR-PIN....FSAWHYTQENIHAAQHCNELQRSDDITLNLDHQLLGLG.SNSWGSEVLDSWRVWFRDF.SYGFTLL--pvsggeataqslasyefgagffstnlhsenkq...........
+#=GR BGA2_ECOLI PP *******************************************************************************96.***....**************************************.*******************.****986..68******************************...........
+BGAL_BACHD         PMFALSFKLPADYEQLEWYALGPEENYADRATGARLCTFKNKVEDSLSQYVTPQESGNRTGVRTVKILDANGQGIEVCSVEEPIE....CQISPYTAFELEQASHPYELPNVHYTVVNVAGKQMGVGgDDSWGAPVHDEYVLKADQDlEFVFDI---nrv........................................
+#=GR BGAL_BACHD PP *************************************************************************************....******************************************************98751555554...579........................................
+BGAL_STAXY         PRFGLGLTLPKAFEQVKYYGKGPFSSYQDKGVANYLDDFGTTVTDNGEIHIRPQETGSHNETTFVEISD--GCKKVIVTSDNTFS....FNTTHYSLKQLTETTHKDALEPEDQTYLYIDYAQSGIG.SNSCGPELNEAYRLNNRHI.EFSFNLKF-v..........................................
+#=GR BGAL_STAXY PP ********************************************************************8..5*************....**************************************.*******************.*****997.6..........................................
+BGAL_ACTPL         PRFGLRFWLAKAENTVEYFGYGEQESYVDKHHLANLGIYHTTAKQNHTDYVKPQENGSHYGCEYLKSEN------LFVSASQPFS....FNLSPYTQEELTEKKHYYELQESDYSVLCIDYKMSGIG.SNSCGPNLKDQYRLMESEF.KIRFDLIF-dktirq.....................................
+#=GR BGAL_ACTPL PP ******************************************************************997......8*********....**************************************.*******************.*****997.6*****.....................................
+BGAL_KLULA         PRVGYEFWLGDSYESFEWLGRGPGESYPDKKESQRFGLYD-SKDVEEFVYDYPQENGNHTDTHFLNIKFEGAGKLSIFQKEKPFN....FKIS--DEYGVDEAAHACDVKRYGRHYLRLDHAIHGVG.SEACGPAVLDQYRLKAQDF.NFEFDLAF-e..........................................
+#=GR BGAL_KLULA PP ****************************************.89999***************************************....****..9*******************************.*******************.*****987.5..........................................
+BGAL_ARTSP         PRIGVRLDLPSEVDGASWFGAGPRESYPDSLHSAVVGTHGGSLEELNVNYARPQETGHHSDVRWVELSRDGAPWLRIEADPDALGrrpgFSLAKNTAQEVALAPHPHELPESQHSYLYLDAAQHGLG.SRACGPDVWPDFALRPEAR.TLVLRIRA-a..........................................
+#=GR BGAL_ARTSP PP ************************************************************************************99999**************************************.*******************.**999875.7..........................................
+#=GC PP_cons       ********************************************************************8**8**99****9****....**************************************.*****************99.99999887............................................
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxx...........................................
+
+1bgl_A             ...........................................................
+#=GR 1bgl_A     PP ...........................................................
+BGAL_THEMA         plskekqvvlfvdgneysvrrvvippfkkeelvfkveglkkgehlihtnlntrktiyvr
+#=GR BGAL_THEMA PP ***********************************************************
+BGA2_ECOLI         ...........................................................
+#=GR BGA2_ECOLI PP ...........................................................
+BGAL_BACHD         ...........................................................
+#=GR BGAL_BACHD PP ...........................................................
+BGAL_STAXY         ...........................................................
+#=GR BGAL_STAXY PP ...........................................................
+BGAL_ACTPL         ...........................................................
+#=GR BGAL_ACTPL PP ...........................................................
+BGAL_KLULA         ...........................................................
+#=GR BGAL_KLULA PP ...........................................................
+BGAL_ARTSP         ...........................................................
+#=GR BGAL_ARTSP PP ...........................................................
+#=GC PP_cons       ...........................................................
+#=GC RF            ...........................................................
+//

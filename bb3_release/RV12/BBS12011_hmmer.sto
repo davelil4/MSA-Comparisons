@@ -1,0 +1,110 @@
+# STOCKHOLM 1.0
+
+1ciy_              ytpidi------SLSLT-QFLLSEFVPG.AGFVLGLVDIIWGIFGPS--...--QWDAFLVQIEQLINQRIEEFARNQAISRLEGLSNLYQ.IYAESFREWEADP......TNPALREEMRIQFNDMNSALTTAIPLLAVQ-...NYQVPLLSVYVQAANLHLSVLRDVSVFGQRWGFD........AATINSRYNDLTR
+#=GR 1ciy_      PP 987655......45555.8899999***.******************.......6************************************.*************......******************************....**********************************........*************
+1dlc_              .....k-DVIQKGISVVGDLLGVVGFPF.GGALVSFYTNFLNTIWPS--...EDPWKAFMEQVEALMDQKIADYAKNKALAELQGLQNNVE.DYVSALSSWQKNPv...ssRNPHSQGRIRELFSQAESHFRNSMPSFAIS-...GYEVLFLTTYAQAANTHLFLLKDAQIYGEEWGYE........KEDIAEFYKRQLK
+#=GR 1dlc_      PP .....6.6899*****************.******************.....6**************************************.**************...*99*****************************....**********************************........*************
+C8CA_BACTP         .....q-DAVGTGIDIVSTIISGLGIPV.LGEVFSILGSLIGLLWPSNN...ENVWQIFMNRVEELIDQKILDSVRSRAIADLANSRIAVE.YYQNALEDWRKNP......HSTRSAALVKERFGNAEAILRTNMGSFSQT-...NYETPLLPTYAQAASLHLLVMRDVQIYGKEWGYP........QNDIDLFYKEQVS
+#=GR C8CA_BACTP PP .....5.799******************.********************...***************************************.*************......******************************....**********************************........*************
+CQAA_BACTF         .....s-GAINAAIGVTGTVLGFLGVPF.AGALTTFYQKLFGFLFPNNN...TKQWEEFMKQVEALIDEKISDAVRNKAISELQGLVNNIT.LYTEALEEWLENK......ENPAVRDRVLQRWRILDGFFEQQMPSFAVK-...GFEVLLLVVYTQAANLHLLSLRDAYIYGAEWGLT........PTNIDQNHTRLLR
+#=GR CQAA_BACTF PP .....6.689******************.********************...***************************************.*************......******************************....**********************************........*************
+C1BA_BACTK         .....s--TVQTGINIAGRILGVLGVPF.AGQLASFYSFLVGELWPRG-...RDQWEIFLEHVEQLINQQITENARNTALARLQGLGDSFR.AYQQSLEDWLENR......DDARTRSVLYTQYIALELDFLNAMPLFAIR-...NQEVPLLMVYAQAANLHLLLLRDASLFGSEFGLT........SQEIQRYYERQVE
+#=GR C1BA_BACTK PP .....5..89******************.******************7....***************************************.*************......******************************....**********************************........*************
+CKAA_BACUF         .....p-SSITAILASIGILNRVIALTGvLGNTQEVISIIQDALGFIR-...NGTGNELLIHVEQLIQQTLATQYRSAATGAIYGISRSYD.NYLMFFRQWERNR......-TRENGQQVESAFTTINTLCINALAPQASLSr.rGFETLLLPNYAMAANFHLLLLRDAVLYRNQWLSN.......sISTANVNLNILRA
+#=GR CKAA_BACUF PP .....7.689999**************99******************8....9**************************************.*************.......9**************************9999.9**********************************.......99************
+C9AA_BACTG         .....g-DAAKEAVSIGTTIVSLITAPSlTGLISIVYDLIGKVLGGSSG...QSISDLSICDLLSIIDLRVSQSVLNDGIADFNGSVLLYR.NYLEALDSWNKNPn...saSAEELRTRFRIADSEFDRILTRGSLTNGGSLarqNAQILLLPSFASAAFFHLLLLRDATRYGTNWGLY.......nATPFINYQSKLVE
+#=GR C9AA_BACTG PP .....8.67899*************************************...***************************************.*************6...555666677777777777777777666655554677********************************99.......899***********
+CPAA_BACTJ         ...fgt---LGVLASIVISTINLATSPS.IGDAFALVSSIG-EYWPET-...KTSFPLSVADVNRLIREALDQNAINRATGKFNGLMDTYNtVYLKNLQDWYDTRipanpqGDSQLREAARRSLEEIERDFRKALAGEFAEA...GSQIVLLPIYAQAANIHLLILKDAMQFRTDLGLIrpvgvpitTSAEDPFESEFLL
+#=GR CPAA_BACTJ PP ...875...667899*************.**********99.9****7....***************************************9***************999999*****************************...*****************************************99************
+CJAA_BACTJ         ..vrag---LGKGLGIVSTIVGFFGGSI.ILDTIGLFYQISELLWPEDDt.qQYTWQDIMNHVEDLIDKRITEVIRGNAIRTLADLQGKVD.DYNNWLKKWKDDP......KSTGNLSTLVTKFTALDSDFNGAIRTVNNQGs.pGYELLLLPVYAQIANLHLLLLRDAQIYGDKWWSA.......rANARDNYYQIQLE
+#=GR CJAA_BACTJ PP ..*986...568899*************.******************999.99**************************************.*************......******************************99.9*********************************9.......99************
+CAAA_BACTI         ....iv--GVSAGIIVVGTMLGAFAAPVlAAGIISFGT-LLPIFWQGSD..pANVWQDLLNIGGRPIQ-EIDKNIINVLTSIVTPIKNQLD.KYQEFFDKWEPAR......-THANAKAVHDLFTTLEPIIDKDLDMLKNNA...SYRIPTLPAYAQIATWHLNLLKHAATYYNIWLQNqgi.npstFNSSNYYQGYLKR
+#=GR CAAA_BACTI PP ....86..6899****************9999999999.999*******..****************9.9*********************.*************.......******************************...*************************************.***99************
+C4BA_BACTI         .....s-SSVSTALKVAGAILKFVNPPA.-GTVLTVLSAVLPILWPTNTptpERVWNDFMTNTGNLIDQTVTAYVRTDANAKMTVVKDYLD.QYTTKFNTWKREP......NNQSYRTAVITQFNLTSAKLRETAVYFSNLV...GYELLLLPIYAQVANFNLLLIRDGLINAQEWSLA........RSAGDQLYNTMVQ
+#=GR C4BA_BACTI PP .....6.799*****************9..*************************************************************.*************......*******************************...**********************************........*************
+COAA_BACTJ         ....ni--SPSPAAAITSKIVSIVLKTLaKAVASSLADSIKSSLGISKTiteNNVSQVSMVQVHQIINRRIQETILDLGESSLNGLVAIYNrDYLGALEAWNNNK......SNINYQTNVAEAFKTVEREFFTKLKGIYRTS...SSQITLLPTFTQAANLHLSMLRDAVMYQEGWNL-........-QSHINYSKELDD
+#=GR COAA_BACTJ PP ....86..678899**************9999****************9999***************************************9*************......*******************************...*********************************..........99**********
+#=GC PP_cons       .......6789999999***********.******************9*...9**************************************.*************......99**************************999...**********************************........*************
+#=GC RF            ......xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxx
+
+1ciy_              LIGNYTDYAVRWYNTGLERVW...GPDSRDWVRYNQFRRELTLTVLDIVALFSNYDSRRYPIR..TVSQLTREIYTNPVLENFDGSF-...........-RGMAQRIEQ-NIRQPHLMDILNSITIYTDVHR...------GFNYWSGHQITASPVg..fSGPEFAFPLFGNAGNaAPPVLVSLT....GLGIFRTLSSP
+#=GR 1ciy_      PP *********************...***************************************..*******************997.............*********.*********************8.........9***************..****************999999****....***********
+1dlc_              LTQEYTDHCVKWYNVGLDKLR...GSSYESWVNFNRYRREMTLTVLDLIALFPLYDVRLYPKE..VKTELTRDVLTDPIVGVNNLRG-...........YGTTFSNIEN-YIRKPHLFDYLHRIQFHTRFQP...GYYGNDSFNYWSGNYVSTRPSi..gSNDIITSPFYGNKSS.EPVQNLEFN....GEKVYRAVANT
+#=GR 1dlc_      PP *********************...***************************************..*******************997............**********.**********************...**********************..99**************.*********....***********
+C8CA_BACTP         YTARYSDHCVQWYNAGLNKLR...GTGAKQWVDYNRFRREMNVMVLDLVALFPNYDARIYPLE..TNAELTREIFTDPVGSYVTGQSStliswydmipaALPSFSTLEN-LLRKPDFFTLLQEIRMYTSFRQ...-NGTIEYYNYWGGQRLTLSYI....-YGSSFNKYSGVLA-.GAEDIIPVG....QNDIYRVVWTY
+#=GR C8CA_BACTP PP *********************...***************************************..*********************999********************.*********************5....9*******************.....***********99..99*******....***********
+CQAA_BACTF         HSAEYTDHCVNWYNTGLKQLE...NSDAKSWFQYNRFRREMTLSVLDVIALFPAYDVKMYPIP..TNFQLTREVYTDVIGKIGRNDSDhw......ysaNAPSFSNLESTLIRTPHVVDYIKKLKIFYATVD...YYGIYGRSGKWVGHIITSATS....-ANTTETRNYGTIVN.HDSVELNFE....GKNIYKTGSLP
+#=GR CQAA_BACTF PP *********************...***************************************..*************************......************************************...****************99988.....**************.*********....***********
+C1BA_BACTK         RTRDYSDYCVEWYNTGLNSLR...GTNAASWVRYNQFRRDLTLGVLDLVALFPSYDTRTYPIN..TSAQLTREVYTDAIGATGVNMASmnw.....ynnNAPSFSAIEAAAIRSPHLLDFLEQLTIFSASSR...-WSNTRHMTYWRGHTIQSRPI....GGGLNTSTHGATNTS.INPVTLRFA....SRDVYRTESYA
+#=GR C1BA_BACTK PP *********************...***************************************..*********************99***.....***********************************6....********************....***************.*********....***********
+CKAA_BACUF         AINEYITHCTRWYQDGLNRFDrssRANMNEWRRFNAYRRDMTLSVLDFATVFPTYDPVLFPAA..TNVELTRVVYTDPIVMAGGRTA-...........-IPGFTRMEN-LVNSASRVSFLNQMNIYTSFYF...-RPHNIPRYYWSGNQNFLSNG....-----TSNLYGYRS-.DGRTTFNVS....NIDIFRVNMTT
+#=GR CKAA_BACUF PP ********************98888899***********************************..*******************997.............*********.*********************9....7******************9.........9********..99*******....***********
+C9AA_BACTG         LIELYTDYCVHWYNRGFNELRq.rGTSATAWLEFHRYRREMTLMVLDIVASFSSLDITNYPIE..TDFQLSRVIYTDPIGFVHRSSLRgesw...fsfvNRANFSDLEN-AIPNPRPSWFLNNMIISTGSLTl.pVSPSTDRARVWYGSRDRISPA....NSQFITELISGQHT-.T--ATQTIL....GRNIFRVDSQA
+#=GR C9AA_BACTG PP *********************9.9***************************************..*********************99****...**************.********************998.8899******************....*************9..4..455555....9**********
+CPAA_BACTJ         RIKKYTDHCISYYDDGLAKIRs.rGSDGETWWEFNKFRREMTLTVLDLVALYPTHNIKLYPIP..TQTELSRVVYTDPVGCFGNRKSDi.........fSRLNFDYLENRLTRPREPFNYLNSVQLFASTVS...---NSNNGEVLRGNLNKIMFEggwtASRSGDGVTTGTPFS.TMDWSYGWG...yPRKHYAEITSR
+#=GR CPAA_BACTJ PP *********************9.9***************************************..************************.........*********************************8......99***************999999**************.*********...99**********
+CJAA_BACTJ         KTKEYTEYCINWYNKGLNDFR...--TAGQWVNFNRYRREMTLTVLDIISMFPIYDARLYPTE..VKTELTREIYSDVINGEIYGLMT...........PYFSFEKAESLYTRAPHLFTWLKGFRFVTNSIS...------YWTFLSGGQNKYSYTn.nsSINEGSFRGQDTDYG.GTSSTINIP...sNSYVYNLWTEN
+#=GR CJAA_BACTJ PP *********************.....9************************************..***********************...........********************************8.........9**************9.88889999999999999.********9...9***********
+CAAA_BACTI         KIQEYTDYCIQTYNAGLTMIR...TNTNATWNMYNTYRLEMTLTVLDLIAIFPNYDPEKYPIG..VKSELIREVYTNVNSDTFR----...........---TITELENGLTRNPTLFTWINQGRFYTRNSR...DILDPYDIFSFTGNQMAFTHT....--NDDRNIIWGAVHG.NIISQDTSK....VFPFYRNKPID
+#=GR CAAA_BACTI PP *********************...***************************************..*****************99..................89****************************...*********************......*************.*********....***********
+C4BA_BACTI         YTKEYIAHSITWYNKGLDVLR...NKSNGQWITFNDYKREMTIQVLDILALFASYDPRRYPADkiDNTKLSKTEFTREIYTALVESP-...........SSKSIAALEAALTRDVHLFTWLKRVDFWTNTIY...-----QDLRFLSANKIGFSYT...nSSAMQESGIYGSSGFgSNLTHQIQL....NSNVYKTSITD
+#=GR C4BA_BACTI PP *********************...**************************************9999******************999............9*******************************8........8***************...9**************96777777777....***********
+COAA_BACTJ         ALEDYTNYCVEVYTKGLNALR...GSTAIDWLEFNSFRRDMTLMVLDLVAIFPNYNPVRYPLS..TKISLSRKIYTDPVGRTDSPSFGdwt....ntgrTLANFNDLEREVTDSPSLVKWLGDMTIYTGAIDsyrPTSPGDRIGVWYGNINAFYHT....--GRTDVVMFRQTGDtAYEDPSTFIsnilYDDIYKLDLRA
+#=GR COAA_BACTJ PP *********************...***************************************..*********************999**....**********************************999666778899***************......8889999988888766666666555789**********
+#=GC PP_cons       *********************...***************************************..********************999...........********************************8...99*******************....9**************.999999999....***********
+#=GC RF            xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxx.xxxxxxxxx....xxxxxxxxxxx
+
+1ciy_              LYRRIILgsgpnnQELFVLDGTEFSFASL.......TTNLPSTIYRQRGTV.-----DSLDVIPP..QDNSVPPRAGF.SHRLSHVTMLSQAAG...AVYTLRAPTFSWQHRSAEFNNIIPSSQITQIPLTKSTNLGSG.TSVVKGPGFTGGDILRRTSP.....GQISTLRVNITAP..LSQRYRVRIRYASTTN..LQ
+#=GR 1ciy_      PP ****99999***99***************.......***********9555......********..***********.***************...******************************************.********************.....*************..****************..**
+1dlc_              NLAVWPS......AVYSGVTKVEFSQYND......qTDEASTQTYDSKRNV.GAVSWDSIDQLPP..ETTDEPLEKGY.SHQLNYVMCFLMQG-...--SRGTIPVLTWTHKSVDFFNMIDSKKITQLPLVKAYKLQSG.ASVVAGPRFTGGDIIQCTEN.....GSAATIYVTPDVS..YSQKYRARIHYASTSQ..IT
+#=GR 1dlc_      PP *******......***************9......9999************.*************..***********.*************5......5***************************************.********************.....*************..****************..**
+C8CA_BACTP         IGRY--T......NSLLGVNPVTFYFSNN.......----TQKTYSKPKQF.-AGGIKTIDSGE-..-ELTYENYQSY.SHRVSYITSFEIKST..gGTVLGVVPIFGWTHSSASRNNFIYATKISQIPINKASRTSGGaVWNFQEGLYNGGPVMKLSGS....gSQVINLRVATDAK.gASQRYRIRIRYASDRA..GK
+#=GR C8CA_BACTP PP ***9..5......6999999999999998...........9*********9..77777777665....59********.*************99..99**************************************99989*******************....999***********.*****************..**
+CQAA_BACTF         QGVPPYQig.yvtPIYFITRAVNFFTVSGsktsvekYYSKKDRYYSEGLPE.-EQGVFSTEQLPP..NSIAEPEHIAY.SHRLCHVTFISVSNG...NKYSKDLPLFSWTHSSVDFDNYVYPTKITQLPATKGYN----.VSIVKEPGFIGGDIGKNNGQ.....-ILGKYKVNVED-..VSQKYRFRVRYATETE..GE
+#=GR CQAA_BACTF PP ****99999.99999*************97777776677777777777777..9999********..***********.***************...*************************************9.....99******************......***********...8***************..**
+C1BA_BACTK         GVLLWGIy....lEPIHGVPTVRFNFTNPq.....nISDRGTANYSQPYESpGLQLKDSETELPP..ETTERPNYESY.SHRLSHIGIILQS--...---RVNVPVYSWTHRSADRTNTIGPNRITQIPMVKASELPQG.TTVVRGPGFTGGDILRRTNT.....GGFGPIRVTVNGP..LTQRYRIGFRYASTVD..FD
+#=GR C1BA_BACTK PP *****999....9**************998.....8999**************************..***********.**********999........89*************************************.********************.....*************..****************..**
+CKAA_BACUF         HIGGAFT......DDYRGLHRAEFIGANT......qNNQRTSLLYSVEIPSsHFRFENHTVFLPG..ESGLEPNERNY.THRLFQMMNEVSVNP...-NARGRVFLHAWTHRSLRRTNGLRSDQILQIPAVKTISNGGD.RAVV----LNYGENIMKLDN....lTTGLSYKLTAVDSeaSNTRFIVRVRYASMNN..NK
+#=GR CKAA_BACUF PP *******......***************9......99999*************************..***********.**********99988....*****************************************.****....*********999....9*********99998899**************..**
+C9AA_BACTG         CNLN---......DTTYGVNRAVFYHDASe.....gSQRSVYEGYIRTTGIdNPRVQNINTYLPG..ENSDIPTPEDY.THILSTTINLTGGLRqvaSNRRSSLVMYGWTHKSLARNNTINPDRITQIPLTKVDTRGTG.VSYVNDPGFIGGALLQRTDH.....GSLGVLRVQFPLH..LRQQYRIRVRYASTTN..--
+#=GR C9AA_BACTG PP ****.........9************9998.....899999************************..***********.**********9998888899****************************************.********************.....*************..****************....
+CPAA_BACTJ         SQALPGL.....nNSIHVIVGIDSFRAIG.......PGGQGDHTFSLPGGD.--MYDCGKVQINP..-LEDYRNSDHWiSDMMTINQSVQLASNp.tQTFAFSALSLGWHHSSAGNRNVYVYDKITQIPATKTVREHP-.--MIKGPGFTGGDLADLSSNs...dILQYDLRSDYDDRltEDVPFRIRIRCASIGV..ST
+#=GR CPAA_BACTJ PP ******9.....99***************.......************999...***********...*************************99.99*************************************998....******************8...89999*********88899*************..**
+CJAA_BACTJ         YEYIYPW......GDPVNITKMNFSVTDN.......-NSSKELIYGAHRTN.KPVVRTDFDFLTN.kEGTELAKYNDY.NHILSYMLINGETFG...--QKRHGYSFAFTHSSVDPNNTIAANKITQIPVVKASSINGS.ISIEKGPGFTGGDLVKMRAD.....-SGLTMRFKAEL-..LDKKYRVRIRYKCNYS..SK
+#=GR CJAA_BACTJ PP *******......***************8........**************.************9.999*********.*************99.....99**************************************.********************......***********...9***************..**
+CAAA_BACTI         KVEIVRH.....rEYSDIIYEMIFFSNSS.......----EVFRYSSNSTI.ENNYKRTDSYMIP..--KQTWKNEEY.GHTLSYIKTDNYIFS...VVRERRRVAFSWTHTSVDFQNTIDLDNITQIHALKALKVSSD.SKIVKGPGHTGGDLVILKDS.....---MDFRVRFLKN..VSRQYQVRIRYATNAP..-K
+#=GR CAAA_BACTI PP *******.....9999************9...........***********.*************....9********.***************...******************************************.********************........**********..****************...*
+C4BA_BACTI         TSSP---......--SNRVTKMDFYKIDG.......----TLASYNSNITPtPEGLRTTFFGFSTneNTPNQPTVNDY.THILSYIKTDVIDYN...----SNRVSFAWTHKIVDPNNQIYTDAITQVPAVKSNFLNAT.AKVIKGPGHTGGDLVALTSNgtlsgRMEIQCKTSIFND..PTRSYGLRIRYAANSPivLN
+#=GR C4BA_BACTI PP **99...........89************...........***********99********9998767889*******.*************77.......**************************************.********************99999999**********..***************96678
+COAA_BACTJ         AAVSTIQg...amDTTFGVSSSRFFDIRG.......----RNQLYQSNKPYpSLPITI---TFPG..EESSEGNANDY.SHLLCDVKILQEDSSn.iCEGRSSLLSHAWTHASLDRNNTILPDEITQIPAVTAYELRGN.SSVVAGPGSTGGDLVKMSYH.....-SVWSFKVYCSE-..-LKNYRVRIRYASHGN..CQ
+#=GR COAA_BACTJ PP ********...******************...........***********4444444...4567..778********.*************999.9******************************************.********************......**********9....8**************..**
+#=GC PP_cons       ******9......9**************9.......99999*******999.999999***9999..999********.*************99...**9***************************************.********************.....9************..9***************..**
+#=GC RF            xxxxxxx......xxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxx.xxxxxxxxxxxxx..xxxxxxxxxxx.xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxx..xxxxxxxxxxxxxxxx..xx
+
+1ciy_              FHTSIDG.....RPINQGNFSATMSS.....GSNLQSGSFRTVGFTT...PFNFSNG.SSVFTLSAHVFN..SGNEVYIDRIEFVPA-e
+#=GR 1ciy_      PP *******.....**************.....****************...*******.************..**************7.6
+1dlc_              FTLSLDG.....APFNQYYFDKTINK.....GDTLTYNSFNLASFST...PFELSGN.--NLQIGVTGLS..AGDKVYIDKIEFIPVN.
+#=GR 1dlc_      PP *******.....**************.....****************...*****99...9*********..***************8.
+C8CA_BACTP         FTISSRSpenpaTYSASIAYTNTMST.....NASLTYSTFAYAESGP..iNLGISGS.SRTFDISITKEA..GAANLYIDRIEFIPVN.
+#=GR C8CA_BACTP PP ****999999999*************.....**************99..9*******.************..***************8.
+CQAA_BACTF         LGIKIDG.....RTVNLYQYKKTKAP.....GDPLTYKAFDYLSFST...PVKFNNA.SSTIELFLQNKT..-SGTFYLAGIEIIPVK.
+#=GR CQAA_BACTF PP *******.....**************.....****************...*******.**********87...9************96.
+C1BA_BACTK         FFVSRGG.....TTVNNFRFLRTMNS.....GDELKYGNFVRRAFTT...PFTFTQI.QDIIRTSIQGLS..GNGEVYIDKIEIIPVT.
+#=GR C1BA_BACTK PP *******.....**************.....****************...*******.************..**************96.
+CKAA_BACUF         LNLVLNG.....AQIASLNVEHTVQRg..gsLTDLQYGNFKYATFAG...NFKM-GS.QSILGIFKEIPN..--IDFVLDKIELIPSN.
+#=GR CKAA_BACUF PP *******.....**************9..889***************...***5.56.6*********77....************87.
+C9AA_BACTG         IRLSVNG....sFGTISQNLPSTMRL.....GEDLRYGSFAIREFNT...SIRPTAS.PDQIRLTIEPSF..IRQEVYVDRIEFIPVN.
+#=GR C9AA_BACTG PP 9999999....99*************.....****************...*******.************..***************8.
+CPAA_BACTJ         ISVDNWG.....SSSPQVTVASTAAS.....LDTLKYESFQYVSIPG...NYYFDSA.-PRIRLLRQP--..--GRLLVDRIEIIPVN.
+#=GR CPAA_BACTJ PP *******.....**************.....****************...*******..*********......99***********8.
+CJAA_BACTJ         LILRKWKg...eGYIQQQIHNISPTY.....GAFSYLESFTITTTEN...IFDLTME.---VTYPYGRQFveDIPSLILDKIEFLPTN.
+#=GR CJAA_BACTJ PP ******99...999************.....*************988...8887776....8888888777799************97.
+CAAA_BACTI         TTVFLTG.....IDTISVELPSTTSRqn.pnATDLTYADFGYVTFPRtvpNKTFEGE.-DTLLMTLYGTP.nHSYNIYIDKIEFIPIT.
+#=GR CAAA_BACTI PP *******.....**************99.999**************98989999999..77777777666.5**************96.
+C4BA_BACTI         VSYVLQG....vSRGTTISTESTFSRpnniiPTDLKYEEFRYKDPFD..aIVPMRLSsNQLITIAIQPLNmtSNNQVIIDRIEIIPIT.
+#=GR C4BA_BACTI PP 88999**....99*******************************999..888888776899********9999*************96.
+COAA_BACTJ         FLMKRWP....sTGVAPRQWARHNVQ.....GTFSNSMRYEAFKYLD...IFTITPE.ENNFAFTIDLES..-GGDLFIDKIEFIPV-s
+#=GR COAA_BACTJ PP *******....99*************.....****************...****999.888888887755...9************9.5
+#=GC PP_cons       *******.....**************.....****************...9999999.999999999988..**************97.
+#=GC RF            xxxxxxx.....xxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxx...xxxxxxx.xxxxxxxxxxxx..xxxxxxxxxxxxxxxx.
+//

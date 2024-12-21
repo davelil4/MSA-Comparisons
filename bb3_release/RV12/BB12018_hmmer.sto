@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+1a8i_              ............................................................qekrkqisvrgla--GVENVTELKKNFNRHLHFTLVKDRNVATPRDYYFALAHTVRDHLVGRwIRTQQHYYEKDPKRIYYLSLEFYMGRTLQNTMVNLALENACDEATYQLGLDMEELEEIEEDAGLGNGGLGRLAACFL
+#=GR 1a8i_      PP ............................................................***********85..789**************************************************************************************************************************
+1ahp_A             ........................................................................s-QPIFNDKQFQEALSRQWQRYGLNSAAEMTPRQWWLAVSEALAEMLRAQ.---PFAKPVANQRHVNYISMEFLIGRLTGNNLLNLGWYQDVQDSLKAYDINLTDLLEEEIDPALGAGGLGRLAACFL
+#=GR 1ahp_A     PP ........................................................................6.789********************************************9....9*************************************************************************
+PHSM_STRPN         ........................................................................m-------LSLQEFVQNRYNKTIAECSN----EELYLALLNYSK------.LASSQKPVNTGKKKVYYISAEFLIGKLLSNNLINLGLYDDVKKELAAAGKDLIEVEEVELEPSLGNGGLGRLAACFI
+#=GR PHSM_STRPN PP ........................................................................5.......79******************....9***********.......899**************************************************************************
+PHS2_SOLTU         matfavsglnsississfnnnfrsknsnillsrrrillfsfrrrrrsfsvssvasdqkqktkdsssdegftld-VFQPDSTSVLSSIKYHAEFTPSFSPEKFELPKAYYATAESVRDTLIINwNATYEFYEKMNVKQAYYLSMEFLQGRALLNAIGNLGLTGPYADALTKLGYSLEDVARQEPDAALGNGGLGRLASCFL
+#=GR PHS2_SOLTU PP ************************************************************************6.6899**************************************************************************************************************************
+#=GC PP_cons       ..........................................................................7899**9*****************************************.9****************************************************************************
+#=GC RF            .........................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a8i_              DSMATLGLAAYGYGIRYEFGIFNQKICGGWQMEEADDWLRYGNPWEKARPEFTLPVHFYGRVEHTsq.gaKWVDTQVVLAMPYDTPVPGYRNNVVNTMRLWSAKAP...--------NGYIQAVLDRNLAENISRVLYPNDNFFEGKELRLKQEYFVVAATLQDIIRRFKSSKf.rTNFDAFPDKVAIQLNDTHPSLAIP
+#=GR 1a8i_      PP ****************************************************************99*.*************************************8...........99*****************************************************99.9************************
+1ahp_A             DSMATVGQSATGYGLNYQYGLFRQSFVDGKQVEAPDDWHRSNYPWFRHNEALDVQVGIGGAVTKD....gRWEPEFTITGQAWDLPVVGYRNGVAQPLRLWQATHAh.pFDLTKFNDGDFLRAEQQGINAEKLTKVLYPNDNHTAGKKLRLMQQYFQCACSVADILRRHHLAG...RELHELADYEVIQLNDTHPTIAIP
+#=GR 1ahp_A     PP *****************************************************************....9***********************************99.9****************************************************************...************************
+PHSM_STRPN         DSIATLGLNGDGVGLNYHFGLFQQVLKNNQQETIPNAWLTEQN-WLV-RSSRSYQVPFA------.....----DFTLTSTLYDIDVTGYETATKNRLRLFDLDS-...VDSSIIKDGINFDKT---DIARNLTLFLYPDDSDRQGELLRIFQQYFMVSNGAQLIIDEAIEKG...SNLHDLADYAVVQINDTHPSMVIP
+#=GR PHSM_STRPN PP *******************************************.*99.***********...............9******************************....8*************9...9*********************************************...************************
+PHS2_SOLTU         DSMATLNYPAWGYGLRYQYGLFKQLITKDGQEEVAENWLEMGNPWEIVRNDISYPVKFYGKVIEGadgrkEWAGGEDITAVAYDVPIPGYKTKTTINLRLWTTKLAaeaFDLYAFNNGDHAKAYEAQKKAEKICYVLYPGDESLEGKTLRLKQQYTLCSASLQDIIARFEKRSgnaVNWDQFPEKVAVQMNDTHPTLCIP
+#=GR PHS2_SOLTU PP ****************************************************************999**9**********************************99999**************************************************************999999***********************
+#=GC PP_cons       ****************************************************************9.....***********************************9...9***************************************************************...************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+
+1a8i_              ELMRVLVDLERLDWDKAWEVTVKTCAYTNHTVIPEALERWPVHLLETLLPRHLQIIYEINQRFLNRVAAAFPGD.VDRLR.RMSLVEEg.................................................................................avKRINMAHLCIAGSHAVNGVARIHSEILK
+#=GR 1a8i_      PP **************************************************************************.*****.*****998.................................................................................99****************************
+1ahp_A             ELLRVLIDEHQMSWDDAWAITSKTFAYTNHTLMPEALERWDVKLVKGLLPRHMQIINEINTRFKTLVEKTWPGD.EKVWA.KLAVVHD....................................................................................KQVHMANLCVVGGFAVNGVAALHSDLVV
+#=GR 1ahp_A     PP **************************************************************************.*****.*******....................................................................................****************************
+PHSM_STRPN         ELIRLLTA-RGIDLDEAISIVRSMTAYTNHTILAEALEKWPLEFLQEVVPHLVPIIEELDRR----VKAEYKD-.-PAVQ.IIDESG-....................................................................................-RVHMAHMDIHYGYSVNGVAALHTEILK
+#=GR PHSM_STRPN PP *******9.*****************************************************....*******...****.*****9......................................................................................***************************
+PHS2_SOLTU         ELLRILMDVKGLSWKQAWEITQRTVAYTNHTVLPEALEKWSFTLLGELLPRHVEIIAMIDEELLHTILAEYGTEdLDLLQeKLNQMRIldnveipssvlellikaeesaadvekaadeeqeeegkddskdeeteavkaettneeeetevkkvevedsqakikrifgphpnkpQVVHMANLCVVSGHAVNGVAEIHSEIVK
+#=GR PHS2_SOLTU PP ***********************************************************************99879***99***********************************************************************************************************************
+#=GC PP_cons       *************************************************************************9.*****.******9....................................................................................****************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxx....................................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a8i_              KTIFKDFYELEPHKFQNKTNGITPRRWLVLCNPGLAEIIAERIG.EEYISDLDQLRKLLSYVDDEAFIRDVAKVKQENKLKFAAYLEREYKVHINPNSLFDVQVKRIHEYKRQLLNCLHVITLYNRIKKEPNKF....VVPRTVMIGGKAAPGYHMAKMIIKLITAIGDVVNHDPVVGDRLRVIFLENYRVSLAEKVIPA
+#=GR 1a8i_      PP ********************************************.*****************************************************************************************....**************************************************************
+1ahp_A             KDLFPEYHQLWPNKFHNVTNGITPRRWIKQCNPALAALLDKSLQ.KEWANDLDQLINLVKLADDAKFRDLYRVIKQANKVRLAEFVKVRTGIDINPQAIFDIQIKRLHEYKRQHLNLLRILALYKEIRENPQAD....RVPRVFLFGAKAAPGYYLAKNIIFAINKVADVINNDPLVGDKLKVVFLPDYCVSAAEKLIPA
+#=GR 1ahp_A     PP ********************************************.*****************************************************************************************....**************************************************************
+PHSM_STRPN         NSELKAFYDLYPEKFNNKTNGITFRRWLMHANPRLSHYLDEILG.DGWHHEADELEKLLSYEDKAVVKEKLESIKAHNKRKLARHLKEHQGVEINPNSIFDIQIKRLHEYKRQQMNALYVIHKYLDIKAGNIP-....ARPITIFFGGKAAPAYTIAQDIIHLILCMSEVIANDPAVAPHLQVVMVENYNVTAASFLIPA
+#=GR PHSM_STRPN PP ********************************************.****************************************************************************************.....9*************************************************************
+PHS2_SOLTU         DEVFNEFYKLWPEKFQNKTNGVTPRRWLSFCNPELSEIITKWTGsDDWLVNTEKLAELRKFADNEELQSEWRKAKGNNKMKIVSLIKEKTGYVVSPDAMFDVQIKRIHEYKRQLLNIFGIVYRYKKMKEMSPEErkekFVPRVCIFGGKAFATYVQAKRIVKFITDVGETVNHDPEIGDLLKVVFVPDYNVSVAEVLIPG
+#=GR PHS2_SOLTU PP ********************************************9*************************************************************************************998878889*************************************************************
+#=GC PP_cons       ********************************************.***************************************************************************************99....**************************************************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+1a8i_              ADLSEQISTAGTEASGTGNMXFMLNGALTIGTMDGANVEMAEEAGEENFFIFGMRVEDVDRLDQRG.YNAQEYYDRIPELRQIIEQLSSGFFSPKQPDLFKDIVNMLMH......HDRFKVFADYEEYVKCQERVSALYKNPREWTRMVIRNIATSGKFSSDRTIAQYAREIWGVEPsrqrlp
+#=GR 1a8i_      PP ******************************************************************.******************************************......***********************************************************996******
+1ahp_A             ADISEQISTAGKEASGTGNMKLALNGALTVGTLDGANVEIAEKVGEENIFIFGHTVKQVKAILAKG.YDPVKWRKKDKVLDAVLKELESGKYSDGDKHAFDQMLHSIGKq....gGDPYLVMADFAAYVEAQKQVDVLYRDQEAWTRAAILNTARCGMFSSDRSIRDYQARIWQAA-r.....
+#=GR 1ahp_A     PP ******************************************************************.****************************************998....89*********************************************************987.6.....
+PHSM_STRPN         CDISEQISLASKEASGTGNMKFMLNGALTLGTMDGANVEIAELVGEENIYIFGEDSETVIDLYAKAaYKSSEFYAREAIKPLVDFIVSDAVLAAGNKERLERFYNELIN......KDWFMTLLDLEDYIKVKEQMLADYEDRDAWLDKVIVNISKAGFFSSDRTIAQYNEDIWHLN-......
+#=GR PHSM_STRPN PP *****************************************************************99******************************************......***********************************************************86.......
+PHS2_SOLTU         SELSQHISTAGMEASGTSNMKFSMNGCLLIGTLDGANVEIREEVGEDNFFLFGAQAHEIAGLRKER.-AEGKFVP-DPRFEEVKAFIRTGVFGT---YNYEELMGSLEGnegygrADYFLVGKDFPDYIECQDKVDEAYRDQKKWTKMSILNTAGSFKFSSDRTIHQYARDIWRIEPvelp..
+#=GR PHS2_SOLTU PP *****************************************************************9..9******.******************...**********99999999************************************************************96****..
+#=GC PP_cons       ******************************************************************.*****************************************9......***********************************************************976......
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

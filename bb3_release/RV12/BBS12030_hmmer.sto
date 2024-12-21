@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+1d0e_A            ..l-AVR.QAPLIIPLKATSTPVSIKQYPMSQEARLGIKPHIQRLLDQGILVPCQ..SPWNTPLLPVKKPGTNDYRPVQDLREVNKRVEDIHPTVPNPYnLLSGLPPSHqWYTVLDLKDAFFCLRLHPTSQPLFAFEWRDPEMGISG-QLTWTRLPQGFKNSPTLFDEALHRDLADFRIQHPDLILLQYVDDLLLAATS.
+#=GR 1d0e_A    PP ..7.578.99*********************************************..******************************************899*****999*************************************.9**************************************************.
+1bqm_A            .pi--SP.IETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGpeNPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP.HPAGLKKKK.SVTVLDVGDAYFSVPLDEDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFKKQNPDIVIYQYMDDLYVGSDLe
+#=GR 1bqm_A    PP .86..56.99********************************************999******************************************.*********.****************************************************************************************99
+POL_CAEVC         lee--KR.IPITKVKLKEGCTGPHVPQWPLTEEKLKGLTEIIDKLVEEGKLGKAPphWTCNTPIFCIKKKS-GKWRMLIDFRELNKQTEDLTEAQLGLP.HPGGLQKKK.HVTILDIGDAYFTIPLYEPYREYTCFTLLSPNNLGPCKRYYWKVLPQGWKLSPSVYQFTMQEILEDWIQQHPEIQFGIYMDDIYIGSDLe
+#=GR POL_CAEVC PP 864..45.999*******************************************999**************.***************************.*********.****************************************************************************************99
+POL_BIV06         ..h-TEK.IEPLPVKVRG--PGPKVPQWPLTKEKYQALKEIVKDLLAEGKISEAAwdNPYNTPVFVIKKKGTGRWRMLMDFRELNKITVKGQEFSTGLP.YPPGIKECE.HLTAIDIKDAYFTIPLHEDFRPFTAFSVVPVNREGPIERFQWNVLPQGWVCSPAIYQTTTQKIIENIKKSHPDVMLYQYMDDLLIGSNR.
+#=GR POL_BIV06 PP ..5.789.**********..**********************************9999*****************************************.*********.****************************************************************************************9.
+POL_MPMV          .ap--QQcAEPITWKSDE---PVWVDQWPLTNDKLAAAQQLVQEQLEAGHITESS..SPWNTPIFVIKKKS-GKWRLLQDLRAVNATMVLMGALQPGLP.SPVAIPQGY.LKIIIDLKDCFFSIPLHPSDQKRFAFSLPSTNFKEPMQRFQWKVLPQGMANSPTLCQKYVATAIHKVRHAWKQMYIIHYMDDILIAGKD.
+#=GR POL_MPMV  PP .86..45599********...**********************************..**************.***************************.*********.*****************************************************************************************.
+POL_RSVP          val---HlAIPLKWKPDH--TPVWIDQWPLPEGKLVALTQLVEKELQLGHIEPSL..SCWNTPVFVIRKAS-GSYRLLHDLRAVNAKLVPFGAVQQGAP.VLSALPRGW.PLMVLDLKDCFFSIPLAEQDREAFAFTLPSVNNQAPARRFQWKVLPQGMTCSPTICQLVVGQVLEPLRLKHPSLCMLHYMDDLLLAASS.
+#=GR POL_RSVP  PP 876...44789*******..***********************************..**************.***************************.*********.*****************************************************************************************.
+#=GC PP_cons      ....666.99*********************************************..******************************************.*********.*****************************************************************************************.
+#=GC RF           ...xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+1d0e_A            ELDCQQGTRALLQTLGNLGYRASAKKAQIcQKQVKYLGYLLKEGQ-r
+#=GR 1d0e_A    PP *****************************9************976.6
+1bqm_A            IGQHRTKIEELRQHLLRWGLTTPDKKHQK.EPPFLWMGYELHPDKW.
+#=GR 1bqm_A    PP 9****************************.**************98.
+POL_CAEVC         IKKHREIVKDLANYIAQYGFTLPEEKRQK.GYPAKWLGFELHPQTW.
+#=GR POL_CAEVC PP 9****************************.*************998.
+POL_BIV06         -DDHKQIVQEIRDKLGSYGFKTPDEKVQE.-ERVKWIGFELTPKKW.
+#=GR POL_BIV06 PP .9**************************9..99***********98.
+POL_MPMV          GQQVLQCFDQLKQELTAAGLHIAPEKVQL.QDPYTYLGFELNGPK-i
+#=GR POL_MPMV  PP *****************************.***********9887.6
+POL_RSVP          HDGLEAAGEEVISTLERAGFTISPDKVQR.EPGVQYLGYKLGSTY-v
+#=GR POL_RSVP  PP *****************************.***********9876.6
+#=GC PP_cons      *****************************.************9888.
+#=GC RF           xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.
+//

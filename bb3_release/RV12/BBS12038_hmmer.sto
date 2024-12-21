@@ -1,0 +1,48 @@
+# STOCKHOLM 1.0
+
+12ca_              .WGYGKHN..GPEHWHKDF.....PIAK.GERQSPVDIDTHTAKYDPSLKPLSV-SYD........QATSLRILNNGHAFNVEFDDs.qdKAVLKGGPLDG....................TYRLIQFHFHWG.SLDG.QGSEHTVDKKKYAAELHLAHWN-TKYGDFGKAVQQPDGLAVLGIFLKVG..SAKPGLQKVV
+#=GR 12ca_      PP .*******..*********.....****.*************************.***........******************999.999**********....................************.****.**********************.88************************..**********
+1jcz_A             .WTYFGPD..GENSWSKKY.....PSCG.GLLQSPIDLHSDILQYDASLTPLEF-QYN........LSKQFLLTNNGHSVKLNLPS....DMHIQG--LQS....................RYSATQLHLHWG.NPND.HGSEHTVSGQHFAAELHIVHYNSDLYPDASTASNKSEGLAVLAVLIEMG..SFNPSYDKIF
+#=GR 1jcz_A     PP .*******..*********.....****.*************************.***........********************....*****9..667....................9***********.****.*************************************************..**********
+1znc_A             .WCYEVQA..VPVKWG---.....GNCQ.KDRQSPINIVTTKAKVDKKLGRFFF-SYD........KKQTWTVQNNGHSVMMLLEN....KASISGGGLPA....................PYQAKQLHLHWS.DLPY.KGSEHSLDGEHFAMEMHIVHEKEKTSRNVKEAQDPEDEIAVLAFLVEAG..QVNEGFQPLV
+#=GR 1znc_A     PP .*******..******........9***.*************************.***........********************....***********....................************.****.********************9966666**********************..**********
+1kop_A             .WGYTGHD..SPESWGNLSe..efRLCStGKNQSPVNIT---ETVSGKLPAIKV-NY-........KPSMVDVENNGHTIQVNYPE...gGNTLTVNGR--....................TYTLKQFHFHV-.----.-PSENQIKGRTFPMEAHFVHLDEN------------KQPLVLAVLYEAG..KTNGRLSSIW
+#=GR 1kop_A     PP .*******..******9998..8999*99*********9...7899********.88.........9*******************...99*****999......................8**********........*******************9955............999**********..**********
+CAH_ANASP          .WGYIGKV..GPEHWGELSp..dfALCQiGRKQTPIDLQIADVKDVHSSSQDLLVTNY........QPTALHLINNGKTVQVNYQP....GSYLKYAHQ--....................KFELLQFHFHH-.----.-FSEHRVDGKLYDMELHLVHRSK------------SGDLAVMGIFLQAG..AFNPTLQIIW
+#=GR CAH_ANASP  PP .*******..*******998..889***********************9999999999........********************....******888......................8**********........*******************984............5*************..**********
+CAH1_CHLRE         d-HWDHGL..NGENWEGKDgagnaWVCKtGRKQSPINVPQYQVLDGKGSKIANGLQTQwsypdlmsNGTSVQVINNGHTIQVQWTYnyagHATIAIPAMHNqtnrivdvlemrpndaadrvTAVPTQFHFHS-.----.-TSEHLLAGKIYPLELHIVHQVTE-----KLEACKGGCFSVTGILFQLDngPDNELLEPIF
+#=GR CAH1_CHLRE PP 5.8999**..********99***********************************99999*****99******************999*9*********99*******************************........*********************88.....899****************9889*********
+CAH9_MOUSE         .WSYG---..GTLLWPQVS.....PACA.GRFQSPVDIRLERTAFCRTLQPLELLGYEl......qPLPELSLSNNGHTVQLTLPP....GLKMALGPGQ-....................EYRALQLHLHWG.TSDH.PGSEHTVNGHRFPAEIHVVHLS-TAFSELHEALGRPGGLAVLAAFLQES.pEENSAYEQLL
+#=GR CAH9_MOUSE PP .7777.....7889*****.....****.*****************************9......8889*****************....*********6.....................************.****.**********************.78************************.999********
+CAH3_CAEEL         .WSYCDDDecGPNRWP---.....---T.GQHQSPINIDLGEVERKDTHDGIKFVNYD........HPIQGDIVNNGHSVQMTPELr.seHPEIYGGGLDQ....................VYRLVQYHFHWG.ENDN.EGSEHTLGGLRYPAELHLVHQG----------VEDPGKLAVVGVFLQLG..KEGKALSNEE
+#=GR CAH3_CAEEL PP .9***999899*****...........9.*****************************........*****************9988.88***********....................************.****.********************65..........88***************..**********
+PTPZ_HUMAN         .WSYTGAL..NQKNWGKKY.....PTCN.SPKQSPINIDEDLTQVNVNLKKLKFQGWDk......tSLENTFIHNTGKTVEINLTN....DYRVSGGVSEM....................VFKASKITFHWGkCNMSsDGSEHSLEGQKFPLEMQIYCFDADRFSSFEEAVKGKGKLRALSILFEVG.tEENLDFKAII
+#=GR PTPZ_HUMAN PP .*******..*********.....****.*****************************8......8899*****************....***********....................************977777*************************************************.8899999****
+CAH6_HUMAN         .WTYSEGA.lDEAHWPQHY.....PACG.GQRQSPINLQRTKVRYNPSLKGLNMTGYE.......tQAGEFPMVNNGHTVQIGLPS....TMRMTVADGT-....................VYIAQQMHFHWGgASSEiSGSEHTVDGIRHVIEIHIVHYN-SKYKTYDIAQDAPDGLAVLAAFVEVKnyPENTYYSNFI
+#=GR CAH6_HUMAN PP .9**9988.8*********.....****.*****************************.......99*******************....*********6.....................************877778**********************.89************************999*********
+#=GC PP_cons       .99*****..*********.....****.*****************************........9*******************....********999....................9***********.9999.********************9978899********9*************..**********
+#=GC RF            .xxxxxxx..xxxxxxxxx.....xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxx....................xxxxxxxxxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxx
+
+12ca_              DVLDSIKTKGKSADFTN...FDPRGLLPES.LDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFNGEGE.....pEELMVDNWRPAQPLKNRQIK-a.
+#=GR 12ca_      PP *****************...**********.**********************************************99.....999****************97.6.
+1jcz_A             SHLQHVKYKGQEAFVPG...FNIEELLPET.AEYYRYRGSLTTPPCNPTVLWTVFRNPVQISQEQLLALETALYCTHMD.....dPSPMINNFRQVQKFDERLVY-t.
+#=GR 1jcz_A     PP *****************...**********.**********************************************99.....899****************97.6.
+1znc_A             EALSNIPKPEMSTTMAE...SSLLDLLPKK.LHYFRYLGSLTTPTCDEKVVWTVFREPIQLHREQILAFSKLYYDKEQ-......TVSMKDNVRPLQQLGQRTVIK..
+#=GR 1znc_A     PP *****************...**********.*******************************************9999.......7*****************985..
+1kop_A             NVMP--MTAGKVKLNQP...FDASTLLPKR.LKYYRFAGSLTTPPCTEGVSWLVLKTYDHIDQAQAEKFTRAVG-----......----SENNRPVQPLNARVVIE..
+#=GR 1kop_A     PP ****..***********...**********.******************************************5...............6899**********985..
+CAH_ANASP          DATP--QNQGTDKRIEDi.nIDASQFLPAQ.HRFFTYSGSLTTPPCSENVLWCVMATPIEASPAQIAKFSQMFP-----......-----QNARPVQPLNDRLVIE..
+#=GR CAH_ANASP  PP ****..**********97.7899*******.******************************************6................79***********985..
+CAH1_CHLRE         ANMP--SREGTFSNLPAgttIKLGELLPSD.RDYVTYEGSLTTPPCSEGLLWHVMTQPQRISFGQWNRYRLAVGLKECNstetaaDAGHHHHHRRLLHNHAHLE--ev
+#=GR CAH1_CHLRE PP ****..*********99999**********.***********************************************9999999999***********99976..68
+CAH9_MOUSE         SHLEEISEEGSKIEIPG...LDVSALLPSDlSRYYRYEGSLTTPPCSQGVIWTVFNETVKLSAKQLHTLSVSLWGPRDS......--RLQLNFRATQPLNGRTIE-a.
+#=GR CAH9_MOUSE PP *****************...******************************************************99995........****************97.6.
+CAH3_CAEEL         RVLGKLCNPETVTRVEN...VRLSEKLPANkRSFWRYEGSLTTPPCSEIVTWTIFTEPVTVTHDQLELFRQVQDIEKR-......--PIKKNYRPTQNLNDRKIV-h.
+#=GR CAH3_CAEEL PP *****************...**********9******************************************99988.........8**************997.5.
+PTPZ_HUMAN         DGVESVSRFGKQAALDP...FILLNLLPNStDKYYIYNGSLTSPPCTDTVDWIVFKDTVSISESQLAVFCEVLTMQQSGyv..mlMDYLQNNFREQQYKFSRQVF-s.
+#=GR PTPZ_HUMAN PP *****************...**********9***********************************************9**..********************97.6.
+CAH6_HUMAN         SHLANIKYPGQRTTLTG...LDVQDMLPRNlQHYYTYHGSLTTPPCTENVHWFVLADFVKLSRTQVWKLENSLLDHRNK......--TIHNDYRRTQPLKHRVVE-s.
+#=GR CAH6_HUMAN PP *****************...******************************************************99996........****************97.5.
+#=GC PP_cons       *****************...**********.******************************************999998......999*99***********9975..
+#=GC RF            xxxxxxxxxxxxxxxxx...xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxx..
+//

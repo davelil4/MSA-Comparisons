@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+2pna_          .-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR 2pna_  PP ........................................................................................................................................................................................................
+1mw4_A         g-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR 1mw4_A PP 6.......................................................................................................................................................................................................
+1uur_A         .---------------------------------------------------------------------------------------SSPQPILDTIYKLLSEQEQTLVQMIHEQSLLLNRLPPTLDENSLAPLKSLSQKQITLSGQMNTEMSALDATKKGMILEPTDLAKLFALKQDLQIQFKQLSLLHNEIQSILNP
+#=GR 1uur_A PP ........................................................................................79**************************************************************************************************************
+1bf5_A         .LDKQKELDSKVRNVKDKVMCIEHEIKSLEDLQDEYDFKCKTLQNREHLLLKKMYLMLDNKRKEVVHKIIELLNVTELTQNALINDELVEWKRRQQSACIGGPPNACLDQLQNWFTIVAESLQQVRQQLKKLEELEQKYTYEHDPITKNKQVLWDRTFSLFQQLIQSSFVVERQPCMPTHPQRPLVLKTGVQFTVKLRLL
+#=GR 1bf5_A PP .8******************************************************************************************************************************************************************************************************
+#=GC PP_cons   .8**************************************************************************************89**************************************************************************************************************
+#=GC RF        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+2pna_          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR 2pna_  PP ........................................................................................................................................................................................................
+1mw4_A         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR 1mw4_A PP ........................................................................................................................................................................................................
+1uur_A         QHSAPKPNVALVLKSQPFPVVISKGKQLGENQLVVLVLTGARSNFHINGPVKATMICDSHPPTTPLEMDSQPIYPATLTAHFPLKFLAGTRKCSVNLKFGVNIRDLDNVTTTVESDASNPFVVITNECQWEGSAGVLLKKDAFDGQLEITWAQFINTLQRHFLIATKQDPVRPKRPLSSYDLKYIQTHFFGNRSIIHQQD
+#=GR 1uur_A PP ********************************************************************************************************************************************************************************************************
+1bf5_A         VKLQELNYNLKVKVLFDKDVNERNTVKGFRKFNILGTHTKVMNMEESTNGSLAAEFRHLQLKEQKNAGTRTNEGPLIVTEELHSLSFETQLCQPGLVIDLETTSLPVVVISNVSQLPSGWASILWYNMLVAEPRNLSFFLTPPCARWAQLSEVLSWQFSSVTKRGLNVDQLNMLGEKLLGPNASPDGLIPWTRFCKENIN
+#=GR 1bf5_A PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons   ********************************************************************************************************************************************************************************************************
+#=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+2pna_          -----------------------LQDAEWYWGDISREEVNEKLRDT..ADGTFLVRDASTKMhGDYTLTLRKGG---..NNKLIKIFHRD--------------..----GKYGFSDP---LTFNSVVELINHYRNESLAqynpKLDVK--llypvsky
+#=GR 2pna_  PP .......................799********************..*************************9.....***********....................8******9...9****************99888778877..57******
+1mw4_A         -----------SPASGTSLSAAIHRTQLWFHGRISREESQRLIGQQglVDGLFLVRESQRNP.QGFVLSLCHLQ---..KVKHYLILPSEE-------------..---EGRLYFSMDDGQTRFTDLLQLVEFHQLNRGI...lPCLLRHCctrval..
+#=GR 1mw4_A PP ...........7899***********************************************.***********.....***********9..................9******************************...*****997******..
+1uur_A         FDKFWVWFGKSMQTLRYQRHISTLWQEGIIYGYMGRQEVNDALQNQ..DPGTFIIRFSERNP.GQFGIAYIGVEMPA..RIKHYLVQPNDTAAAKKTFPDFLSEhsQFVNLLQWTKDTNGAPRFLKLHKDTALGSFAPKRt..aPVPVGG-x.......
+#=GR 1uur_A PP **********************************************..**************.**************..*************************************************************9..***9986.7.......
+1bf5_A         DKNFPFWLWIESILELIKKHLLPLWNDGCIMGFISKERERALLKDQ..QPGTFLLRFSESSReGAITFTWVERSQNGgePDFHAVEPYTKKELSAVTFPDIIRN..YKVMAAENIPENPLKYLYPNIDKDHAFGKYYSRG....--XIKT-e.......
+#=GR 1bf5_A PP **********************************************..********************************************************..*********************************9......7776.6.......
+#=GC PP_cons   ***********99**********9**********************..**************.**************..*************************..*********************************9....9988877........
+#=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx.xxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxx........
+//

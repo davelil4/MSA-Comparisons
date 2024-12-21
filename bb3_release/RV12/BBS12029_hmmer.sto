@@ -1,0 +1,56 @@
+# STOCKHOLM 1.0
+
+1b70_A             v-DVSLPGASLFSGGLHPITLMERELVEIFRALGYQAV.EGPEVESEFFNFDALNIPEHHPARDMWDTFWLTGEGFrLEG--.-------------.......---PLGEEVEGRLLLRTHTSPMQVRYMVAHTP-....PFRIVVPGRVFRFEQTDATHEAVFHQLEGLVVGEGIAMAHLKGAIYELAQALFGPdsKVR
+#=GR 1b70_A     PP 5.8999********************************.*********************************99974444..........................4899***********************99.....******************************************************999***
+SYFA_BACTN         l-DLTRSAYPIELGTRHPITIVKNEVIDIFARLGFSIA.EGPEIEDDWHVFSALNFAEDHPARDMQDTFFIEAH--.---P-.-------------.......-----------DVVLRTHTSSVQTRVMETSKP-....PIRIICPGRVYRNEAISYRAHCFFHQVEALYVDKNVSFTDLKQVLLLFAKEMFGTdtKIR
+#=GR SYFA_BACTN PP 5.8999********************************.*********************************66......4.................................69***************9998.....******************************************************999***
+SYFA_MYCGA         .YDLMIPALDLVDGSIHPLNLVVNQIVDFFKKFNFTIV.NYPELVTTKHCFDDLNIPLDHPGRSKTDTFYVS----.-----.-------------.......----------DKQLLRTHCTAGTIEAIAAMNKH...kDIRVISFGNVYRNDTDDATHSHQFMQMDFMWVNKDLSLSNLKWFVTKFIEHMFGNdlKTR
+#=GR SYFA_MYCGA PP .9************************************.********************************9.........................................468*****************999...8*******************************************************999**
+SYFA_ARATH         .YNFKAKGAPVDAGHLHALLKVRKQFKDIFVQMGFEEMpTNNYVESSFWNFDALFQPQQHPARDSHDTFFLKVPSTtRTLPE.DYVERVKRVHESGgyg.srgYNYDWKREEANKNLLRTHTTAVSSRMLYALAQKp.fvPKKYFSIDRVFRNEAVDRTHLAEFHQIEGLICDRGLTLGDLIGVLEDFFSRLGMS..KLR
+#=GR SYFA_ARATH PP .99***********************************999**********************************99*****.****************.**********************************999.999******************************************************..***
+SYFA_HALN1         .YNVAADAADHTPGKTHVLRQAAERVTDVLVGMGFQEM.AGPHVDADFYINDCLFMPQDHPARNHWDRFALSNPARiDELPD.ALVERVERAHREGagddgdgYHSPWDEDFARALALRGHTTSLTARHLAGLADAdveaPARYFSVEKAYRNDTLDATHLLEFFQIEGWVLADDLSVRDLMGTFREFYSQFGIH..DLQ
+#=GR SYFA_HALN1 PP .9************************************.*******************************************.*************************************************99988899*******************************************************..***
+SYFA_PYRAB         .FNIKAPVKRIYPGKKQPYRVFLDKIRRRLIEMGFIEMtVDSLIETQFWNFDALFQPQNHPAREWTDTYQLKYPEK.GYLPDeSLVSRVKEAHERGlag.srgWGYVWSPERAMLLMPRAHATALSARQLAKGIEI....PGKYFTIQRVFRPDVLDRTHLIEFNQIDGFVAGEDLTFRHLLGILKRFAIEIAGA.kKVK
+#=GR SYFA_PYRAB PP .79***********************************77999*********************************.9999889***************.************************************....****************************************************998.8***
+SYFA_PYRAE         .FDLNIEPPEYPAPVPHFFNEFLDYVREVMIGLGFEEV.RGPVLEVEFWNFDALFQAQDHPAREVHDTFYVQWSGPlETPPE.HLMESVGRVHEEK.......WRYKWDRKKALNPVLRTQTTATTIRALAERGDG....EYKVFTIGRVFRPEKLDPKHSMEFHQLDGIVVGPGLTFKHLLGQLEEIAKALGMT..KVK
+#=GR SYFA_PYRAE PP .79***********************************.*************************************999999.*************.......*********************************....*******************************************************..***
+SYFA_THEVO         .YDLDAPVSPTKSYAKHPLVYFINEIRRIFLDMGFTEM.SGHYIESALWDMDALFIPQDHPARDMQDTFYVKDSNFtIEHP-.EIEKRIKRIHERGfdg.ysgWGYRWSSDDGKKLILRTHTTVTTARYLYEHNTY....PQAIFSVEKVFRHESVDWKHLAEFYQIEGAVYDKNVSVATLKWILRTFYGKLGFE..KIR
+#=GR SYFA_THEVO PP .9************************************.************************************988888..5***************.************************************....*******************************************************..***
+SYFA_AERPE         .YNVKAEPPRVLPARRHFLAEFIERLRDILRELGFREV.RGPLVELELFNFDVLFQAQDHPAREIHDSLWIKSPRRgDLSGYsDLVERVASVHERG.......WKYRWSPEVASRYILRSQTTAVSARILATRPNP....PARFFTVGKVFRSDAVGPTRLPEFHQLDGIEGDEGYTFRDLLGRLDEIASMLGL-..KLK
+#=GR SYFA_AERPE PP .9************************************.*************************************7666667*************.......*********************************....*****************************************************9...9**
+SYFA_METJA         .YDVKVPTKPIYPAKVHPLTRIIREVKEILLAMGFKEV.KSPIVETEFWNFDMLFEPQDHPAREMQDTFFLKYPNE.GDIPE.DLLSKVKEVHERC.......WKYKFDENVSRRLILRTHTTASSIRYLASLSDEeknkPHKVFCIDRVFRNEAIDYKHLPEFYQCEGIIMDDNVNFNNLIGVLKEFLNRLGFE..KVR
+#=GR SYFA_METJA PP .9************************************.*************************************.*****.*************.......****************************998877788*******************************************************..***
+SYFA_METAC         .YRLDIAPNPLYGVKIHPYRRLIEQMRQIFLEMGFTEI.KGGIIQSSFWNFDALFQPQDHPARDMQDTFHLGSIC-.-QLPA.EYSDKVAAMHESGgdidscgWGGIWDRELARRNVLRTHTTSVTIKYLADNPEP....PVKAFCIDRAYRRETIDPTHTPEFEQLEGVVMDKDMSFADLLGLLAEFYHRMGFE..EVR
+#=GR SYFA_METAC PP .899**********************************.*********************************997...9***.*****************************************************....*******************************************************..***
+SYFA_SULSO         .YNVEAFPPYYTISKKHYFREFLEKVKDIMISLGFKEI.NTGYIEMEFYNFDLLFQPQDHPAREIHDSFSVEGSGK.--IEDkDLLNNVKEIHEKF.......WKYEWKQDITLRLMLRSQTTATTARVLASRPKA....PQKVFTLGKVFRPDAIDATHLIEFHQLDGVIIDNNFTFKELLGVLKEIFYRLGIK..EVK
+#=GR SYFA_SULSO PP .9************************************.*********************************9984...44448************.......*********************************....*******************************************************..***
+#=GC PP_cons       .89***********************************.*********************************9999.88888.9************.......***9******99*******************99....*******************************************************..***
+#=GC RF            .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxx
+
+1b70_A             FQPVYFPFVEPGAQFAVWWPE..........gGKWLELGGAGMVHPKVFQAVdayrerlGLPpayrgVTGFAFGLGVERLAMLRYGIPDIRYFFG..GRLKFLEQFKG--vl
+#=GR 1b70_A     PP *******************99..........89*******************7777777666999999***************************..********986..58
+SYFA_BACTN         LRPSYFPFTEPSAEMDISCNIcggkgcpfckhTGWVEILGCGMVDPNVLESN.......GIDs..kvYSGYALGMGIERITNLKYQVKDLRMFSE..NDTRFLKEFEAAY..
+#=GR SYFA_BACTN PP ********************99******************************.......***9..988999************************..*********9865..
+SYFA_MYCGA         FRLSHFPFTEPSFEVDVECWNcqsgc.flckkTRWIEIMGSGILHPKVLEAA.......HIDp..ekMVGIAAGIGIERIAMLKNNITDIRDFYF..NDFRFIKQFY---e.
+#=GR SYFA_MYCGA PP **************************.*************************.......***9..9999**************************..*******996...7.
+SYFA_ARATH         FKPAYNPYTEPSMEIFSYHEG..........lGKWVEIGNSGMFRPEMLLPM.......GLPe...dVRVIAWGLSLERPTMILYGIDNIRDLFGhkVDLDLIKRNPIC-r.
+#=GR SYFA_ARATH PP *********************..........99*******************.......**98...89*************************9866899999998765.7.
+SYFA_HALN1         FKPTYNPYTEPSFELFGRHPE..........tGELIEIGNSGIFRPEMLDPL.......DVD.....GDVMAWGLALERLLMLMTGFEDIRDVHGtlCDVGFLRNAEVVY..
+#=GR SYFA_HALN1 PP ********************9..........7789*****************.......***.....***************************9999********9976..
+SYFA_PYRAB         FFPDYYPFTEPSVQLSAYHPE...........LGWVEFGGAGVFREEMTEAL.......GIK.....VPVIAWGIGIDRLAMFKLGIDDIRYLFS..YDLRWLREAKLIW..
+#=GR SYFA_PYRAB PP *********************...........********************.......***.....****************************..*********9876..
+SYFA_PYRAE         FRPAYFPFTSPSVEVYAQHPK...........LGWVEFGGAGIFRPEVTEPL.......GVK....kSRVLAWGWGLDRIAMILLGIDDIRELFT..KDLEKLKEYYARW..
+#=GR SYFA_PYRAE PP *********************...........********************.......***....99***************************..*********9876..
+SYFA_THEVO         LVPSYYPYTEPSLDVVVEVDG...........-KEMELGGSGIFRPEVGKIL.......GLK.....APVMAWGMGLERLAMLYYGLTDVRDLYN..TDFSFLEGYKIKY..
+#=GR SYFA_THEVO PP *******************98............99*****************.......***.....****************************..********99876..
+SYFA_AERPE         FKPAYFPFTEPSVEGYVKLPN...........GRWLELFGAGMFRPEVLEAV.......GVD.....YPVGAWGFGIERLAMAFYGVSDIRKLYT..RNVDEVREMRVRW..
+#=GR SYFA_AERPE PP *********************...........********************.......***.....****************************..*********9986..
+SYFA_METJA         FRPAYFPFTEPSLEAEVYLEG...........KGWLEILGAGIFRPEVLEPI.......GIE.....KPVLAWGIGFSRLAMLRYGLTDIRDLHK..NDLDWLKR-----v.
+#=GR SYFA_METJA PP *********************...........********************.......***.....****************************..******97.....6.
+SYFA_METAC         FRPGYFPYTEPSVEPEVYVDG...........LGWVELGGAGVFRKEVTEPF.......GIK.....EPVLAWGLGVSRLAMLKLGLKDLRLLYQ..SDIDWLRKSEVC-r.
+#=GR SYFA_METAC PP *********************...........********************.......***.....****************************..********9987.6.
+SYFA_SULSO         FKPAYFPFTEPSVEAYGYLEK...........LGWVEMCGAGLLRPEILSSV.......GID.....STAGAWGIGIERLAMSFLNISDIRLLYS..NNIEYIRDTKVK-i.
+#=GR SYFA_SULSO PP *********************...........********************.......***.....****************************..********9986.6.
+#=GC PP_cons       *********************...........********************.......**9.....****************************..*******999876..
+#=GC RF            xxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxx.......xxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx..
+//
